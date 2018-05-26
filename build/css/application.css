@@ -248,6 +248,10 @@ a:hover, a:focus {
 .vantworks-header {
   margin-top: 70px; }
 
+.page-header-logo {
+  margin: 20px auto;
+  width: 300px; }
+
 .page-container {
   box-shadow: 0 0 8px 2px rgba(0, 0, 0, 0.08); }
 
@@ -385,6 +389,9 @@ a:hover, a:focus {
   .about p {
     font-size: 17px; }
 
+.bodhan-bg {
+  background: #f3edb1; }
+
 .row.footer {
   height: 200px;
   bottom: 0;
@@ -454,7 +461,6 @@ a:hover, a:focus {
     transition: all ease-in-out 200ms;
     text-align: center;
     opacity: 0;
-    text-transform: uppercase;
     display: flex;
     align-items: center;
     justify-content: center; }

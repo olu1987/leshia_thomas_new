@@ -55,7 +55,7 @@
                             </h3>
                         </div>
                     </a>
-                    <a data-link="simplestream-react-tvguide.php" class="tile col-md-4 col-sm-6 bodhan fade-out-link">
+                    <a data-link="bodhan.php" class="tile col-md-4 col-sm-6 bodhan fade-out-link">
                         <img class="img-responsive" src="img/bodhan-tile.png"/>
                         <div class="title-wrap">
                             <h3>Bodhan Consulting<br>
