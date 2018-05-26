@@ -189,7 +189,7 @@ html, body {
   height: 100%; }
 
 body {
-  font-family: 'Space Mono', monospace; }
+  font-family: 'Lora', serif; }
 
 a:hover, a:focus {
   text-decoration: none !important; }
@@ -209,12 +209,12 @@ a:hover, a:focus {
   display: inline-block; }
 
 .header {
-  min-height: 660px;
-  padding-top: 200px;
+  min-height: 280px;
+  padding-top: 68px;
   position: relative;
   text-align: center; }
   .header h1 {
-    font-size: 102px;
+    font-size: 60px;
     margin-bottom: 10px;
     margin-top: 10px;
     z-index: 20;
@@ -224,8 +224,7 @@ a:hover, a:focus {
     margin-left: auto;
     margin-right: auto; }
     .header h1 small {
-      text-transform: uppercase;
-      font-size: 30px; }
+      font-size: 20px; }
   .header img.logo {
     width: 70px; }
   .header .overlay {
@@ -234,15 +233,7 @@ a:hover, a:focus {
     width: 100%;
     z-index: 10;
     top: 0;
-    border-bottom: 20px solid #d3c34e;
-    background: #fafafa;
-    background: -moz-linear-gradient(left, #fafafa 0%, #fafafa 22%, #444444 100%);
-    background: -webkit-gradient(left top, right top, color-stop(0%, #fafafa), color-stop(22%, #fafafa), color-stop(100%, #444444));
-    background: -webkit-linear-gradient(left, #fafafa 0%, #fafafa 22%, #444444 100%);
-    background: -o-linear-gradient(left, #fafafa 0%, #fafafa 22%, #444444 100%);
-    background: -ms-linear-gradient(left, #fafafa 0%, #fafafa 22%, #444444 100%);
-    background: linear-gradient(to right, #fafafa 0%, #fafafa 22%, #444444 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fafafa', endColorstr='#444444', GradientType=1 ); }
+    border-bottom: 20px solid #d3c34e; }
 
 .tvp-header {
   margin-top: 100px;

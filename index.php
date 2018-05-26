@@ -12,7 +12,7 @@
                 <h1 class="pl-20">
                     .Leshia Thomas.
                     <br>
-                    <small>Digital/UI/UX Designer</small>
+                    <small>Digital designer based in London</small>
                 </h1>
                 <div class="col-md-12">
                     <div class="row">

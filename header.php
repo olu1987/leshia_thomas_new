@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="build/css/application.css">
     <script src="js/vendor/modernizr-2.8.3.min.js"></script>
-    <link href="https://fonts.googleapis.com/css?family=Space+Mono" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lora:400i" rel="stylesheet">
 </head>
 <body class="<?php
          if(isset($body)){ echo $body;}else{ echo'not-home';} ?>">
