@@ -1,11 +1,8 @@
 <div class="row footer">
     <div class="col-md-4 pt-30">
-        <p>Designed by <a class="text-uppercase leshia-link" href="http://leshiathomas.com">leshia thomas</a></p>
+        <p>Designed by <a class="text-uppercase anchor-link leshia-link"  data-anchor="home" href="#">leshia thomas</a></p>
     </div>
     <div class="col-md-4 text-center">
-        <h1 class="text-uppercase">
-            <a class="anchor-link footer-home-link" data-anchor="home" data-link="index.php">olu meduoye</a>
-        </h1>
     </div>
     <div class="col-md-4">
         <ul class="list-inline text-right mt-20">

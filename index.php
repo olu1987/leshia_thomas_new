@@ -8,13 +8,12 @@
         <div id="home" class="container">
             <div class="row text-center header">
                 <div class="overlay">
-
                 </div>
-                <h1 class="ux-header active black text-uppercase pl-20">
-                    Leshia Thomas
+                <h1 class="pl-20">
+                    .Leshia Thomas.
+                    <br>
+                    <small>Digital/UI/UX Designer</small>
                 </h1>
-                <p>I'm a digital designer from London, UK.</p>
-
                 <div class="col-md-12">
                     <div class="row">
 
