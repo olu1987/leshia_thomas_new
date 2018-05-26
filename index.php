@@ -22,7 +22,7 @@
             </div>
             <div id="portfolio" class="row portfolio">
                 <div class="col-md-12">
-                <a data-link="tvp.php" class="tile col-md-4 col-sm-6 windrush fade-out-link">
+                <a data-link="windrush.php" class="tile col-md-4 col-sm-6 windrush fade-out-link">
                         <img class="img-responsive" src="img/windrush-tile.png"/>
                         <div class="title-wrap">
                             <h3>Windrush Project<br>
