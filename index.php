@@ -108,47 +108,48 @@
 
                         </div>
                     </a>
-                    <a data-link="tvptvguide.php" class="tile col-md-4 col-sm-6 tvplayer fade-out-link">
-                        <img class="img-responsive" src="img/tvp-logo-new-md.png"/>
+                    <a data-link="tvptvguide.php" class="tile col-md-4 col-sm-6 darling fade-out-link">
+                        <img class="img-responsive" src="img/darling-tile.png"/>
                         <div class="title-wrap">
-                            <h3>Tvplayer<br>
+                            <h3>Darling<br>
                                 <small>
-                                    lazy-loading tvguide
+                                    Style look project
                                 </small>
                             </h3>
 
                         </div>
                     </a>
-                    <a data-link="tvp.php" class="tile col-md-4 col-sm-6 tvplayer two fade-out-link">
-                        <img class="img-responsive" src="img/tvp-logo-new-md.png"/>
+                    <a data-link="tvp.php" class="tile col-md-4 col-sm-6 fade-out-link">
+                        <img class="img-responsive" src="img/lefties-tile.png"/>
                         <div class="title-wrap">
-                            <h3>Tvplayer<br>
-                                <small>website build and rebrand</small>
+                            <h3>Lefties<br>
+                                <small>
+                                    Style look project
+                                </small>
                             </h3>
 
                         </div>
                     </a>
-                    <a data-link="vantworks.php" class="tile col-md-4 col-sm-6 vantworks fade-out-link">
+                    <a data-link="vantworks.php" class="tile col-md-4 col-sm-6 bershka fade-out-link">
                         <div class="col-md-12 text-center vantworks-logo-grid">
-                            <img class="img-responsive vantworks-logo" src="img/vantworks-logo.png">
-                            <h5 class="task-main-header">Vantworks</h5>
+                            <img class="img-responsive" src="img/bershka-tile.png">
                         </div>
                         <div class="title-wrap">
-                            <h3>Vantworks
+                            <h3>Bershka
                                 <br>
                                 <small>
-                                    Website upsell Landing pages
+                                   Style look project
                                 </small>
                             </h3>
                         </div>
                     </a>
-                    <a data-link="covervidz.php" class="tile col-md-4 col-sm-6 covervidz fade-out-link">
-                       <img class="img-responsive" src="img/covervidz-text-logo.png"/>
+                    <a data-link="covervidz.php" class="tile col-md-4 col-sm-6 pull-and-bear fade-out-link">
+                       <img class="img-responsive" src="img/pull-and-bear-tile.png"/>
                         <div class="title-wrap">
                             <h3>
-                                Covervidz<br>
+                                Pull and Bear<br>
                                 <small>
-                                    php web application
+                                   Style look project
                                 </small>
                             </h3>
                         </div>
