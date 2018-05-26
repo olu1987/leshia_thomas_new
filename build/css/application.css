@@ -341,7 +341,7 @@ a:hover, a:focus {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8f0222', endColorstr='#5d3f7d', GradientType=0 ); }
 
 .covervidz-solid-bg {
-  background: #5d3f7d; }
+  background: #6b3e9b; }
 
 .covervidz-bg, .covervidz-solid-bg {
   color: #ffffff; }
@@ -597,9 +597,9 @@ a:hover, a:focus {
   border-right-color: #7995d3; }
 
 .covervidz .loader-container .loader {
-  border-left-color: #5d3f7d;
-  border-top-color: #5d3f7d;
-  border-bottom-color: #5d3f7d;
+  border-left-color: #6b3e9b;
+  border-top-color: #6b3e9b;
+  border-bottom-color: #6b3e9b;
   border-right-color: #420d7d; }
 
 .tvp .loader-container .loader {
