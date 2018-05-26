@@ -476,8 +476,6 @@ a:hover, a:focus {
       width: 40px;
       display: inline-block;
       margin-top: -18px; }
-  .tile.lnt {
-    background: #cbd7df; }
   .tile.tvplayer {
     background: #fdf5d0; }
     .tile.tvplayer.two {
@@ -495,10 +493,6 @@ a:hover, a:focus {
     background: #f5d4d5; }
     .tile.leshia img {
       margin: 5px auto; }
-  .tile.covervidz {
-    background: #cbafdd; }
-    .tile.covervidz img {
-      border-radius: 10px; }
   .tile.tech {
     cursor: default;
     display: block;
@@ -513,6 +507,16 @@ a:hover, a:focus {
     background: #edd99f; }
   .tile.shotgun {
     background: #afaeb5; }
+  .tile.om {
+    background: #222a5f; }
+  .tile.bodhan {
+    background: #fbf4ba; }
+  .tile.lnt {
+    background: #a8d3e6; }
+  .tile.covervidz {
+    background: #4b2d77; }
+  .tile.harvest {
+    background: #59585b; }
 
 .leshia.grid-images .row {
   margin-top: 0; }

@@ -44,67 +44,65 @@
                             </h3>
                         </div>
                     </a>
-                    <a data-link="covervidz.php" class="tile col-md-4 col-sm-6 covervidz fade-out-link">
-                       <img class="img-responsive" src="img/om-favicon-img.png"/>
+                    <a data-link="covervidz.php" class="tile col-md-4 col-sm-6 om fade-out-link">
+                       <img class="img-responsive" src="img/om-tile.png"/>
                         <div class="title-wrap">
                             <h3>
-                                Covervidz<br>
+                                Olu Meduoye Portfolio Website<br>
                                 <small>
-                                    php web application
+                                    UI/UX Design
                                 </small>
                             </h3>
                         </div>
                     </a>
-                    <a data-link="simplestream-react-tvguide.php" class="tile col-md-4 col-sm-6 ss fade-out-link">
-                        <img class="img-responsive" src="img/simplestream-logo.png"/>
+                    <a data-link="simplestream-react-tvguide.php" class="tile col-md-4 col-sm-6 bodhan fade-out-link">
+                        <img class="img-responsive" src="img/bodhan-tile.png"/>
                         <div class="title-wrap">
-                            <h3>simplestream<br>
+                            <h3>Bodhan Consulting<br>
+                               <small>Logo and Branding</small>
+                            </h3>
+
+                        </div>
+                    </a>
+                    <a data-link="npvr.php" class="tile col-md-4 col-sm-6 lnt fade-out-link">
+                        <img class="img-responsive" src="img/lnt-tile.png"/>
+                        <div class="title-wrap">
+                            <h3>Lnt London Ecommerce Website<br>
                                 <small>
-                                    react js tvguide and live page
+                                    UI/UX, branding, project management and creative direction
                                 </small>
                             </h3>
 
                         </div>
                     </a>
-                    <a data-link="npvr.php" class="tile col-md-4 col-sm-6 tvplayer three fade-out-link">
-                        <img class="img-responsive" src="img/tvp-logo-new-md.png"/>
+                    <a data-link="tvp-react-tvguide.php" class="tile col-md-4 col-sm-6 covervidz fade-out-link">
+                        <img class="img-responsive" src="img/covervidz-tile.png"/>
                         <div class="title-wrap">
-                            <h3>Tvplayer<br>
+                            <h3>Covervidz<br>
                                 <small>
-                                    npvr frontend
+                                   Logo and branding
                                 </small>
                             </h3>
 
                         </div>
                     </a>
-                    <a data-link="tvp-react-tvguide.php" class="tile col-md-4 col-sm-6 tvplayer four fade-out-link">
-                        <img class="img-responsive" src="img/tvp-logo-new-md.png"/>
+                    <a data-link="npvr.php" class="tile col-md-4 col-sm-6 lnt fade-out-link">
+                        <img class="img-responsive" src="img/lnt-tile.png"/>
                         <div class="title-wrap">
-                            <h3>Tvplayer<br>
+                            <h3>Lnt London Ecommerce Website<br>
                                 <small>
-                                    react js tvguide
+                                    UI/UX, branding, project management and creative direction
                                 </small>
                             </h3>
 
                         </div>
                     </a>
-                    <a data-link="lnt.php" class="tile col-md-4 col-sm-6 lnt fade-out-link">
-                        <img class="img-responsive" src="img/lnt-text.png"/>
+                    <a data-link="leshiathomas.php" class="tile col-md-4 col-sm-6 harvest fade-out-link">
+                        <img class="img-responsive" src="img/harvest-tile.png"/>
                         <div class="title-wrap">
-                            <h3>lnt london<br>
+                            <h3>Harvest<br>
                                 <small>
-                                    ecommerce fashion website build
-                                </small>
-                            </h3>
-
-                        </div>
-                    </a>
-                    <a data-link="leshiathomas.php" class="tile col-md-4 col-sm-6 leshia fade-out-link">
-                        <img class="img-responsive" src="img/leshia-top-text.png"/>
-                        <div class="title-wrap">
-                            <h3>leshia Thomas<br>
-                                <small>
-                                    digital designer portfolio website
+                                    Style look project
                                 </small>
                             </h3>
 

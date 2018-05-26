@@ -53,10 +53,6 @@
     }
   }
 
-  &.lnt{
-    background: #cbd7df;
-  }
-
   &.tvplayer{
     background: #fdf5d0;
     &.two{
@@ -88,12 +84,7 @@
 
     }
   }
-  &.covervidz{
-    background: #cbafdd;
-    img{
-      border-radius: 10px;
-    }
-  }
+  
   &.tech{
     cursor: default;
     display: block;
@@ -116,6 +107,26 @@
 
   &.shotgun {
     background: #afaeb5;
+  }
+
+  &.om {
+    background: #222a5f;
+  }
+
+  &.bodhan {
+    background: #fbf4ba;
+  }
+
+  &.lnt {
+    background: #a8d3e6;
+  }
+
+  &.covervidz {
+    background: #4b2d77;
+  }
+
+  &.harvest {
+    background: #59585b;
   }
 }
 
