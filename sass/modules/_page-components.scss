@@ -36,36 +36,6 @@
   }
 }
 
-.skills-wrap{
-  height:660px;
-  position: relative;
-  margin-left: -15px;
-  margin-right: -15px;
-  overflow: hidden;
-}
-
-.skills{
-  .col-sm-6{
-    height:330px;
-    transition: 500ms ease-in-out all;
-    position: absolute;
-    z-index: 10;
-    &.text-left{
-      left:0;
-    }
-    &.text-right{
-     right:0;
-    }
-    &.lower{
-      top:330px;
-    }
-  }
-  ul{
-    list-style-type: none;
-    padding-left: 0;
-  }
-}
-
 .logo-text{
   margin: 60px auto 100px;
   display: block;

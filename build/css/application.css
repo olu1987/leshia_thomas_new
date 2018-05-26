@@ -211,7 +211,8 @@ a:hover, a:focus {
 .header {
   min-height: 660px;
   padding-top: 200px;
-  position: relative; }
+  position: relative;
+  text-align: center; }
   .header h1 {
     font-size: 102px;
     margin-bottom: 10px;
@@ -539,29 +540,6 @@ a:hover, a:focus {
     z-index: 20;
     left: -140px; }
 
-.skills-wrap {
-  height: 660px;
-  position: relative;
-  margin-left: -15px;
-  margin-right: -15px;
-  overflow: hidden; }
-
-.skills .col-sm-6 {
-  height: 330px;
-  transition: 500ms ease-in-out all;
-  position: absolute;
-  z-index: 10; }
-  .skills .col-sm-6.text-left {
-    left: 0; }
-  .skills .col-sm-6.text-right {
-    right: 0; }
-  .skills .col-sm-6.lower {
-    top: 330px; }
-
-.skills ul {
-  list-style-type: none;
-  padding-left: 0; }
-
 .logo-text {
   margin: 60px auto 100px;
   display: block; }
@@ -798,15 +776,6 @@ a:hover, a:focus {
   .header h1 {
     font-size: 50px;
     text-align: center; }
-  .skills-wrap {
-    height: auto; }
-    .skills-wrap .skills .col-sm-6 {
-      position: relative;
-      top: 0;
-      left: 0;
-      right: 0;
-      text-align: center;
-      padding-top: 15px; }
   .promo-lnt .col-md-5 {
     padding-top: 30px; }
   .lower-small-image {
@@ -814,10 +783,7 @@ a:hover, a:focus {
 
 @media (max-width: 1040px) {
   .home .header, .home .about {
-    background-image: url(../../img/olu-header.jpg);
-    background-position: center center !important;
-    background-repeat: no-repeat;
-    background-size: cover; }
+    background: #eee; }
   .home .about {
     background-image: url(../../img/sparks.jpg); } }
 
