@@ -22,6 +22,39 @@
             </div>
             <div id="portfolio" class="row portfolio">
                 <div class="col-md-12">
+                <a data-link="tvp.php" class="tile col-md-4 col-sm-6 windrush fade-out-link">
+                        <img class="img-responsive" src="img/windrush-tile.png"/>
+                        <div class="title-wrap">
+                            <h3>Windrush Project<br>
+                                <small>Logo and Branding</small>
+                            </h3>
+
+                        </div>
+                    </a>
+                    <a data-link="vantworks.php" class="tile col-md-4 col-sm-6 shotgun fade-out-link">
+                        <div class="col-md-12 text-center vantworks-logo-grid">
+                            <img class="img-responsive vantworks-logo" src="img/shotgun-tile.png">
+                        </div>
+                        <div class="title-wrap">
+                            <h3>Shotgun App
+                                <br>
+                                <small>
+                                    UI Design, Logo and branding
+                                </small>
+                            </h3>
+                        </div>
+                    </a>
+                    <a data-link="covervidz.php" class="tile col-md-4 col-sm-6 covervidz fade-out-link">
+                       <img class="img-responsive" src="img/om-favicon-img.png"/>
+                        <div class="title-wrap">
+                            <h3>
+                                Covervidz<br>
+                                <small>
+                                    php web application
+                                </small>
+                            </h3>
+                        </div>
+                    </a>
                     <a data-link="simplestream-react-tvguide.php" class="tile col-md-4 col-sm-6 ss fade-out-link">
                         <img class="img-responsive" src="img/simplestream-logo.png"/>
                         <div class="title-wrap">

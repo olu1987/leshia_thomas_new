@@ -4,7 +4,7 @@
   }
 }
 .tile{
-  height: 340px;
+  height: 370px;
   padding: 0;
   overflow: hidden;
   opacity: 1;
@@ -39,8 +39,9 @@
 
   }
 
-  img{
-    width:50%;
+  img {
+    width:70%;
+    margin: 0 auto;
   }
 
   &.vantworks{
@@ -107,6 +108,14 @@
         width:100px;
       }
     }
+  }
+
+  &.windrush {
+    background: #edd99f;
+  }
+
+  &.shotgun {
+    background: #afaeb5;
   }
 }
 

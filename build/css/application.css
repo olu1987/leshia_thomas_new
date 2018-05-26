@@ -438,7 +438,7 @@ a:hover, a:focus {
   padding: 0; }
 
 .tile {
-  height: 340px;
+  height: 370px;
   padding: 0;
   overflow: hidden;
   opacity: 1;
@@ -468,7 +468,8 @@ a:hover, a:focus {
     align-items: center;
     justify-content: center; }
   .tile img {
-    width: 50%; }
+    width: 70%;
+    margin: 0 auto; }
   .tile.vantworks {
     background: #d2c2c2; }
     .tile.vantworks img {
@@ -508,6 +509,10 @@ a:hover, a:focus {
       padding: 15px; }
       .tile.tech ul li {
         width: 100px; }
+  .tile.windrush {
+    background: #edd99f; }
+  .tile.shotgun {
+    background: #afaeb5; }
 
 .leshia.grid-images .row {
   margin-top: 0; }
