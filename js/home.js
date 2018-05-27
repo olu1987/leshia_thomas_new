@@ -6,12 +6,15 @@ var homeModule = {
         this.navButtons = document.querySelectorAll('.home .anchor-link');
         this.notHomeNavButtons = document.querySelectorAll('.not-home .anchor-link');
         this.sideBar = document.getElementById('sidebar');
+        this.infoBtn = document.getElementById('info-btn');
+        this.skills = document.getElementById('skills');
         this.toggle = document.querySelector('.nav-toggle');
         this.unbinding();
         this.binding();
     },
     binding:function(){
         window.addEventListener('load',this.loader.bind(this));
+        this.infoBtn.addEventListener('click', this.toggleSkills.bind(this));
         for(var i = 0, x = this.fadeOutLink.length; i < x; i++){
             this.fadeOutLink[i].addEventListener('click',this.fadeOutNavigation.bind(this));
         }
@@ -41,6 +44,12 @@ var homeModule = {
         setTimeout(function(){
             addClass(this.loaderContainer,'hidden');
         }.bind(this),1300)
+    },
+    toggleSkills: function(e) {
+        e.preventDefault;
+        hasClass(this.skills, 'in') ?
+        removeClass(this.skills, 'in') :
+        addClass(this.skills, 'in');
     },
     fadeOutNavigation:function (e) {
         e.preventDefault();

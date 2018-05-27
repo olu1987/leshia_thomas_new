@@ -1,4 +1,4 @@
-<?php $title = 'TVPlayer | Website Build and Rebrand';
+<?php $title = 'Bodhan Consultants | Branding';
       $spinnerLogo = 'img/bodhan-tile.png';
       $body = 'not-home bodhan'
 ?>

@@ -201,4 +201,24 @@
   }
 }
 
+.what-i-do-wrap {
+  height: 0px;
+  overflow: hidden;
+  transition: ease-in-out 300ms all;
+  background: #d3c34e;
+  &.in {
+    height: 320px;
+  }
+  @media(max-width: 991px) {
+    &.in {
+      height: 370px;
+    }
+  }
+  @media(max-width: 767px) {
+    &.in {
+      height: 570px;
+    }
+  }
+}
+
 

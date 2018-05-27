@@ -1,4 +1,4 @@
-<?php $title = 'TVPlayer | Website Build and Rebrand';
+<?php $title = 'W.S.C | Windrush Anniversary Logo';
       $spinnerLogo = 'img/windrush-tile.png';
       $body = 'not-home windrush-bg'
 ?>

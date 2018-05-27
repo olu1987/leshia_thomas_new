@@ -232,8 +232,7 @@ a:hover, a:focus {
     height: 100%;
     width: 100%;
     z-index: 10;
-    top: 0;
-    border-bottom: 20px solid #d3c34e; }
+    top: 0; }
 
 .tvp-header {
   margin-top: 100px;
@@ -402,6 +401,9 @@ a:hover, a:focus {
 .bershka-bg .loader-container {
   background: #231f20; }
 
+.info-col {
+  background: #d3c34e; }
+
 .row.footer {
   height: 200px;
   bottom: 0;
@@ -441,6 +443,17 @@ a:hover, a:focus {
   left: 0;
   right: 0;
   top: 46vh; }
+
+.info-btn, .info-btn:active, .info-btn:focus {
+  color: #ffffff;
+  border: 1px solid #ffffff;
+  border-radius: 0;
+  margin: 10px;
+  padding: 10px 35px;
+  transition: all ease-in-out 300ms; }
+  .info-btn:hover, .info-btn:active:hover, .info-btn:focus:hover {
+    background: #b7ac59;
+    color: #ffffff; }
 
 .portfolio .col-md-12 {
   padding: 0; }
@@ -701,6 +714,20 @@ a:hover, a:focus {
 
 .promo-tvp img {
   box-shadow: 0 4px 8px 0 #9c1717; }
+
+.what-i-do-wrap {
+  height: 0px;
+  overflow: hidden;
+  transition: ease-in-out 300ms all;
+  background: #d3c34e; }
+  .what-i-do-wrap.in {
+    height: 320px; }
+  @media (max-width: 991px) {
+    .what-i-do-wrap.in {
+      height: 370px; } }
+  @media (max-width: 767px) {
+    .what-i-do-wrap.in {
+      height: 570px; } }
 
 .task-description {
   padding-top: 50px;

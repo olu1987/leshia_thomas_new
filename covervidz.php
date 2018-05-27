@@ -1,4 +1,4 @@
-<?php $title = 'PHP Web Application';
+<?php $title = 'Covervidz | Branding';
       $spinnerLogo = 'img/covervidz-tile.png';
       $body = 'not-home covervidz'
 ?>

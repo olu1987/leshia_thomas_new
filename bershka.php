@@ -1,4 +1,4 @@
-<?php $title = 'TVPlayer | Womenswear - Partywear';
+<?php $title = 'Bershka | Womenswear - Partywear';
       $spinnerLogo = 'img/bershka-tile.png';
       $body = 'not-home bershka-bg'
 ?>

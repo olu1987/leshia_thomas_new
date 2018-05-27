@@ -20,6 +20,48 @@
                     </div>
                 </div>
             </div>
+            <div class="row">
+               <div class="col-md-12 text-uppercase info-col text-center">
+                 <a id="info-btn" class="btn info-btn btn-lg" href="#">info</a>
+               </div>
+            </div>
+            <div id="skills" class="row text-center what-i-do-wrap">
+               <div class="col-md-12">
+                 <h2>What I do</h2>
+               </div>
+               <div class="col-md-4 col-sm-6">
+                  <h3>UI/UX</h3>
+               </div>
+               <div class="col-md-4 col-sm-6">
+                   <h3>Ideation</h3>
+               </div>
+               <div class="col-md-4 col-sm-6">
+                  <h3>Branding</h3>
+               </div>
+               <div class="col-md-4 col-sm-6">
+                  <h3>Illustration</h3>
+               </div>
+               <div class="col-md-4 col-sm-6">
+                   <h3>Posters and Flyers</h3>
+               </div>
+               <div class="col-md-4 col-sm-6">
+                   <h3>Marketing Materials</h3>
+               </div>
+               <div class="col-md-4 col-sm-6">
+                  <h3>Business Cards</h3>
+               </div>
+               <div class="col-md-4 col-sm-6">
+                  <h3>Mood Boards</h3>
+               </div>
+               <div class="col-md-4 col-sm-6">
+                   <h3>Clothing Design</h3>
+               </div>
+               <div class="row">
+                  <div class="col-md-12">
+                    <h3>I can learn basically anything...</h3>
+                  </div>
+               </div>
+            </div>
             <div id="portfolio" class="row portfolio">
                 <div class="col-md-12">
                 <a data-link="windrush.php" class="tile col-md-4 col-sm-6 windrush fade-out-link">
