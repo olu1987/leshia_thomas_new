@@ -404,6 +404,10 @@ a:hover, a:focus {
 .shotgun-bg, .shotgun-bg .loader-container {
   background: #afaeb5; }
 
+.om-bg {
+  background: #222a5f;
+  color: #ffffff; }
+
 .info-col {
   background: #d3c34e;
   height: 87px;

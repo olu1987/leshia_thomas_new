@@ -102,7 +102,7 @@
                             </h3>
                         </div>
                     </a>
-                    <a data-link="covervidz.php" class="tile col-md-4 col-sm-6 om fade-out-link">
+                    <a data-link="om.php" class="tile col-md-4 col-sm-6 om fade-out-link">
                        <img class="img-responsive" src="img/om-tile.png"/>
                         <div class="title-wrap">
                             <h3>
