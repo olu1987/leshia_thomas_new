@@ -402,7 +402,11 @@ a:hover, a:focus {
   background: #231f20; }
 
 .info-col {
-  background: #d3c34e; }
+  background: #d3c34e;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
 
 .row.footer {
   height: 200px;
