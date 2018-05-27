@@ -401,9 +401,12 @@ a:hover, a:focus {
 .bershka-bg .loader-container {
   background: #231f20; }
 
+.shotgun-bg, .shotgun-bg .loader-container {
+  background: #afaeb5; }
+
 .info-col {
   background: #d3c34e;
-  height: 100px;
+  height: 87px;
   display: flex;
   justify-content: center;
   align-items: center; }

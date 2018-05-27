@@ -89,7 +89,7 @@
 
                         </div>
                     </a>
-                    <a data-link="vantworks.php" class="tile col-md-4 col-sm-6 shotgun fade-out-link">
+                    <a data-link="shotgun.php" class="tile col-md-4 col-sm-6 shotgun fade-out-link">
                         <div class="col-md-12 text-center vantworks-logo-grid">
                             <img class="img-responsive vantworks-logo" src="img/shotgun-tile.png">
                         </div>
