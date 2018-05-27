@@ -35,13 +35,11 @@
     <i class="fa fa-2x fa-bars" aria-hidden="true"></i>
 </a>
 <div id="sidebar" class="nav-sidebar">
-    <ul class="text-uppercase">
+    <ul>
     <li><a class="anchor-link" data-anchor="home" data-link="index.php">Home</a></li>
     <li><a class="anchor-link" data-link="index.php#skills" data-anchor="skills" >Skills</a></li>
-    <li><a class="anchor-link" data-link="index.php#about" data-anchor="about" >About</a></li>
     <li><a class="anchor-link" data-link="index.php#portfolio" data-anchor="portfolio" >Portfolio</a></li>
-    <li><a class="fade-out-link" data-link="contact.php" >Contact</a></li>
-        <li><a target="_blank" href="https://github.com/olu1987"><i class="fa fa-2x fa-github" aria-hidden="true"></i></a></li>
+    <li><a class="fade-out-link" data-link="contact.php" ><i class="fa fa-2x fa-envelope" aria-hidden="true"></i></a></li>
         <li><a target="_blank" href="https://uk.linkedin.com/in/olu-meduoye-a76a82101"><i class="fa fa-2x fa-linkedin" aria-hidden="true"></i></a></li>
     </ul>
 </div>

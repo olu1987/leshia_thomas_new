@@ -130,7 +130,7 @@
 
                         </div>
                     </a>
-                    <a data-link="vantworks.php" class="tile col-md-4 col-sm-6 bershka fade-out-link">
+                    <a data-link="bershka.php" class="tile col-md-4 col-sm-6 bershka fade-out-link">
                         <div class="col-md-12 text-center vantworks-logo-grid">
                             <img class="img-responsive" src="img/bershka-tile.png">
                         </div>
