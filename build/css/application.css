@@ -725,10 +725,10 @@ a:hover, a:focus {
   transition: ease-in-out 300ms all;
   background: #d3c34e; }
   .what-i-do-wrap.in {
-    height: 320px; }
+    height: 330px; }
   @media (max-width: 991px) {
     .what-i-do-wrap.in {
-      height: 370px; } }
+      height: 390px; } }
   @media (max-width: 767px) {
     .what-i-do-wrap.in {
       height: 570px; } }

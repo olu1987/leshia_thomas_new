@@ -7,8 +7,7 @@
     <div class="col-md-4">
         <ul class="list-inline text-right mt-20">
             <li><a href="#" class="fade-out-link text-uppercase" data-link="contact.php" ><i class="fa fa-2x fa-envelope" aria-hidden="true"></i></a></li>
-            <li><a target="_blank" href="https://github.com/olu1987"><i class="fa fa-2x fa-github" aria-hidden="true"></i></a></li>
-            <li><a class="mt-20" target="_blank" href="https://uk.linkedin.com/in/olu-meduoye-a76a82101"><i class="fa fa-2x fa-linkedin" aria-hidden="true"></i></a></li>
+            <li><a class="mt-20" target="_blank" href="https://www.linkedin.com/in/leshia-thomas-85296536/"><i class="fa fa-2x fa-linkedin" aria-hidden="true"></i></a></li>
         </ul>
     </div>
 </div>

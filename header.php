@@ -40,7 +40,7 @@
     <li><a class="anchor-link" data-link="index.php#skills" data-anchor="skills" >Skills</a></li>
     <li><a class="anchor-link" data-link="index.php#portfolio" data-anchor="portfolio" >Portfolio</a></li>
     <li><a class="fade-out-link" data-link="contact.php" ><i class="fa fa-2x fa-envelope" aria-hidden="true"></i></a></li>
-        <li><a target="_blank" href="https://uk.linkedin.com/in/olu-meduoye-a76a82101"><i class="fa fa-2x fa-linkedin" aria-hidden="true"></i></a></li>
+        <li><a target="_blank" href="https://www.linkedin.com/in/leshia-thomas-85296536"><i class="fa fa-2x fa-linkedin" aria-hidden="true"></i></a></li>
     </ul>
 </div>
 <!--[if lt IE 8]>
