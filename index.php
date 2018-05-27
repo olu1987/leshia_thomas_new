@@ -21,8 +21,8 @@
                 </div>
             </div>
             <div class="row">
-               <div class="col-md-12 text-uppercase info-col text-center">
-                 <a id="info-btn" class="btn info-btn btn-lg" href="#">info</a>
+               <div class="col-md-12 info-col text-center">
+                 <a id="info-btn" class="btn info-btn btn-lg" href="#">More About Me</a>
                </div>
             </div>
             <div id="skills" class="row text-center what-i-do-wrap">
