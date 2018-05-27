@@ -11,9 +11,25 @@
                 </div>
                 <h1 class="pl-20">
                     .Leshia Thomas.
-                    <br>
-                    <small>Digital designer based in London</small>
                 </h1>
+                <div id="text-carousel" class="carousel slide" data-fade="true" data-interval="4000" data-ride="carousel">
+                    <div class="carousel-inner">
+                        <div class="item active">
+                           Digital designer based in London
+                        </div>
+
+                        <div class="item">
+                           Lover of Animals
+                        </div>
+
+                        <div class="item">
+                            Background in fashion
+                        </div>
+                        <div class="item">
+                            Recovering Chocaholic
+                        </div>
+                    </div>
+                </div>
                 <div class="col-md-12">
                     <div class="row">
 

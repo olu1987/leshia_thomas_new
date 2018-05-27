@@ -221,4 +221,14 @@
   }
 }
 
+#text-carousel {
+  max-width: 500px;
+  font-size: 20px;
+  @include absoluteCenter();
+  bottom: 74px;
+  .item {
+    text-align: center;
+  }
+}
+
 
