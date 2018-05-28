@@ -1,4 +1,4 @@
-<?php $title = 'Bodhan Consultants | Branding';
+<?php $title = 'Bodhan Consultants Logo';
       $spinnerLogo = 'img/bodhan-tile.png';
       $body = 'not-home bodhan-bg'
 ?>
@@ -13,7 +13,7 @@
         </div>
         <div class="row mb-50 text-center">
             <div class="col-md-8 col-md-offset-2">
-                <h2>Bodhan Consultants</h2> 
+                <h2>Bodhan Consultants Logo</h2> 
                 <p>Bodhan Consultants’ CEO contacted me after seeing my LNT logo and asked if I could design something which depicts the 
                    meaning of Bodhan (enlightenment) in a similar style.</p>
             </div>
@@ -54,7 +54,7 @@
             <div class="title-wrap">
                 <h3>
                 <small>
-                    Previous Project
+                    Next Project
                 </small><br>
                     LNT London Ecommerce Website<br>
                     <small>

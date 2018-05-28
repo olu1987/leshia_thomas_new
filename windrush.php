@@ -50,7 +50,7 @@
         </div>
         <div class="row task-description">
             <div class="col-md-10 col-md-offset-1">
-                <img class="img-responsive center" src="img/windrush-letter-head.jpg"/>
+                <img class="img-responsive center letter-header" src="img/windrush-letter-head.jpg"/>
             </div>
         </div>
     </div>
@@ -69,7 +69,7 @@
                             <small>
                                 Next Project
                             </small><br>
-                                Shotgun App
+                                Shotgun
                                 <br>
                                 <small>
                                     UI Design, Logo and branding
@@ -82,7 +82,7 @@
                         <div class="title-wrap">
                             <h3>
                             <small>
-                                After Next Project
+                            Project After Next
                             </small><br>
                                 Olu Meduoye Portfolio Website<br>
                                 <small>

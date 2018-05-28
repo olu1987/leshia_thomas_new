@@ -52,6 +52,9 @@
         color:#ffffff;
         cursor:pointer;
         transition: all ease-in-out 300ms;
+        i{
+          font-size: 22px;
+        }
         &:hover{
           color:gold;
         }

@@ -207,16 +207,16 @@
   transition: ease-in-out 300ms all;
   background: #fff297;
   &.in {
-    height: 330px;
+    height: 350px;
   }
   @media(max-width: 991px) {
     &.in {
-      height: 390px;
+      height: 410px;
     }
   }
   @media(max-width: 767px) {
     &.in {
-      height: 570px;
+      height: 590px;
     }
   }
 }
@@ -231,10 +231,20 @@
   }
 }
 
+.letter-header{
+  max-width: 400px;
+}
+
 @media(max-width: 767px) {
   .phone-image {
     max-width: 300px;
     margin-bottom: 30px;
+  }
+
+  .what-i-do-wrap {
+    h3 {
+      font-size: 20px;
+    }
   }
 }
 

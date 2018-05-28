@@ -1,4 +1,4 @@
-<?php $title = 'Darling | Mood Board & Colour Pallette';
+<?php $title = 'Darling |  Women’s soft separates, design project';
       $spinnerLogo = 'img/darling-tile.png';
       $body = 'not-home darling-bg'
 ?>
@@ -16,7 +16,7 @@
                 <h2>Darling<br>Womenswear - Soft Separates</h2> 
                 <p>I was asked to create a summer collection for women in their early
                 30s. I knew pinks and pastels were the colours for the season so I
-                chose to do a Romantic theme. I drew illustrations of flamingos and
+                chose to do a romantic theme. I drew illustrations of flamingos and
                 turned them into repeat prints as well as designing delicate cut
                 aways and sheer panelling.  
                 </p>
@@ -48,7 +48,7 @@
                  </small><br>
                     Harvest<br>
                     <small>
-                        Style look project
+                      Women’s outerwear, design project
                     </small>
                 </h3>
 
@@ -63,7 +63,7 @@
                  </small><br>
                     Lefties<br>
                     <small>
-                        Style look project
+                      Women’s outerwear, design project
                     </small>
                 </h3>
             </div>

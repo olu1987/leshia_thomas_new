@@ -1,4 +1,4 @@
-<?php $title = 'Harvest | Womenswear - Outerwear';
+<?php $title = 'Harvest | Women’s outerwear, design project';
       $spinnerLogo = 'img/harvest-tile.png';
       $body = 'not-home harvest-bg'
 ?>
@@ -13,7 +13,7 @@
         </div>
         <div class="row mb-50 text-center">
             <div class="col-md-8 col-md-offset-2">
-                <h2>Harvest<br>Womenswear - Outerwear</h2> 
+                <h2>Harvest<br>Women’s outerwear, design project</h2> 
                 <p>I was asked to create two different collections for Autumn/Winter.
                 The first, I chose to  have autuminal colours- tans and chocolates 
                 for transition  from summer to autumn. The collection has lots of 
@@ -34,6 +34,14 @@
         <div class="row">
             <div class="col-md-10 col-md-offset-1">
                 <img class="img-responsive mb-50 center" src="img/harvest-3.jpg"/>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-10 col-md-offset-1 text-center mb-30">
+                <p>
+                The second collection ihas a lot more black with splashes of ox blood and teal. I based it on an Alice in Wonderland with a dark 
+                 twist. 
+                </p>
             </div>
         </div>
         <div class="row ">
@@ -81,7 +89,7 @@
                  </small><br>
                     Darling<br>
                     <small>
-                        Style look project
+                      Women’s soft separates, design project
                     </small>
                 </h3>
 

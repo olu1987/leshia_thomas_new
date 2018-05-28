@@ -3,11 +3,12 @@
         <p>Designed by <a class="text-uppercase anchor-link leshia-link"  data-anchor="home" href="#" data-link="index.php">leshia thomas</a></p>
     </div>
     <div class="col-md-4 text-center">
+        <h2> . Leshia Thomas . <br><small>2018</small></h2>
     </div>
     <div class="col-md-4">
         <ul class="list-inline text-right mt-20">
-            <li><a href="#" class="fade-out-link text-uppercase" data-link="contact.php" ><i class="fa fa-2x fa-envelope" aria-hidden="true"></i></a></li>
-            <li><a class="mt-20" target="_blank" href="https://www.linkedin.com/in/leshia-thomas-85296536/"><i class="fa fa-2x fa-linkedin" aria-hidden="true"></i></a></li>
+            <li><a href="#" class="fade-out-link text-uppercase" data-link="contact.php" ><i class="fa fa-envelope" aria-hidden="true"></i></a></li>
+            <li><a class="mt-20" target="_blank" href="https://www.linkedin.com/in/leshia-thomas-31070a14a/"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
         </ul>
     </div>
 </div>

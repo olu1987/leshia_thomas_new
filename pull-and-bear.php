@@ -1,4 +1,4 @@
-<?php $title = 'Harvest | Womenswear - Outerwear';
+<?php $title = 'Harvest | Women’s soft separates, design project';
       $spinnerLogo = 'img/pull-and-bear-tile.png';
       $body = 'not-home pull-and-bear-bg'
 ?>
@@ -13,7 +13,7 @@
         </div>
         <div class="row mb-50 text-center">
             <div class="col-md-8 col-md-offset-2">
-                <h2>Pull & Bear<br>Womenswear - Soft Separates</h2> 
+                <h2>Pull & Bear<br>Women’s soft separates, design project</h2> 
                 <p>I was asked to create a collection for Pull & Bears’ SS15 collection.
                 Tribal & Safari were going to be hot trends for Spring Summer. 
                 I created a mood board that reflected this and used strong earthy

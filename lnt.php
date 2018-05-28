@@ -13,7 +13,7 @@
         </div>
         <div class="row mb-50 text-center">
             <div class="col-md-8 col-md-offset-2">
-                <h2>LNT London<br>Website UI/UX, Branding, Marekting</h2> 
+                <h2>LNT London<br>Website UI/UX, Branding, Marketing</h2> 
                 <p>LNT London is my own company. I designed all of the visual content from the branding 
                     to UI & UX for the website. I worked with Olu Meduoye (Front End designer) to create a elegant, clean aesthetic that’s easy to use. </p>
             </div>
@@ -58,7 +58,7 @@
            <div class="title-wrap">
             <h3>
                <small>
-                Previous Project
+                Next Project
                  </small><br>
                 Covervidz<br>
                 <small>

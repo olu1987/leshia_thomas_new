@@ -1,4 +1,4 @@
-<?php $title = 'Harvest | Womenswear - Outerwear';
+<?php $title = 'Lefties |  Women’s outerwear, design project';
       $spinnerLogo = 'img/lefties-tile.png';
       $body = 'not-home'
 ?>
@@ -13,11 +13,11 @@
         </div>
         <div class="row mb-50 text-center">
             <div class="col-md-8 col-md-offset-2">
-                <h2>Lefties<br>Womenswear - Outerwear</h2> 
-                <p>I was asked to design an outwear collections of 5 coats/jackets.
+                <h2>Lefties<br>Women’s outerwear, design project</h2> 
+                <p>I was asked to design an outwear collection of 5 coats/jackets.
                 I knew that iridescence was going to be huge and based the items
-                on that. The collection has simple shapes as it focuses on the 
-                textures and detailing- from pannelling to zips placements.      
+                on that. The collection has simple shapes as it focuses on 
+                texture and detailing- from pannelling to zips placements.      
                 </p>
             </div>
         </div>
@@ -47,7 +47,7 @@
                  </small><br>
                     Darling<br>
                     <small>
-                        Style look project
+                       Womens soft separates, design project
                     </small>
                 </h3>
 
@@ -65,7 +65,7 @@
                     Bershka
                     <br>
                     <small>
-                    Style look project
+                    Womens outerwear, design project
                     </small>
                 </h3>
             </div>

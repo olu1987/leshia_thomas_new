@@ -254,8 +254,7 @@ a:hover, a:focus {
 .skills-header {
   margin: 15px auto 0;
   width: 130px;
-  padding-bottom: 10px;
-  border-bottom: 1px solid #444; }
+  padding-bottom: 10px; }
 
 .page-container {
   box-shadow: 0 0 8px 2px rgba(0, 0, 0, 0.08); }
@@ -447,11 +446,16 @@ a:hover, a:focus {
   height: 200px;
   bottom: 0;
   padding: 66px 50px;
-  background: #3a3b36;
-  color: #fff;
+  background: #ffffff;
+  color: #000000;
   position: absolute;
   width: 100%;
-  margin: 0; }
+  margin: 0;
+  border-top: 1px solid #d0c7c7; }
+  .row.footer a, .row.footer i {
+    color: #000000; }
+  .row.footer i {
+    font-size: 22px; }
   .row.footer .footer-home-link {
     color: #ffffff;
     transition: all ease-in-out 300ms;
@@ -484,7 +488,7 @@ a:hover, a:focus {
   top: 46vh; }
 
 .contact-link, .contact-link:hover, .contact-link:focus {
-  color: #ff7575;
+  color: #999;
   font-size: 18px;
   cursor: pointer; }
 
@@ -765,13 +769,13 @@ a:hover, a:focus {
   transition: ease-in-out 300ms all;
   background: #fff297; }
   .what-i-do-wrap.in {
-    height: 330px; }
+    height: 350px; }
   @media (max-width: 991px) {
     .what-i-do-wrap.in {
-      height: 390px; } }
+      height: 410px; } }
   @media (max-width: 767px) {
     .what-i-do-wrap.in {
-      height: 570px; } }
+      height: 590px; } }
 
 #text-carousel {
   max-width: 500px;
@@ -785,10 +789,15 @@ a:hover, a:focus {
   #text-carousel .item {
     text-align: center; }
 
+.letter-header {
+  max-width: 400px; }
+
 @media (max-width: 767px) {
   .phone-image {
     max-width: 300px;
-    margin-bottom: 30px; } }
+    margin-bottom: 30px; }
+  .what-i-do-wrap h3 {
+    font-size: 20px; } }
 
 .task-description {
   padding-top: 50px;
@@ -838,6 +847,8 @@ a:hover, a:focus {
         color: #ffffff;
         cursor: pointer;
         transition: all ease-in-out 300ms; }
+        .nav-sidebar ul li a i {
+          font-size: 22px; }
         .nav-sidebar ul li a:hover {
           color: gold; }
 

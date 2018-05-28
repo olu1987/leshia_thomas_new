@@ -2,11 +2,20 @@
   height: 200px;
   bottom:0;
   padding: 66px 50px;
-  background: rgb(58, 59, 54);
-  color: #fff;
+  background: #ffffff;
+  color: #000000;
   position: absolute;
   width:100%;
   margin: 0;
+  border-top: 1px solid #d0c7c7;
+   a, i{
+    color: #000000;
+   }
+
+   i{
+     font-size: 22px;
+   }
+
   .footer-home-link{
     color: #ffffff;
     transition: all ease-in-out 300ms;

@@ -1,4 +1,4 @@
-<?php $title = 'Olu Meduoye | UI/UX';
+<?php $title = 'Olu Meduoye | Website UI/UX';
       $spinnerLogo = 'img/om-tile.png';
       $body = 'not-home om-bg'
 ?>
@@ -50,7 +50,7 @@
                      <small>
                          Previous Project
                      </small><br>
-                         Shotgun App
+                         Shotgun
                          <br>
                          <small>
                              UI Design, Logo and branding

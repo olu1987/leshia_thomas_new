@@ -19,7 +19,7 @@
                         </div>
 
                         <div class="item">
-                           Lover of Animals
+                           Animal Lover
                         </div>
 
                         <div class="item">
@@ -38,12 +38,12 @@
             </div>
             <div class="row">
                <div id="info-btn" class="col-md-12 info-col text-center">
-                 <a class="">. More About Me .</a>
+                 <a class="">Info</a>
                </div>
             </div>
             <div id="skills" class="row text-center what-i-do-wrap">
                <div class="col-md-12">
-                 <h3 class="skills-header">What I do</h3>
+                 <h3 class="skills-header">What I do...</h3>
                </div>
                <div class="col-md-4 col-sm-6">
                   <h3>UI/UX</h3>
@@ -72,6 +72,9 @@
                <div class="col-md-4 col-sm-6">
                    <h3>Clothing Design</h3>
                </div>
+               <div class="col-md-12">
+                   <h3>And more...</h3>
+               </div>
                <div class="row">
                   <div class="col-md-12 color-dark">
                     <h3><a data-link="contact.php" class="fade-out-link contact-link">Contact me to discuss my full list of services</a></h3>
@@ -94,7 +97,7 @@
                             <img class="img-responsive vantworks-logo" src="img/shotgun-tile.png">
                         </div>
                         <div class="title-wrap">
-                            <h3>Shotgun App
+                            <h3>Shotgun
                                 <br>
                                 <small>
                                     UI Design, Logo and branding

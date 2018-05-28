@@ -1,4 +1,4 @@
-<?php $title = 'Shotgun App | Logo and UI design';
+<?php $title = 'Shotgun | Logo and UI design';
       $spinnerLogo = 'img/shotgun-tile.png';
       $body = 'not-home shotgun-bg'
 ?>
@@ -13,7 +13,7 @@
         </div>
         <div class="row mb-50 text-center">
             <div class="col-md-8 col-md-offset-2">
-                <h2>Shotgun Mobile App<br>Logo and UI design </h2> 
+                <h2>Shotgun <br>Mobile App Logo & UI Design </h2> 
                 <p>I am currently working on this app for a startup. I am creating all 
                   of the UI,  design of icons, branding including logo and some of the UX.
                  </p>

@@ -1,4 +1,4 @@
-<?php $title = 'Bershka | Womenswear - Partywear';
+<?php $title = 'Bershka | Womens outerwear, design project';
       $spinnerLogo = 'img/bershka-tile.png';
       $body = 'not-home bershka-bg'
 ?>
@@ -13,10 +13,10 @@
         </div>
         <div class="row mb-50 text-center">
             <div class="col-md-8 col-md-offset-2">
-                <h2>Womenswear - Partywear</h2> 
+                <h2>Womens outerwear, design project</h2> 
                 <p>I was contacted to create a party wear range for older teens-young adults for 
-                Christmas. The collection had dark abstract prints with bold hues saturating them, embellishment and glitters trickling 
-                through out.  
+                Christmas. The collection has dark abstract prints with bold hues saturating them, embellishment and glitters trickling 
+                throughout.  
                 </p>
             </div>
         </div>
@@ -46,7 +46,7 @@
                     </small><br>
                         Lefties<br>
                         <small>
-                            Style look project
+                          Women’s outerwear, design project
                         </small>
                     </h3>
 
@@ -61,7 +61,7 @@
                  </small><br>
                     Pull and Bear<br>
                     <small>
-                        Style look project
+                      Women’s soft separates, design project
                     </small>
                 </h3>
             </div>
