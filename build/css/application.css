@@ -440,6 +440,9 @@ a:hover, a:focus {
   .info-col a, .info-col a:hover, .info-col a:focus {
     color: #444444; }
 
+.bg-white {
+  background: #ffffff; }
+
 .row.footer {
   height: 200px;
   bottom: 0;

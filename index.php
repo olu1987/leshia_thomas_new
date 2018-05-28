@@ -5,7 +5,7 @@
 <?php include 'header.php'; ?>
 
         <!-- Add your site or application content here -->
-        <div id="home" class="container">
+        <div id="home" class="container bg-white">
             <div class="row text-center header">
                 <div class="overlay">
                 </div>
@@ -166,7 +166,7 @@
 
                         </div>
                     </a>
-                    <a data-link="lefties.php" class="tile col-md-4 col-sm-6 fade-out-link">
+                    <a data-link="lefties.php" class="tile col-md-4 col-sm-6 fade-out-link bg-white">
                         <img class="img-responsive" src="img/lefties-tile.png"/>
                         <div class="title-wrap">
                             <h3>Lefties<br>

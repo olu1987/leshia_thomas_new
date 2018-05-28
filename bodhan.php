@@ -1,6 +1,6 @@
 <?php $title = 'Bodhan Consultants | Branding';
       $spinnerLogo = 'img/bodhan-tile.png';
-      $body = 'not-home bodhan'
+      $body = 'not-home bodhan-bg'
 ?>
 <?php include 'header.php'; ?>
 
