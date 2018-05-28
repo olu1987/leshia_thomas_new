@@ -6,8 +6,7 @@
 <div class="container">
     <div class="row">
         <div class="col-md-6 text-center col-md-offset-3 mb-30">
-            <h2>I'm currently open to new projects and opportunities so fill out the form or contact me at <a href="mailto:olu@claymoreminds.com">olu@claymoreminds.com</a> or on
-            +44 7437919874</h2>
+            <h2>I'm currently open to new projects and opportunities so fill out the form or contact me at <a href="mailto:leshia.thomas@live.co.uk ">leshia.thomas@live.co.uk </a></h2>
             <h3>I'll get back to you within 48 hours.</h3>
         </div>
     </div>

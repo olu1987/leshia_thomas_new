@@ -37,13 +37,13 @@
                 </div>
             </div>
             <div class="row">
-               <div class="col-md-12 info-col text-center">
-                 <a id="info-btn" class="btn info-btn btn-lg">More About Me</a>
+               <div id="info-btn" class="col-md-12 info-col text-center">
+                 <a class="">. More About Me .</a>
                </div>
             </div>
             <div id="skills" class="row text-center what-i-do-wrap">
                <div class="col-md-12">
-                 <h2>What I do</h2>
+                 <h3 class="skills-header">What I do</h3>
                </div>
                <div class="col-md-4 col-sm-6">
                   <h3>UI/UX</h3>
@@ -73,8 +73,8 @@
                    <h3>Clothing Design</h3>
                </div>
                <div class="row">
-                  <div class="col-md-12">
-                    <h3>I can learn basically anything...</h3>
+                  <div class="col-md-12 color-dark">
+                    <h3><a data-link="contact.php" class="fade-out-link contact-link">Contact me to discuss my full list of services</a></h3>
                   </div>
                </div>
             </div>
@@ -144,17 +144,6 @@
 
                         </div>
                     </a>
-                    <a data-link="npvr.php" class="tile col-md-4 col-sm-6 lnt fade-out-link">
-                        <img class="img-responsive" src="img/lnt-tile.png"/>
-                        <div class="title-wrap">
-                            <h3>Lnt London Ecommerce Website<br>
-                                <small>
-                                    UI/UX, branding, project management and creative direction
-                                </small>
-                            </h3>
-
-                        </div>
-                    </a>
                     <a data-link="harvest.php" class="tile col-md-4 col-sm-6 harvest fade-out-link">
                         <img class="img-responsive" src="img/harvest-tile.png"/>
                         <div class="title-wrap">
@@ -210,6 +199,17 @@
                                    Style look project
                                 </small>
                             </h3>
+                        </div>
+                    </a>
+                    <a data-link="contact.php" class="tile col-md-4 col-sm-6 contact fade-out-link">
+                        <h2>Contact Me</h2>
+                        <div class="title-wrap">
+                            <h3>Interested in working with me?<br>
+                                <small>
+                                    Get in Touch!
+                                </small>
+                            </h3>
+
                         </div>
                     </a>
                 </div>

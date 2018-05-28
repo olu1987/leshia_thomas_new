@@ -14,7 +14,7 @@ var homeModule = {
     },
     binding:function(){
         window.addEventListener('load',this.loader.bind(this));
-        this.infoBtn.addEventListener('click', this.toggleSkills.bind(this));
+        this.infoBtn && this.infoBtn.addEventListener('click', this.toggleSkills.bind(this));
         for(var i = 0, x = this.fadeOutLink.length; i < x; i++){
             this.fadeOutLink[i].addEventListener('click',this.fadeOutNavigation.bind(this));
         }

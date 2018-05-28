@@ -183,9 +183,19 @@
 }
 
 .info-col{
-  background: #d3c34e;
-  height: 87px;
+  background: #f5df4a;
+  height: 32px;
   display: flex;
   justify-content: center;
   align-items: center;
+  cursor: pointer;
+  transition: 300ms ease-in-out all;
+
+  &:hover {
+    background: #fbeb80;
+  }
+
+  a, a:hover, a:focus {
+    color: #444444;
+  }
 }
