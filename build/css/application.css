@@ -339,7 +339,7 @@ a:hover, a:focus {
   background: linear-gradient(to bottom, #8f0222 0%, white 0%, #5d3f7d 34%, #5d3f7d 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8f0222', endColorstr='#5d3f7d', GradientType=0 ); }
 
-.covervidz-solid-bg {
+.covervidz-solid-bg, .covervidz-solid-bg .loader-container {
   background: #6b3e9b; }
 
 .covervidz-bg, .covervidz-solid-bg {
@@ -388,10 +388,10 @@ a:hover, a:focus {
   .about p {
     font-size: 17px; }
 
-.bodhan-bg {
+.bodhan-bg, .bodhan .loader-container {
   background: #f3edb1; }
 
-.windrush-bg {
+.windrush-bg, .windrush-bg .loader-container {
   background: #edd99f; }
 
 .bershka-bg {
@@ -404,12 +404,22 @@ a:hover, a:focus {
 .shotgun-bg, .shotgun-bg .loader-container {
   background: #afaeb5; }
 
-.om-bg {
+.om-bg, .om-bg .loader-container {
   background: #222a5f;
   color: #ffffff; }
 
-.lnt-bg {
+.lnt-bg, .lnt-bg .loader-container {
   background: #c6d3db; }
+
+.darling-bg, .darling-bg .loader-container {
+  background: #eca9c8; }
+
+.harvest-bg, .harvest-bg .loader-container {
+  background: #59585b;
+  color: #ffffff; }
+
+.pull-and-bear-bg, .pull-and-bear-bg .loader-container {
+  background: #e3f2e8; }
 
 .info-col {
   background: #d3c34e;

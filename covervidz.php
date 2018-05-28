@@ -1,6 +1,6 @@
 <?php $title = 'Covervidz | Branding';
       $spinnerLogo = 'img/covervidz-tile.png';
-      $body = 'not-home covervidz'
+      $body = 'not-home covervidz-solid-bg'
 ?>
 <?php include 'header.php'; ?>
     <!-- Add your site or application content here -->

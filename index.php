@@ -155,7 +155,7 @@
 
                         </div>
                     </a>
-                    <a data-link="leshiathomas.php" class="tile col-md-4 col-sm-6 harvest fade-out-link">
+                    <a data-link="harvest.php" class="tile col-md-4 col-sm-6 harvest fade-out-link">
                         <img class="img-responsive" src="img/harvest-tile.png"/>
                         <div class="title-wrap">
                             <h3>Harvest<br>
@@ -166,7 +166,7 @@
 
                         </div>
                     </a>
-                    <a data-link="tvptvguide.php" class="tile col-md-4 col-sm-6 darling fade-out-link">
+                    <a data-link="darling.php" class="tile col-md-4 col-sm-6 darling fade-out-link">
                         <img class="img-responsive" src="img/darling-tile.png"/>
                         <div class="title-wrap">
                             <h3>Darling<br>
@@ -201,7 +201,7 @@
                             </h3>
                         </div>
                     </a>
-                    <a data-link="covervidz.php" class="tile col-md-4 col-sm-6 pull-and-bear fade-out-link">
+                    <a data-link="pull-and-bear.php" class="tile col-md-4 col-sm-6 pull-and-bear fade-out-link">
                        <img class="img-responsive" src="img/pull-and-bear-tile.png"/>
                         <div class="title-wrap">
                             <h3>
