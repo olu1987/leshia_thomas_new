@@ -12,11 +12,11 @@
     </div>
     <div class="row mb-50 text-center">
         <div class="col-md-8 col-md-offset-2">
-            <h2 class="text-uppercase">the challenge</h2>
-            <p>Covervidz was an idea that I myself came up with. It in essence is a youtube but just for covers of
-            popular artists songs. My idea was based on the fact that I often found myself wanting to see new covers of a certain
-            song, but found looking through youtube results sometimes a bit tedious. I built Covervidz in the first 3 months of 2016
-            and I'm still maintaining and improving the platform.
+            <h2 class="text-uppercase">Covervidz<br>Logo</h2>
+            <p>The logo for Covervidz was one of my first, however it hasn’t
+            seemed to age or become dated. They asked for me create a
+            logo that represented the content- people singing covers of 
+            popular songs
             </p>
         </div>
     </div>
@@ -25,9 +25,15 @@
             <img class="img-responsive center" src="img/covervidz-devices.jpg"/>
         </div>
     </div>
-    <div class="row">
-        <div class="col-md-10 col-md-offset-1">
-            <img class="img-responsive center" src="img/covervidz-devices.jpg"/>
+    <div class="row mb-50">
+        <div class="col-md-4 col-sm-4">
+            <img class="img-responsive center" src="img/covervidz-1.png"/>
+        </div>
+        <div class="col-md-4 col-sm-4">
+            <img class="img-responsive center" src="img/covervidz-2.png"/>
+        </div>
+        <div class="col-md-4 col-sm-4">
+            <img class="img-responsive center" src="img/covervidz-3.png"/>
         </div>
     </div>
     </div>

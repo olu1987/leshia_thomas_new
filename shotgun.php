@@ -23,13 +23,13 @@
             <div class="col-md-10 col-md-offset-1">
               <div class="row">
                 <div class="col-md-4 col-sm-4">
-                   <img class="img-responsive center" src="img/shotgun-home.png"/>
+                   <img class="img-responsive center phone-image" src="img/shotgun-home.png"/>
                 </div>
                 <div class="col-md-4 col-sm-4">
-                   <img class="img-responsive center" src="img/shotgun-dashboard.png"/>
+                   <img class="img-responsive center phone-image" src="img/shotgun-dashboard.png"/>
                 </div>
                 <div class="col-md-4 col-sm-4">
-                   <img class="img-responsive center" src="img/shotgun-sidebar.png"/>
+                   <img class="img-responsive center phone-image" src="img/shotgun-sidebar.png"/>
                 </div>
               </div>
             </div>
@@ -43,13 +43,13 @@
             <div class="col-md-10 col-md-offset-1">
               <div class="row">
               <div class="col-md-4 col-sm-4">
-                   <img class="img-responsive center" src="img/shotgun-shopping-screen-1.png"/>
+                   <img class="img-responsive center phone-image" src="img/shotgun-shopping-screen-1.png"/>
                 </div>
                 <div class="col-md-4 col-sm-4">
-                   <img class="img-responsive center" src="img/shotgun-shopping-screen-2.png"/>
+                   <img class="img-responsive center phone-image" src="img/shotgun-shopping-screen-2.png"/>
                 </div>
-                <div class="col-md-4 col-sm-6">
-                   <img class="img-responsive center" src="img/shotgun-shopping-screen-3.png"/>
+                <div class="col-md-4 col-sm-4">
+                   <img class="img-responsive center phone-image" src="img/shotgun-shopping-screen-3.png"/>
                 </div>
               </div>
             </div>
@@ -62,16 +62,16 @@
             <h3> Home</h3>
          </a>
          <a data-link="windrush.php" class="tile col-md-4 col-sm-6 windrush fade-out-link">
-                        <img class="img-responsive" src="img/windrush-tile.png"/>
-                        <div class="title-wrap">
-                            <h3><small>
-                               Previous Project
-                                </small><br>
-                                Windrush Project<br>
-                            <small>Logo and Branding</small>
-                            </h3>
-                        </div>
-                    </a>
+            <img class="img-responsive" src="img/windrush-tile.png"/>
+            <div class="title-wrap">
+                <h3><small>
+                    Previous Project
+                    </small><br>
+                    Windrush Project<br>
+                <small>Logo and Branding</small>
+                </h3>
+            </div>
+        </a>
          <a data-link="om.php" class="tile col-md-4 col-sm-6 om fade-out-link">
             <img class="img-responsive" src="img/om-tile.png"/>
              <div class="title-wrap">
