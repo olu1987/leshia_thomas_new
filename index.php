@@ -177,7 +177,7 @@
 
                         </div>
                     </a>
-                    <a data-link="tvp.php" class="tile col-md-4 col-sm-6 fade-out-link">
+                    <a data-link="lefties.php" class="tile col-md-4 col-sm-6 fade-out-link">
                         <img class="img-responsive" src="img/lefties-tile.png"/>
                         <div class="title-wrap">
                             <h3>Lefties<br>
