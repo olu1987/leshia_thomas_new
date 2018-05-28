@@ -57,42 +57,40 @@
     <div class="container windrush-bg">
         <div class="row portfolio">
             <div class="col-md-12">
-                <div class="col-md-4 col-sm-12">
-                   
-                </div>
-                <a data-link="vantworks.php" class="tile col-md-4 col-sm-6 vantworks fade-out-link">
-                    <div class="col-md-12 text-center vantworks-logo-grid">
-                        <img class="img-responsive vantworks-logo" src="img/vantworks-logo.png">
-                        <h5 class="task-main-header">Vantworks</h5>
-                    </div>
-                    <div class="title-wrap">
-
-                        <h3>
+            <a data-anchor="home" data-link="index.php" class="tile home-tile col-md-4 col-sm-6 fade-out-link">
+                       <h3> Home</h3>
+                    </a>
+                <a data-link="shotgun.php" class="tile col-md-4 col-sm-6 shotgun fade-out-link">
+                        <div class="col-md-12 text-center vantworks-logo-grid">
+                            <img class="img-responsive vantworks-logo" src="img/shotgun-tile.png">
+                        </div>
+                        <div class="title-wrap">
+                            <h3>
                             <small>
-                                next project
+                                Next Project
                             </small><br>
-                            Vantworks
-                            <br>
+                                Shotgun App
+                                <br>
+                                <small>
+                                    UI Design, Logo and branding
+                                </small>
+                            </h3>
+                        </div>
+                    </a>
+                    <a data-link="om.php" class="tile col-md-4 col-sm-6 om fade-out-link">
+                       <img class="img-responsive" src="img/om-tile.png"/>
+                        <div class="title-wrap">
+                            <h3>
                             <small>
-                                Website upsell Landing pages
-                            </small>
-                        </h3>
-                    </div>
-                </a>
-                <a data-link="tvptvguide.php" class="tile col-md-4 col-sm-6 tvplayer fade-out-link">
-                    <img class="img-responsive" src="img/tvp-logo-new-md.png"/>
-                    <div class="title-wrap">
-                        <h3>
-                            <small>
-                                previous project
+                                After Next Project
                             </small><br>
-                            Tvplayer<br>
-                            <small>
-                                lazy-loading tvguide
-                            </small>
-                        </h3>
-                    </div>
-                </a>
+                                Olu Meduoye Portfolio Website<br>
+                                <small>
+                                    UI/UX Design
+                                </small>
+                            </h3>
+                        </div>
+                    </a>
             </div>
         </div>
     </div>

@@ -34,42 +34,39 @@
     <div class="container ">
         <div class="row portfolio">
             <div class="col-md-12">
-                <div class="tile col-md-4 col-sm-12 tech text-uppercase covervidz-solid-bg">
-                    
-                </div>
-                <a data-link="simplestream-react-tvguide.php" class="tile col-md-4 col-sm-6 ss fade-out-link">
-                    <img class="img-responsive" src="img/simplestream-logo.png"/>
-                    <div class="title-wrap">
-                        <h3>
-                            <small>
-                                next project
-                            </small><br>
-                            simplestream<br>
-                            <small>
-                                react js tvguide and live page
-                            </small>
-                        </h3>
+            <a data-anchor="home" data-link="index.php" class="tile home-tile col-md-4 col-sm-6 fade-out-link">
+              <h3> Home </h3>
+            </a>
+            <a data-link="lnt.php" class="tile col-md-4 col-sm-6 lnt fade-out-link">
+                <img class="img-responsive" src="img/lnt-tile.png"/>
+                <div class="title-wrap">
+                    <h3>
+                    <small>
+                      Previous Project
+                        </small><br>
+                        LNT London Ecommerce Website<br>
+                        <small>
+                            UI/UX, branding, project management and creative direction
+                        </small>
+                    </h3>
 
-                    </div>
-                </a>
-                <a data-link="vantworks.php" class="tile col-md-4 col-sm-6 vantworks fade-out-link">
-                    <div class="col-md-12 text-center vantworks-logo-grid">
-                        <img class="img-responsive vantworks-logo" src="img/vantworks-logo.png">
-                        <h5 class="task-main-header">Vantworks</h5>
-                    </div>
-                    <div class="title-wrap">
-                        <h3>
-                            <small>
-                                previous project
-                            </small><br>
-                            Vantworks
-                            <br>
-                            <small>
-                                Website upsell Landing pages
-                            </small>
-                        </h3>
-                    </div>
-                </a>
+                </div>
+            </a>
+            <a data-link="harvest.php" class="tile col-md-4 col-sm-6 harvest fade-out-link">
+                        <img class="img-responsive" src="img/harvest-tile.png"/>
+                        <div class="title-wrap">
+                            <h3>
+                                    <small>
+                            Next Project
+                                </small><br>
+                                Harvest<br>
+                                <small>
+                                    Style look project
+                                </small>
+                            </h3>
+
+                        </div>
+                    </a>
             </div>
         </div>
     </div>

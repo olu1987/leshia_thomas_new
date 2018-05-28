@@ -578,6 +578,12 @@ a:hover, a:focus {
     background: #e3f2e8; }
   .tile.contact h2 {
     color: #444; }
+  .tile.home-tile {
+    background: #ffffff; }
+    .tile.home-tile h3 {
+      color: #444444; }
+  .tile.lefties {
+    background: #ffffff; }
 
 .leshia.grid-images .row {
   margin-top: 0; }

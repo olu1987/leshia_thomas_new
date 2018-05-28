@@ -58,42 +58,34 @@
     <div class="container windrush-bg">
         <div class="row portfolio">
             <div class="col-md-12">
-                <div class="col-md-4 col-sm-12">
-                   
-                </div>
-                <a data-link="vantworks.php" class="tile col-md-4 col-sm-6 vantworks fade-out-link">
-                    <div class="col-md-12 text-center vantworks-logo-grid">
-                        <img class="img-responsive vantworks-logo" src="img/vantworks-logo.png">
-                        <h5 class="task-main-header">Vantworks</h5>
-                    </div>
-                    <div class="title-wrap">
-
-                        <h3>
-                            <small>
-                                next project
-                            </small><br>
-                            Vantworks
-                            <br>
-                            <small>
-                                Website upsell Landing pages
-                            </small>
-                        </h3>
-                    </div>
-                </a>
-                <a data-link="tvptvguide.php" class="tile col-md-4 col-sm-6 tvplayer fade-out-link">
-                    <img class="img-responsive" src="img/tvp-logo-new-md.png"/>
-                    <div class="title-wrap">
-                        <h3>
-                            <small>
-                                previous project
-                            </small><br>
-                            Tvplayer<br>
-                            <small>
-                                lazy-loading tvguide
-                            </small>
-                        </h3>
-                    </div>
-                </a>
+            <a data-anchor="home" data-link="index.php" class="tile home-tile col-md-4 col-sm-6 fade-out-link">
+            <h3> Home</h3>
+         </a>
+         <a data-link="windrush.php" class="tile col-md-4 col-sm-6 windrush fade-out-link">
+                        <img class="img-responsive" src="img/windrush-tile.png"/>
+                        <div class="title-wrap">
+                            <h3><small>
+                               Previous Project
+                                </small><br>
+                                Windrush Project<br>
+                            <small>Logo and Branding</small>
+                            </h3>
+                        </div>
+                    </a>
+         <a data-link="om.php" class="tile col-md-4 col-sm-6 om fade-out-link">
+            <img class="img-responsive" src="img/om-tile.png"/>
+             <div class="title-wrap">
+                 <h3>
+                 <small>
+                     Next Project
+                 </small><br>
+                     Olu Meduoye Portfolio Website<br>
+                     <small>
+                         UI/UX Design
+                     </small>
+                 </h3>
+             </div>
+         </a>
             </div>
         </div>
     </div>
