@@ -152,7 +152,7 @@
                         <div class="title-wrap">
                             <h3>Harvest<br>
                                 <small>
-                                    Style look project
+                                Women’s outerwear, design project
                                 </small>
                             </h3>
 
@@ -163,7 +163,7 @@
                         <div class="title-wrap">
                             <h3>Darling<br>
                                 <small>
-                                    Style look project
+                                Women’s soft separates, design project
                                 </small>
                             </h3>
 
@@ -174,7 +174,7 @@
                         <div class="title-wrap">
                             <h3>Lefties<br>
                                 <small>
-                                    Style look project
+                                Women’s outerwear, design project'
                                 </small>
                             </h3>
 
@@ -188,7 +188,7 @@
                             <h3>Bershka
                                 <br>
                                 <small>
-                                   Style look project
+                                Womens outerwear, design project
                                 </small>
                             </h3>
                         </div>
@@ -199,7 +199,7 @@
                             <h3>
                                 Pull and Bear<br>
                                 <small>
-                                   Style look project
+                                Women’s soft separates, design project
                                 </small>
                             </h3>
                         </div>
