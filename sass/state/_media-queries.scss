@@ -51,17 +51,6 @@
   }
 }
 
-@media(max-width: 1040px){
-  .home{
-    .header,.about{
-      background: #eee;
-    }
-    .about{
-      background-image: url(../../img/sparks.jpg) ;
-    }
-  }
-}
-
 @media(max-width: 991px){
   .row.footer{
     padding: 0;

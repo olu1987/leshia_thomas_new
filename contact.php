@@ -1,5 +1,5 @@
 <?php $title = 'contact';
-      $spinnerLogo = 'img/om-favicon-img.png';
+      $spinnerLogo = 'img/lt-new-icon.png';
       ?>
 <?php include 'header.php'; ?>
 

@@ -1,6 +1,6 @@
 <?php $title = 'Digital Designer from London';
       $body = 'home';
-      $spinnerLogo = 'img/om-favicon-img.png';
+      $spinnerLogo = 'img/lt-new-icon.png';
 ?>
 <?php include 'header.php'; ?>
 

@@ -39,8 +39,7 @@
         <div class="row">
             <div class="col-md-10 col-md-offset-1 text-center mb-30">
                 <p>
-                The second collection ihas a lot more black with splashes of ox blood and teal. I based it on an Alice in Wonderland with a dark 
-                 twist. 
+                The second collection has a lot more black with splashes of ox blood and teal.
                 </p>
             </div>
         </div>

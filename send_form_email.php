@@ -8,7 +8,7 @@ $spinnerLogo = 'img/om-favicon-img.png';
 if(isset($_POST['email'])) {
 
     // EDIT THE 2 LINES BELOW AS REQUIRED
-    $email_to = "olu@claymoreminds.com";
+    $email_to = "leshia.thomas@live.co.uk";
     $email_subject = "Olu Meduoye Developer contact request";
 
     function died($error) {

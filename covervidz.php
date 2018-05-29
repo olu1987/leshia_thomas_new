@@ -12,7 +12,7 @@
     </div>
     <div class="row mb-50 text-center">
         <div class="col-md-8 col-md-offset-2">
-            <h2 class="text-uppercase">Covervidz<br><small>Logo and branding</small></h2>
+            <h2>Covervidz<br>Logo and branding</h2>
             <p>The logo for Covervidz was one of my first, however it hasn’t
             seemed to age or become dated. They asked for me create a
             logo that represented the content- people singing covers of 

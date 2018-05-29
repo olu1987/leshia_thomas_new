@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Leshia Thomas | <?= $title ?></title>
-    <meta name="description" content="Olu Meduoye is a web developer from London. All enquiries to olu@claymoreminds.com">
+    <meta name="description" content="Leshia Thomas is a designer from London. All enquiries to leshia.thomas@live.co.uk">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -39,8 +39,10 @@
     <li><a class="anchor-link" data-anchor="home" data-link="index.php">Home</a></li>
     <li><a class="anchor-link" data-link="index.php#skills" data-anchor="skills" >What I Do</a></li>
     <li><a class="anchor-link" data-link="index.php#portfolio" data-anchor="portfolio" >Portfolio</a></li>
-    <li><a class="fade-out-link" data-link="contact.php" ><i class="fa fa-envelope" aria-hidden="true"></i></a></li>
-        <li><a target="_blank" href="https://www.linkedin.com/in/leshia-thomas-85296536"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+    <li class="social-navigation">
+        <a class="fade-out-link" data-link="contact.php" ><i class="fa fa-envelope" aria-hidden="true"></i></a>
+        <a target="_blank" href="https://www.linkedin.com/in/leshia-thomas-85296536"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+    </li>
     </ul>
 </div>
 <!--[if lt IE 8]>
