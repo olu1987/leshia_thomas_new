@@ -209,7 +209,7 @@ a:hover, a:focus {
   display: inline-block; }
 
 .header {
-  min-height: 280px;
+  min-height: 260px;
   padding-top: 68px;
   position: relative;
   text-align: center; }
@@ -445,6 +445,9 @@ a:hover, a:focus {
 #home {
   box-shadow: 0 0 3px #909090; }
 
+#portfolio {
+  border-top: 6px solid #f5df4ac7; }
+
 .row.footer {
   height: 200px;
   bottom: 0;
@@ -494,6 +497,18 @@ a:hover, a:focus {
   color: #999;
   font-size: 18px;
   cursor: pointer; }
+
+.info-btn {
+  border: 1px solid #f5df4a;
+  border-radius: 0;
+  height: 39px;
+  margin-bottom: 48px;
+  background: #ffffff;
+  font-size: 15px;
+  transition: 300ms ease-in-out all;
+  color: #444; }
+  .info-btn.in {
+    background: #f5df4a; }
 
 .info-col {
   font-size: 18px; }
@@ -788,7 +803,7 @@ a:hover, a:focus {
   right: 0;
   margin-left: auto;
   margin-right: auto;
-  bottom: 74px; }
+  bottom: 50px; }
   #text-carousel .item {
     text-align: center; }
 

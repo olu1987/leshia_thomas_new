@@ -15,6 +15,20 @@
   cursor: pointer;
 }
 
+.info-btn {
+  border: 1px solid #f5df4a;
+  border-radius: 0;
+  height: 39px;
+  margin-bottom: 48px;
+  background: #ffffff;
+  font-size: 15px;
+  transition: 300ms ease-in-out all;
+  color: #444;
+  &.in {
+    background: #f5df4a;
+  }
+}
+
 .info-col{
   font-size: 18px;
 }

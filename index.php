@@ -37,14 +37,11 @@
                 </div>
             </div>
             <div class="row">
-               <div id="info-btn" class="col-md-12 info-col text-center">
-                 <a class="">Info</a>
+               <div  class="col-md-12 text-center">
+               <a id="info-btn" class="btn btn-lg info-btn">What I do...</a>
                </div>
             </div>
             <div id="skills" class="row text-center what-i-do-wrap">
-               <div class="col-md-12">
-                 <h3 class="skills-header">What I do...</h3>
-               </div>
                <div class="col-md-4 col-sm-6">
                   <h3>UI/UX</h3>
                </div>
