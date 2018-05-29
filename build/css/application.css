@@ -442,6 +442,9 @@ a:hover, a:focus {
 .bg-white {
   background: #ffffff; }
 
+#home {
+  box-shadow: 0 0 3px #909090; }
+
 .row.footer {
   height: 200px;
   bottom: 0;
