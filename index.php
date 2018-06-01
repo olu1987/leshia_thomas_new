@@ -19,7 +19,7 @@
                         </div>
 
                         <div class="item">
-                           Animal Lover
+                           Animal Lover (except rats... sorry)
                         </div>
 
                         <div class="item">
