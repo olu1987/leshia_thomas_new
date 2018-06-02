@@ -201,22 +201,22 @@
   }
 }
 
-.what-i-do-wrap {
+.what-i-do-wrap{
   height: 0px;
   overflow: hidden;
   transition: ease-in-out 300ms all;
-  background: #fff297;
+  background: #eee;
   &.in {
-    height: 350px;
+    height: 320px;
   }
   @media(max-width: 991px) {
     &.in {
-      height: 410px;
+      height: 480px;
     }
   }
   @media(max-width: 767px) {
     &.in {
-      height: 590px;
+      height: 570px;
     }
   }
 }
@@ -225,7 +225,8 @@
   max-width: 500px;
   font-size: 20px;
   @include absoluteCenter();
-  bottom: 50px;
+  top: 330px;
+  z-index: 100;
   .item {
     text-align: center;
   }

@@ -5,7 +5,7 @@
 <?php include 'header.php'; ?>
 
         <!-- Add your site or application content here -->
-        <div id="home" class="container bg-white">
+        <div id="home" class="container">
             <div class="row text-center header">
                 <div class="overlay">
                 </div>
@@ -30,16 +30,9 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-12">
-                    <div class="row">
-
-                    </div>
+                <div class="what-i-do-row">
+                    <a id="info-btn" class="btn btn-lg info-btn">What I do...</a>
                 </div>
-            </div>
-            <div class="row">
-               <div  class="col-md-12 text-center">
-               <a id="info-btn" class="btn btn-lg info-btn">What I do...</a>
-               </div>
             </div>
             <div id="skills" class="row text-center what-i-do-wrap">
                <div class="col-md-4 col-sm-6">

@@ -24,6 +24,10 @@
 }
 
 @media(max-width: 767px){
+  #text-carousel {
+    top: 390px;
+  }
+
   .nav-toggle.active {
     right: 255px;
   }
@@ -59,4 +63,13 @@
       text-align: center;
     }
   }
+}
+
+@media (max-width: 1040px){
+  .home .header {
+    background-image: url(../../img/blue-background-marble-bg.jpg);
+    background-position: center center !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 }

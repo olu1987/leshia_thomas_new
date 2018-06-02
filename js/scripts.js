@@ -47,4 +47,10 @@ $( document ).ready(function() {
 
     }());
 
+    var header = $('.header');
+
+    header.parallax(
+        {imageSrc: 'img/blue-background-marble-bg.jpg', position:'right'
+    });
+
 });

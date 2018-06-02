@@ -208,6 +208,10 @@
   box-shadow: 0 0 3px #909090;
 }
 
-#portfolio {
-  border-top: 6px solid #f5df4ac7;
+.what-i-do-row{
+  padding-top: 30px;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  z-index: 100;
 }
