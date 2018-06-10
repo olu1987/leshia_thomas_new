@@ -18,7 +18,7 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <script src="parallax.min.js"></script>
 <script src="js/plugins.js"></script>
-<script src="build/js/main.min.js"></script>
+<script src="build/js/main-1.0.min.js"></script>
 
 <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
 <script>

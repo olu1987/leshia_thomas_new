@@ -66,7 +66,7 @@ var homeModule = {
         }.bind(this),1300);
 
     },
-    scrollToAnchor: function (aid){
+    scrollToAnchor: function (aid) {
         if(aid === 'skills'){
            addClass(this.skills, 'in'); 
         }
