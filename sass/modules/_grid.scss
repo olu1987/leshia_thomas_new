@@ -37,6 +37,7 @@
     justify-content: center;
      small {
       font-family: 'Open Sans', sans-serif;
+      font-size: 13px;
      }
 
   }
@@ -104,19 +105,19 @@
   }
 
   &.windrush {
-    background: #edd99f;
+    background: $windrush-bg-color;
   }
 
   &.shotgun {
-    background: #afaeb5;
+    background: $shotgun-bg-color;
   }
 
   &.om {
-    background: #222a5f;
+    background: $om-bg-color;
   }
 
   &.bodhan {
-    background: #fbf4ba;
+    background: $bodhan-bg-color;
   }
 
   &.lnt {
@@ -128,23 +129,23 @@
   }
 
   &.harvest {
-    background: #59585b;
+    background: $harvest-bg-color;
   }
 
   &.darling {
-    background: #eca9c8;
+    background: $darling-bg-color;
   }
 
   &.bershka {
-    background: #191818;
+    background: $bershka-bg-color;
   }
 
   &.pull-and-bear {
-    background: #e3f2e8;
+    background: $pull-and-bear-bg-color;
   }
 
   &.lefties {
-    background: #35495a;
+    background: $lefties-bg-color;
   }
 
   &.contact {

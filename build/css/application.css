@@ -347,7 +347,7 @@ a:hover, a:focus {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8f0222', endColorstr='#5d3f7d', GradientType=0 ); }
 
 .covervidz-solid-bg, .covervidz-solid-bg .loader-container {
-  background: #a190c5; }
+  background: #6b3e9b; }
 
 .covervidz-bg, .covervidz-solid-bg {
   color: #ffffff; }
@@ -409,14 +409,14 @@ a:hover, a:focus {
   background: #231f20; }
 
 .shotgun-bg, .shotgun-bg .loader-container {
-  background: #a6a0cf; }
+  background: #afaeb5; }
 
 .om-bg, .om-bg .loader-container {
   background: #222a5f;
   color: #ffffff; }
 
 .lnt-bg, .lnt-bg .loader-container {
-  background: #c4b8db; }
+  background: #c6d3db; }
 
 .darling-bg, .darling-bg .loader-container {
   background: #eca9c8; }
@@ -553,7 +553,8 @@ a:hover, a:focus {
     align-items: center;
     justify-content: center; }
     .tile .title-wrap small {
-      font-family: 'Open Sans', sans-serif; }
+      font-family: 'Open Sans', sans-serif;
+      font-size: 13px; }
   .tile img {
     width: 70%;
     margin: 0 auto; }
@@ -591,25 +592,25 @@ a:hover, a:focus {
       .tile.tech ul li {
         width: 100px; }
   .tile.windrush {
-    background: #edd99f; }
+    background: #a8c6dd; }
   .tile.shotgun {
     background: #afaeb5; }
   .tile.om {
-    background: #222a5f; }
+    background: #14103c; }
   .tile.bodhan {
-    background: #fbf4ba; }
+    background: #ecdbeb; }
   .tile.lnt {
     background: #c4b8db; }
   .tile.covervidz {
-    background: #a6a0cf; }
+    background: #afaeb5; }
   .tile.harvest {
-    background: #59585b; }
+    background: #2b243d; }
   .tile.darling {
-    background: #eca9c8; }
+    background: #cd1c6b; }
   .tile.bershka {
-    background: #191818; }
+    background: #621144; }
   .tile.pull-and-bear {
-    background: #e3f2e8; }
+    background: #c684b9; }
   .tile.lefties {
     background: #35495a; }
   .tile.contact h2 {

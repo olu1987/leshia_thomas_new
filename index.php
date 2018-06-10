@@ -114,6 +114,16 @@
                             </h3>
                         </div>
                     </a>
+                    <a data-link="darling.php" class="tile col-md-4 col-sm-6 darling fade-out-link">
+                        <img class="img-responsive" src="img/darling-tile.png"/>
+                        <div class="title-wrap">
+                            <h3>Darling<br>
+                                <small>
+                                Women’s soft separates, design project
+                                </small>
+                            </h3>
+                        </div>
+                    </a>
                     <a data-link="om.php" class="tile col-md-4 col-sm-6 om fade-out-link">
                        <img class="img-responsive" src="img/om-tile.png"/>
                         <div class="title-wrap">
@@ -123,15 +133,6 @@
                                     UI/UX Design
                                 </small>
                             </h3>
-                        </div>
-                    </a>
-                    <a data-link="bodhan.php" class="tile col-md-4 col-sm-6 bodhan fade-out-link">
-                        <img class="img-responsive" src="img/bodhan-tile.png"/>
-                        <div class="title-wrap">
-                            <h3>Bodhan Consulting<br>
-                               <small>Logo and Branding</small>
-                            </h3>
-
                         </div>
                     </a>
                     <a data-link="harvest.php" class="tile col-md-4 col-sm-6 harvest fade-out-link">
@@ -145,13 +146,11 @@
 
                         </div>
                     </a>
-                    <a data-link="darling.php" class="tile col-md-4 col-sm-6 darling fade-out-link">
-                        <img class="img-responsive" src="img/darling-tile.png"/>
+                    <a data-link="bodhan.php" class="tile col-md-4 col-sm-6 bodhan fade-out-link">
+                        <img class="img-responsive" src="img/bodhan-tile.png"/>
                         <div class="title-wrap">
-                            <h3>Darling<br>
-                                <small>
-                                Women’s soft separates, design project
-                                </small>
+                            <h3>Bodhan Consulting<br>
+                               <small>Logo and Branding</small>
                             </h3>
 
                         </div>
@@ -180,6 +179,15 @@
                             </h3>
                         </div>
                     </a>
+                    <a data-link="windrush.php" class="tile col-md-4 col-sm-6 windrush fade-out-link">
+                        <img class="img-responsive" src="img/windrush-tile.png"/>
+                        <div class="title-wrap">
+                            <h3>Windrush Project<br>
+                                <small>Logo and Branding</small>
+                            </h3>
+
+                        </div>
+                    </a>
                     <a data-link="contact.php" class="tile col-md-4 col-sm-6 contact fade-out-link">
                         <h2>Contact Me</h2>
                         <div class="title-wrap">
@@ -187,15 +195,6 @@
                                 <small>
                                     Get in Touch!
                                 </small>
-                            </h3>
-
-                        </div>
-                    </a>
-                    <a data-link="windrush.php" class="tile col-md-4 col-sm-6 windrush fade-out-link">
-                        <img class="img-responsive" src="img/windrush-tile.png"/>
-                        <div class="title-wrap">
-                            <h3>Windrush Project<br>
-                                <small>Logo and Branding</small>
                             </h3>
 
                         </div>
