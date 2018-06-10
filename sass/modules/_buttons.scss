@@ -16,13 +16,18 @@
 }
 
 .info-btn {
-  border: 1px solid #fff;
+  background: #cd1c6b;
   border-radius: 0;
-  color: #fff;
-  height: 39px;
+  color: #ffffff;
+  height: 47px;
   margin-bottom: 80px;
-  font-size: 15px;
+  font-size: 20px;
+  border-radius: 2px;
   transition: 300ms ease-in-out all;
+  &:hover {
+    background-color: #ea5799;
+    color: #ffffff;
+  }
 }
 
 .info-col{

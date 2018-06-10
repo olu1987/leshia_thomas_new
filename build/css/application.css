@@ -217,7 +217,7 @@ a:hover, a:focus {
   .header h1 {
     font-size: 60px;
     margin-bottom: 10px;
-    margin-top: 10px;
+    margin-top: 48px;
     z-index: 20;
     position: absolute;
     left: 0;
@@ -347,7 +347,7 @@ a:hover, a:focus {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8f0222', endColorstr='#5d3f7d', GradientType=0 ); }
 
 .covervidz-solid-bg, .covervidz-solid-bg .loader-container {
-  background: #6b3e9b; }
+  background: #a190c5; }
 
 .covervidz-bg, .covervidz-solid-bg {
   color: #ffffff; }
@@ -409,14 +409,14 @@ a:hover, a:focus {
   background: #231f20; }
 
 .shotgun-bg, .shotgun-bg .loader-container {
-  background: #afaeb5; }
+  background: #a6a0cf; }
 
 .om-bg, .om-bg .loader-container {
   background: #222a5f;
   color: #ffffff; }
 
 .lnt-bg, .lnt-bg .loader-container {
-  background: #c6d3db; }
+  background: #c4b8db; }
 
 .darling-bg, .darling-bg .loader-container {
   background: #eca9c8; }
@@ -505,13 +505,17 @@ a:hover, a:focus {
   cursor: pointer; }
 
 .info-btn {
-  border: 1px solid #fff;
+  background: #cd1c6b;
   border-radius: 0;
-  color: #fff;
-  height: 39px;
+  color: #ffffff;
+  height: 47px;
   margin-bottom: 80px;
-  font-size: 15px;
+  font-size: 20px;
+  border-radius: 2px;
   transition: 300ms ease-in-out all; }
+  .info-btn:hover {
+    background-color: #ea5799;
+    color: #ffffff; }
 
 .info-col {
   font-size: 18px; }
@@ -548,6 +552,8 @@ a:hover, a:focus {
     display: flex;
     align-items: center;
     justify-content: center; }
+    .tile .title-wrap small {
+      font-family: 'Open Sans', sans-serif; }
   .tile img {
     width: 70%;
     margin: 0 auto; }
@@ -593,9 +599,9 @@ a:hover, a:focus {
   .tile.bodhan {
     background: #fbf4ba; }
   .tile.lnt {
-    background: #a8d3e6; }
+    background: #c4b8db; }
   .tile.covervidz {
-    background: #4b2d77; }
+    background: #a6a0cf; }
   .tile.harvest {
     background: #59585b; }
   .tile.darling {
@@ -604,14 +610,14 @@ a:hover, a:focus {
     background: #191818; }
   .tile.pull-and-bear {
     background: #e3f2e8; }
+  .tile.lefties {
+    background: #35495a; }
   .tile.contact h2 {
     color: #444; }
   .tile.home-tile {
     background: #ffffff; }
     .tile.home-tile h3 {
       color: #444444; }
-  .tile.lefties {
-    background: #ffffff; }
 
 .leshia.grid-images .row {
   margin-top: 0; }
@@ -689,9 +695,9 @@ a:hover, a:focus {
   border-right-color: #7995d3; }
 
 .covervidz .loader-container .loader {
-  border-left-color: #6b3e9b;
-  border-top-color: #6b3e9b;
-  border-bottom-color: #6b3e9b;
+  border-left-color: #a190c5;
+  border-top-color: #a190c5;
+  border-bottom-color: #a190c5;
   border-right-color: #420d7d; }
 
 .tvp .loader-container .loader {
@@ -801,12 +807,13 @@ a:hover, a:focus {
 #text-carousel {
   max-width: 500px;
   font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
   position: absolute;
   left: 0;
   right: 0;
   margin-left: auto;
   margin-right: auto;
-  top: 330px;
+  top: 360px;
   z-index: 100; }
   #text-carousel .item {
     text-align: center; }
@@ -947,7 +954,7 @@ a:hover, a:focus {
 
 @media (max-width: 1040px) {
   .home .header {
-    background-image: url(../../img/blue-background-marble-bg.jpg);
+    background-image: url(../../img/lnt-portfolio-header.jpg);
     background-position: center center !important;
     background-repeat: no-repeat;
     background-size: cover; } }

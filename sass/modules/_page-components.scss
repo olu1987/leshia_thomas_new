@@ -224,8 +224,9 @@
 #text-carousel {
   max-width: 500px;
   font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
   @include absoluteCenter();
-  top: 330px;
+  top: 360px;
   z-index: 100;
   .item {
     text-align: center;

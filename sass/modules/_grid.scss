@@ -35,6 +35,9 @@
     display: flex;
     align-items: center;
     justify-content: center;
+     small {
+      font-family: 'Open Sans', sans-serif;
+     }
 
   }
 
@@ -117,11 +120,11 @@
   }
 
   &.lnt {
-    background: #a8d3e6;
+    background: #c4b8db;
   }
 
   &.covervidz {
-    background: #4b2d77;
+    background: $shotgun-bg-color;
   }
 
   &.harvest {
@@ -140,6 +143,10 @@
     background: #e3f2e8;
   }
 
+  &.lefties {
+    background: #35495a;
+  }
+
   &.contact {
     h2 {
       color: #444;
@@ -151,10 +158,6 @@
     h3{
       color: #444444;
     }
-  }
-
-  &.lefties {
-    background: #ffffff;
   }
 }
 

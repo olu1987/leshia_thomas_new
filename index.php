@@ -15,18 +15,13 @@
                 <div id="text-carousel" class="carousel slide" data-fade="true" data-interval="4000" data-ride="carousel">
                     <div class="carousel-inner">
                         <div class="item active">
-                           Digital designer based in London
-                        </div>
-
-                        <div class="item">
-                           Animal Lover (except rats... sorry)
-                        </div>
-
-                        <div class="item">
-                            Background in fashion
+                           Designer based in London
                         </div>
                         <div class="item">
-                            Recovering Chocaholic
+                           Background in fashion
+                        </div>
+                        <div class="item">
+                           Skills and experience in digital design
                         </div>
                     </div>
                 </div>
@@ -73,11 +68,35 @@
             </div>
             <div id="portfolio" class="row portfolio">
                 <div class="col-md-12">
-                <a data-link="windrush.php" class="tile col-md-4 col-sm-6 windrush fade-out-link">
-                        <img class="img-responsive" src="img/windrush-tile.png"/>
+                   <a data-link="lnt.php" class="tile col-md-4 col-sm-6 lnt fade-out-link">
+                        <img class="img-responsive" src="img/lnt-tile.png"/>
                         <div class="title-wrap">
-                            <h3>Windrush Project<br>
-                                <small>Logo and Branding</small>
+                            <h3>LNT London Ecommerce Website<br>
+                                <small>
+                                    UI/UX, branding, project management and creative direction
+                                </small>
+                            </h3>
+
+                        </div>
+                    </a>
+                    <a data-link="lefties.php" class="tile col-md-4 col-sm-6 fade-out-link lefties">
+                        <img class="img-responsive" src="img/lefties-tile.png"/>
+                        <div class="title-wrap">
+                            <h3>Lefties<br>
+                                <small>
+                                Women’s outerwear, design project'
+                                </small>
+                            </h3>
+
+                        </div>
+                    </a>
+                    <a data-link="covervidz.php" class="tile col-md-4 col-sm-6 covervidz fade-out-link">
+                        <img class="img-responsive" src="img/covervidz-tile.png"/>
+                        <div class="title-wrap">
+                            <h3>Covervidz<br>
+                                <small>
+                                   Logo and branding
+                                </small>
                             </h3>
 
                         </div>
@@ -115,28 +134,6 @@
 
                         </div>
                     </a>
-                    <a data-link="lnt.php" class="tile col-md-4 col-sm-6 lnt fade-out-link">
-                        <img class="img-responsive" src="img/lnt-tile.png"/>
-                        <div class="title-wrap">
-                            <h3>LNT London Ecommerce Website<br>
-                                <small>
-                                    UI/UX, branding, project management and creative direction
-                                </small>
-                            </h3>
-
-                        </div>
-                    </a>
-                    <a data-link="covervidz.php" class="tile col-md-4 col-sm-6 covervidz fade-out-link">
-                        <img class="img-responsive" src="img/covervidz-tile.png"/>
-                        <div class="title-wrap">
-                            <h3>Covervidz<br>
-                                <small>
-                                   Logo and branding
-                                </small>
-                            </h3>
-
-                        </div>
-                    </a>
                     <a data-link="harvest.php" class="tile col-md-4 col-sm-6 harvest fade-out-link">
                         <img class="img-responsive" src="img/harvest-tile.png"/>
                         <div class="title-wrap">
@@ -154,17 +151,6 @@
                             <h3>Darling<br>
                                 <small>
                                 Women’s soft separates, design project
-                                </small>
-                            </h3>
-
-                        </div>
-                    </a>
-                    <a data-link="lefties.php" class="tile col-md-4 col-sm-6 fade-out-link bg-white">
-                        <img class="img-responsive" src="img/lefties-tile.png"/>
-                        <div class="title-wrap">
-                            <h3>Lefties<br>
-                                <small>
-                                Women’s outerwear, design project'
                                 </small>
                             </h3>
 
@@ -201,6 +187,15 @@
                                 <small>
                                     Get in Touch!
                                 </small>
+                            </h3>
+
+                        </div>
+                    </a>
+                    <a data-link="windrush.php" class="tile col-md-4 col-sm-6 windrush fade-out-link">
+                        <img class="img-responsive" src="img/windrush-tile.png"/>
+                        <div class="title-wrap">
+                            <h3>Windrush Project<br>
+                                <small>Logo and Branding</small>
                             </h3>
 
                         </div>
