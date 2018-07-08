@@ -627,6 +627,14 @@ a:hover, a:focus {
   margin-top: 15px;
   margin-bottom: 15px; }
 
+.ocado-promo-box {
+  width: 33%;
+  display: inline-block;
+  padding: 5px; }
+
+.ocado-grid-header {
+  padding: 20px 20px 5px; }
+
 .html {
   background: #f1f1f1; }
   .html:after {

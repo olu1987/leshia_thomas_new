@@ -33,6 +33,74 @@
      <div class="col-md-10">
        <img class="img-responsive" src="img/valentine-bird.png" />     
      </div>      
+   </div>
+   <div class="row">    
+     <div class="col-md-10 col-md-offset-1 ocado-grid-header">
+       <img class="img-responsive" src="img/ocado-header-grey.png" />     
+     </div>    
+   </div>   
+   <div class="row">    
+     <div class="col-md-10 col-md-offset-1">
+       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
+       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
+       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
+     </div>    
+     <div class="col-md-10 col-md-offset-1">
+       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
+       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
+       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
+     </div>    
+   </div>   
+   <div class="row">    
+     <div class="col-md-10 col-md-offset-1 ocado-grid-header">
+       <img class="img-responsive" src="img/ocado-header-grey.png" />     
+     </div>    
+   </div>   
+   <div class="row">    
+     <div class="col-md-10 col-md-offset-1">
+       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
+       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
+       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
+     </div>    
+     <div class="col-md-10 col-md-offset-1">
+       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
+       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
+       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
+     </div>    
+   </div>   
+   <div class="row">    
+     <div class="col-md-10 col-md-offset-1 ocado-grid-header">
+       <img class="img-responsive" src="img/ocado-header-grey.png" />     
+     </div>    
+   </div>   
+   <div class="row">    
+     <div class="col-md-10 col-md-offset-1">
+       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
+       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
+       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
+     </div>    
+     <div class="col-md-10 col-md-offset-1">
+       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
+       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
+       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
+     </div>    
+   </div>   
+   <div class="row">    
+     <div class="col-md-10 col-md-offset-1 ocado-grid-header">
+       <img class="img-responsive" src="img/ocado-header-grey.png" />     
+     </div>    
+   </div>   
+   <div class="row">    
+     <div class="col-md-10 col-md-offset-1">
+       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
+       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
+       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
+     </div>    
+     <div class="col-md-10 col-md-offset-1">
+       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
+       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
+       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
+     </div>    
    </div>   
 </div>
 <?php include 'footer.php'; ?>
