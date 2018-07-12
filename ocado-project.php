@@ -4,103 +4,80 @@
 ?>
 <?php include 'header.php'; ?>
 <div class="container">
-   <div class="row">
-     <div class="col-md-10 col-md-offset-1">
-     <img class="img-responsive" src="img/ocado-valentine-header.jpg" />  
-     </div>      
+   <div class="row ocado-section">
+     <div class="col-md-10 col-md-offset-1">  
+     <img class="img-responsive" src="img/ocado-project/header.jpg" />  
+     </div> 
    </div>   
-   <div class="row">
-     <div class="col-md-10 col-md-offset-1">
-       <h1 class="text-capitalize">moodboard one</h1>    
-     <img class="img-responsive" src="img/ocado-moodboard-one.jpg" />  
-     </div>      
+   <div class="row ocado-section">
+   <div class="col-md-10 col-md-offset-1">  
+     <img class="img-responsive" src="img/ocado-project/moodboard-1.jpg" />  
+     </div> 
    </div>   
-   <div class="row ocado-tiles">
-     <div class="col-md-5 col-md-offset-1">
-       <img class="img-responsive" src="img/ocado-tile-pink-one.png" />  
-     </div>      
-     <div class="col-md-5">
-       <img class="img-responsive" src="img/ocado-tile-grey.png" />  
-     </div>
-   </div>
-   <div class="row ocado-tiles">         
-     <div class="col-md-5 col-md-offset-1">
-       <img class="img-responsive" src="img/ocado-tile-pink-two.png" />  
-     </div>      
-     <div class="col-md-5">
-       <img class="img-responsive" src="img/ocado-tile-red.png" />  
-     </div>
-     <div class="col-md-10">
-       <img class="img-responsive" src="img/valentine-bird.png" />     
-     </div>      
-   </div>
-   <div class="row">    
-     <div class="col-md-10 col-md-offset-1 ocado-grid-header">
-       <img class="img-responsive" src="img/ocado-header-grey.png" />     
-     </div>    
+   <div class="row ocado-section">
+   <div class="col-md-10 col-md-offset-1">  
+     <img class="img-responsive" src="img/ocado-project/smart-object-1.jpg" />  
+     </div> 
    </div>   
-   <div class="row">    
-     <div class="col-md-10 col-md-offset-1">
-       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
-       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
-       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
-     </div>    
-     <div class="col-md-10 col-md-offset-1">
-       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
-       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
-       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
-     </div>    
+   <div class="row ocado-section">
+   <div class="col-md-10 col-md-offset-1">  
+     <img class="img-responsive" src="img/ocado-project/smart-object-2.jpg" />  
+     </div> 
    </div>   
-   <div class="row">    
-     <div class="col-md-10 col-md-offset-1 ocado-grid-header">
-       <img class="img-responsive" src="img/ocado-header-grey.png" />     
-     </div>    
+   <div class="row ocado-section">
+   <div class="col-md-10 col-md-offset-1">    
+     <img class="img-responsive" src="img/ocado-project/cat-header-1.jpg" />  
+     </div> 
    </div>   
-   <div class="row">    
-     <div class="col-md-10 col-md-offset-1">
-       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
-       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
-       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
-     </div>    
-     <div class="col-md-10 col-md-offset-1">
-       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
-       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
-       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
-     </div>    
+   <div class="row ocado-section">
+   <div class="col-md-10 col-md-offset-1">   
+     <img class="img-responsive" src="img/ocado-project/cat-header-2.jpg" />  
+     </div> 
    </div>   
-   <div class="row">    
-     <div class="col-md-10 col-md-offset-1 ocado-grid-header">
-       <img class="img-responsive" src="img/ocado-header-grey.png" />     
-     </div>    
+   <div class="row ocado-section">
+     <div class="col-md-12">  
+     <img class="img-responsive" src="img/ocado-project/cat-header-3.jpg" />  
+     </div> 
    </div>   
-   <div class="row">    
-     <div class="col-md-10 col-md-offset-1">
-       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
-       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
-       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
-     </div>    
-     <div class="col-md-10 col-md-offset-1">
-       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
-       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
-       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
-     </div>    
+   <div class="row ocado-section">
+   <div class="col-md-10 col-md-offset-1">  
+     <img class="img-responsive" src="img/ocado-project/rectangle-banner-1.jpg" />  
+     </div> 
    </div>   
-   <div class="row">    
-     <div class="col-md-10 col-md-offset-1 ocado-grid-header">
-       <img class="img-responsive" src="img/ocado-header-grey.png" />     
-     </div>    
+   <div class="row ocado-section">
+   <div class="col-md-10 col-md-offset-1">  
+     <img class="img-responsive" src="img/ocado-project/leaderboard-banner-1.jpg" />  
+     </div> 
    </div>   
-   <div class="row">    
-     <div class="col-md-10 col-md-offset-1">
-       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
-       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
-       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
-     </div>    
-     <div class="col-md-10 col-md-offset-1">
-       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
-       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
-       <img class="img-responsive ocado-promo-box" src="img/ocado-promo-box-grey-empty-1.png" />     
-     </div>    
+   <div class="row ocado-section">
+     <div class="col-md-12">  
+     <img class="img-responsive" src="img/ocado-project/skyscraper-banner-1.jpg" />  
+     </div> 
+   </div>   
+   <div class="row ocado-section">
+   <div class="col-md-10 col-md-offset-1">  
+     <img class="img-responsive" src="img/ocado-project/logo-grid.jpg" />  
+     </div> 
+   </div>   
+   <div class="row ocado-section">
+   <div class="col-md-10 col-md-offset-1">  
+     <img class="img-responsive" src="img/ocado-project/sis.jpg" />  
+     </div> 
+   </div>   
+   <div class="row ocado-section">
+   <div class="col-md-10 col-md-offset-1">  
+     <img class="img-responsive" src="img/ocado-project/skyscraper-banner-options.jpg" />  
+     </div> 
+   </div>   
+   <div class="row ocado-section">
+   <div class="col-md-10 col-md-offset-1">  
+     <img class="img-responsive" src="img/ocado-project/leaderboard-banner-workout.jpg" />  
+     </div> 
+   </div>   
+   <div class="row ocado-section">
+   <div class="col-md-10 col-md-offset-1">  
+     <img class="img-responsive" src="img/ocado-project/leaderboard-banner-2.jpg" />  
+     </div> 
    </div>   
 </div>
 <?php include 'footer.php'; ?>
