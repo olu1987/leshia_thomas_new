@@ -40,7 +40,7 @@
      </div> 
    </div>   
    <div class="row ocado-section">
-     <div class="col-md-12">  
+     <div class="col-md-10 col-md-offset-1">  
      <img class="img-responsive" src="img/ocado-project/cat-header-4.jpg" />  
      </div> 
    </div>   
