@@ -33,10 +33,15 @@
    <div class="col-md-10 col-md-offset-1">   
      <img class="img-responsive" src="img/ocado-project/cat-header-2.jpg" />  
      </div> 
-   </div>   
+   </div>    
    <div class="row ocado-section">
      <div class="col-md-12">  
      <img class="img-responsive" src="img/ocado-project/cat-header-3.jpg" />  
+     </div> 
+   </div>   
+   <div class="row ocado-section">
+     <div class="col-md-12">  
+     <img class="img-responsive" src="img/ocado-project/cat-header-4.jpg" />  
      </div> 
    </div>   
    <div class="row ocado-section">
@@ -76,7 +81,7 @@
    </div>   
    <div class="row ocado-section">
    <div class="col-md-10 col-md-offset-1">  
-     <img class="img-responsive" src="img/ocado-project/leaderboard-banner-2.jpg" />  
+     <img class="img-responsive" src="img/ocado-project/vertical-rectangular-banner-workout.jpg" />  
      </div> 
    </div>   
 </div>
