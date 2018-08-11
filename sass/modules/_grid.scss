@@ -1,4 +1,5 @@
 .portfolio{
+  background: #eee;
   .col-md-12{
     padding: 0;
   }
@@ -148,7 +149,12 @@
     background: $lefties-bg-color;
   }
 
+  &.ocado {
+    background: #922359;
+  }
+
   &.contact {
+    background: #fff;
     h2 {
       color: #444;
     }

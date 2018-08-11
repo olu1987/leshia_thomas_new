@@ -1,6 +1,6 @@
-<?php $title = 'Digital Designer from London';
-      $body = 'home';
-      $spinnerLogo = 'img/lt-new-icon.png';
+<?php $title = 'Ocado |  Interview Process Project';
+      $spinnerLogo = 'img/ocado-logo.png';
+      $body = 'not-home'
 ?>
 <?php include 'header.php'; ?>
 <div class="container">

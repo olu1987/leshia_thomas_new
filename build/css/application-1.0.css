@@ -520,8 +520,10 @@ a:hover, a:focus {
 .info-col {
   font-size: 18px; }
 
-.portfolio .col-md-12 {
-  padding: 0; }
+.portfolio {
+  background: #eee; }
+  .portfolio .col-md-12 {
+    padding: 0; }
 
 .tile {
   height: 390px;
@@ -613,8 +615,12 @@ a:hover, a:focus {
     background: #c684b9; }
   .tile.lefties {
     background: #35495a; }
-  .tile.contact h2 {
-    color: #444; }
+  .tile.ocado {
+    background: #922359; }
+  .tile.contact {
+    background: #fff; }
+    .tile.contact h2 {
+      color: #444; }
   .tile.home-tile {
     background: #ffffff; }
     .tile.home-tile h3 {
