@@ -538,9 +538,9 @@ a:hover, a:focus {
   display: flex;
   align-items: center;
   justify-content: center;
-  -webkit-filter: grayscale(100%);
+  -webkit-filter: grayscale(50%);
   /* Safari 6.0 - 9.0 */
-  filter: grayscale(100%);
+  filter: grayscale(50%);
   text-transform: uppercase; }
   .tile:hover {
     opacity: 1; }
