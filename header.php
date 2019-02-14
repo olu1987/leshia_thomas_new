@@ -38,7 +38,6 @@
 <div id="sidebar" class="nav-sidebar">
     <ul>
     <li><a class="anchor-link" data-anchor="home" data-link="index.php">Home</a></li>
-    <li><a class="anchor-link" data-link="index.php#skills" data-anchor="skills" >What I Do</a></li>
     <li><a class="anchor-link" data-link="index.php#portfolio" data-anchor="portfolio" >Portfolio</a></li>
     <li class="social-navigation">
         <a class="fade-out-link" data-link="contact.php" ><i class="fa fa-envelope" aria-hidden="true"></i></a>
