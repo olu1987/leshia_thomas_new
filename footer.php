@@ -3,7 +3,7 @@
         <p>Designed by <a class="text-uppercase anchor-link leshia-link"  data-anchor="home" href="#" data-link="index.php">leshia thomas</a></p>
     </div>
     <div class="col-md-4 text-center">
-        <h2> . Leshia Thomas . <br><small>2018</small></h2>
+        <h2>Leshia Thomas<br><small>2018</small></h2>
     </div>
     <div class="col-md-4">
         <ul class="list-inline text-right mt-20">

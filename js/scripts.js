@@ -49,8 +49,8 @@ $( document ).ready(function() {
 
     var header = $('.header');
 
-    header.parallax(
-        {imageSrc: 'img/lnt-portfolio-header.jpg', position:'right'
-    });
+    // header.parallax(
+    //     {imageSrc: 'img/lnt-portfolio-header.jpg', position:'right'
+    // });
 
 });

@@ -10,24 +10,8 @@
                 <div class="overlay">
                 </div>
                 <h1 class="pl-20">
-                    .Leshia Thomas.
+                    Leshia Thomas
                 </h1>
-                <div id="text-carousel" class="carousel slide" data-fade="true" data-interval="4000" data-ride="carousel">
-                    <div class="carousel-inner">
-                        <div class="item active">
-                           Designer based in London
-                        </div>
-                        <div class="item">
-                           Background in fashion
-                        </div>
-                        <div class="item">
-                           Skills and experience in digital design
-                        </div>
-                    </div>
-                </div>
-                <!-- <div class="what-i-do-row">
-                    <a id="info-btn" class="btn btn-lg info-btn">What I do...</a>
-                </div> -->
             </div>
             <div id="portfolio" class="row portfolio">
                 <div class="col-md-12">
@@ -175,43 +159,5 @@
                     </a> -->
                 </div>
             </div>
-    </div>
-    <div class="container">
-    <div id="skills" class="row text-center mt-50 mb-50">
-        <h1>What I do...</h1>
-        <div class="col-md-4 col-sm-6 mt-10">
-            <h3>UI/UX</h3>
-        </div>
-        <div class="col-md-4 col-sm-6 mt-10">
-            <h3>Ideation</h3>
-        </div>
-        <div class="col-md-4 col-sm-6 mt-10">
-            <h3>Branding</h3>
-        </div>
-        <div class="col-md-4 col-sm-6">
-            <h3>Illustration</h3>
-        </div>
-        <div class="col-md-4 col-sm-6">
-            <h3>Posters and Flyers</h3>
-        </div>
-        <div class="col-md-4 col-sm-6">
-            <h3>Marketing Materials</h3>
-        </div>
-        <div class="col-md-4 col-sm-6">
-            <h3>Business Cards</h3>
-        </div>
-        <div class="col-md-4 col-sm-6">
-            <h3>Mood Boards</h3>
-        </div>
-        <div class="col-md-4 col-sm-6">
-            <h3>Clothing Design</h3>
-        </div>
-        <div class="col-md-12">
-            <h3>And more...</h3>
-        </div>
-        <div class="col-md-12 color-dark">
-        <h3><a data-link="contact.php" class="fade-out-link contact-link">Contact me to discuss my full list of services</a></h3>
-        </div>
-    </div>
 </div>
 <?php include 'footer.php'; ?>

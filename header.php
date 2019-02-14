@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="build/css/application-1.0.css">
     <script src="js/vendor/modernizr-2.8.3.min.js"></script>
-    <link href="https://fonts.googleapis.com/css?family=Lora:400i" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300i,400" rel="stylesheet">
 </head>
 <body class="<?php
