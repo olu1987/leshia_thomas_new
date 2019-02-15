@@ -16,7 +16,7 @@
                 <h2>LNT London<br><small>Website UI/UX, Branding, Marketing</small></h2> 
                 <p>LNT London is my own company. We are a luxury, boutique fashion brand based in the UK.
                    Working with web developers, I built the entire UI/UX of the LNT London website.
-                    My main focus was ensuring that the site looked cleaned, was easy to use, and was consistent
+                    My main focus was ensuring that the site looked clean, was easy to use, and was consistent
                    with our brand identity and values. The feedback on the website has been overwhelmingly
                    positive.
               </p>
