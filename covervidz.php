@@ -10,13 +10,14 @@
             <img class="img-responsive page-header-logo" src="img/covervidz-tile.png"/>
         </div>
     </div>
-    <div class="row mb-50 text-center">
+    <div class="row mb-20 text-center">
         <div class="col-md-6 col-md-offset-3 intro-col">
             <h2>Covervidz<br><small>Logo and branding</small></h2>
             <p class="pt-10">
                 Covervidz is a web application that uses the youtube API to allow users
                 to search for popular covers of their favourite song. 
-                I designed the logo for this project and also assisted with UI/UX. 
+                I designed the logo for this project and also assisted with UI/UX. The app was well 
+                recieved by users and the development team have continued to maintain the project. 
             </p>   
         </div>
     </div>
