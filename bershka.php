@@ -12,7 +12,7 @@
             </div>
         </div>
         <div class="row mb-50 text-center">
-            <div class="col-md-6 col-md-offset-3">
+            <div class="col-md-6 col-md-offset-3 intro-col">
                 <h2>Bershka<br><small>Womens outerwear, design project</small></h2> 
                 <p>I was contacted to create a party wear range for older teens-young adults for 
                 Christmas. The collection has dark abstract prints with bold hues saturating them, embellishment and glitters trickling 

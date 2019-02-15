@@ -12,13 +12,13 @@
             </div>
         </div>
         <div class="row mb-50 text-center">
-            <div class="col-md-6 col-md-offset-3">
+            <div class="col-md-6 col-md-offset-3 intro-col">
                 <h2>Olu Meduoye<br><small>Website UI/UX</small></h2> 
                 <p>
                   Olu Meduoye is a web developer and frontend engineer based in London.
                 I have collaborated with him on numerous projects and was delighted when he asked 
                   me to do a redesign for his very own portfolio. We were both very pleased with the 
-                slick, clean and professional look and feel of the new website. </p>
+                slick, clean and professional look and feel of the<br> new website. </p>
             </div>
         </div>
         <div class="row ">

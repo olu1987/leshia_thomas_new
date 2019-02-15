@@ -12,7 +12,7 @@
             </div>
         </div>
         <div class="row mb-50 text-center">
-            <div class="col-md-8 col-md-offset-2">
+            <div class="col-md-6 col-md-offset-3 intro-col">
                 <h2>LNT London<br><small>Website UI/UX, Branding, Marketing</small></h2> 
                 <p>LNT London is my own company. We are a luxury, boutique fashion brand based in the UK.
                    Working with web developers, I built the entire UI/UX of the LNT London website.

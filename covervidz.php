@@ -11,7 +11,7 @@
         </div>
     </div>
     <div class="row mb-50 text-center">
-        <div class="col-md-6 col-md-offset-3">
+        <div class="col-md-6 col-md-offset-3 intro-col">
             <h2>Covervidz<br><small>Logo and branding</small></h2>
             <p class="pt-10">
                 Covervidz is a web application that uses the youtube API to allow users

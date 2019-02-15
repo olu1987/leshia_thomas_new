@@ -4,7 +4,7 @@
         <h3><?php include 'partials/previous-next.php' ?>
             LNT London Ecommerce Website<br>
             <small>
-                UI/UX, branding, project management and creative direction
+                <p>UI/UX, branding, project management <br>and creative direction</p>
             </small>
         </h3>
 

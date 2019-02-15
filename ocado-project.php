@@ -10,7 +10,7 @@
       </div>
   </div>
   <div class="row mb-50 text-center">
-      <div class="col-md-6 col-md-offset-3">
+      <div class="col-md-6 col-md-offset-3 intro-col">
           <h2>Ocado<br><small>Interview Process Project</small></h2> 
           <p>In an Interview process for a UI/UX designer role with Ocado, I was asked
             to create a number of mockups for their upcoming valentines day promotions, using

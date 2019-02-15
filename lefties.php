@@ -12,7 +12,7 @@
             </div>
         </div>
         <div class="row mb-50 text-center">
-            <div class="col-md-6 col-md-offset-3">
+            <div class="col-md-6 col-md-offset-3 intro-col">
                 <h2>Lefties<br><small>Women’s outerwear, design project</small></h2> 
                 <p>I was asked to design an outwear collection of 5 coats/jackets.
                 I knew that iridescence was going to be huge and based the items

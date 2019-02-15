@@ -12,7 +12,7 @@
             </div>
         </div>
         <div class="row mb-50 text-center">
-            <div class="col-md-6 col-md-offset-3">
+            <div class="col-md-6 col-md-offset-3 intro-col">
                 <h2>Pull & Bear<br><small>Women’s soft separates, design project</small></h2> 
                 <p>I was asked to create a collection for Pull & Bears’ SS15 collection.
                 Tribal & Safari were going to be hot trends for Spring Summer. 

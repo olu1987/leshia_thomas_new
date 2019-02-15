@@ -12,7 +12,7 @@
             </div>
         </div>
         <div class="row mb-50 text-center">
-            <div class="col-md-6 col-md-offset-3">
+            <div class="col-md-6 col-md-offset-3 intro-col">
                 <h2>Windrush Select Committee (WSC)<br><small>Windrush Anniversary Logo and branding</small></h2> 
                 <p>I was asked to design a logo for the Windrush Select Committee (WSC) in Ipswich which incorporated 
                 themes of the actual Windrush ship that carried many to the UK, and the countries that they left in order to come here.

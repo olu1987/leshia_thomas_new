@@ -211,6 +211,9 @@ h1, h2, h3, h4, h5 {
   font-family: helvetica, 'sans-serif';
   display: inline-block; }
 
+.intro-col > h2, .intro-col > p {
+  text-align: left; }
+
 .header {
   min-height: 660px;
   padding-top: 240px;
@@ -417,7 +420,7 @@ h1, h2, h3, h4, h5 {
   background: #afaeb5; }
 
 .om-bg, .om-bg .loader-container {
-  background: #222a5f;
+  background: #4b57ab;
   color: #ffffff; }
 
 .lnt-bg, .lnt-bg .loader-container {
@@ -567,6 +570,8 @@ h1, h2, h3, h4, h5 {
     .tile .title-wrap small {
       font-family: 'Open Sans', sans-serif;
       font-size: 13px; }
+      .tile .title-wrap small > p {
+        line-height: 1.4em; }
   .tile img {
     width: 70%;
     margin: 0 auto; }
