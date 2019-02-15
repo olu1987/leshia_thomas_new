@@ -15,7 +15,9 @@
             <div class="col-md-6 col-md-offset-3">
                 <h2>Windrush Select Committee (WSC)<br><small>Windrush Anniversary Logo and branding</small></h2> 
                 <p>I was asked to design a logo for the Windrush Select Committee (WSC) in Ipswich which incorporated 
-                both the people who travelled on the Windrush ship and the countries that they came from. </p>
+                themes of the actual Windrush ship that carried many to the UK, and the countries that they left in order to come here.
+                The WSC were very pleased with the final deliverables and the anniversary event that followed was 
+                well attended and very successful. </p>
             </div>
         </div>
         <div class="row ">

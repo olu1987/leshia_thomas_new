@@ -14,8 +14,11 @@
         <div class="row mb-50 text-center">
             <div class="col-md-6 col-md-offset-3">
                 <h2>Bodhan Consultants<br><small> Logo</small></h2> 
-                <p>Bodhan Consultants’ CEO contacted me after seeing my LNT logo and asked if I could design something which depicts the 
-                   meaning of Bodhan (enlightenment) in a similar style.</p>
+                <p>Bodhan Consultants are in their own words - "
+                a communications consultancy that helps financial companies achieve their communications goals. ".
+                Before the launch of their website, I was asked to create a logo that embodied the
+                the principles that they believe are at the core of their company. We were both very 
+            pleased with the results and I have continued to work with them on a consulting basis.</p>
             </div>
         </div>
         <div class="row ">

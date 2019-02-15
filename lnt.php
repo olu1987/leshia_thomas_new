@@ -14,8 +14,12 @@
         <div class="row mb-50 text-center">
             <div class="col-md-8 col-md-offset-2">
                 <h2>LNT London<br><small>Website UI/UX, Branding, Marketing</small></h2> 
-                <p>LNT London is my own company. I designed all of the visual content from the branding 
-                    to UI & UX for the website. I worked with Olu Meduoye (Front End designer) to create a elegant, clean aesthetic that’s easy to use. </p>
+                <p>LNT London is my own company. We are a luxury, boutique fashion brand based in the UK.
+                   Working with web developers, I built the entire UI/UX of the LNT London website.
+                    My main focus was ensuring that the site looked cleaned, was easy to use, and was consistent
+                   with our brand identity and values. The feedback on the website has been overwhelmingly
+                   positive.
+              </p>
             </div>
         </div>
         <div class="row ">
