@@ -1,6 +1,6 @@
 <?php $title = 'Lefties |  Women’s outerwear, design project';
       $spinnerLogo = 'img/lefties-tile.png';
-      $body = 'not-home'
+      $body = 'not-home lefties-bg'
 ?>
 <?php include 'header.php'; ?>
 

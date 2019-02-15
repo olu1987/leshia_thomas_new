@@ -423,6 +423,10 @@ h1, h2, h3, h4, h5 {
   background: #4b57ab;
   color: #ffffff; }
 
+.lefties-bg {
+  background: #35495a;
+  color: #fff; }
+
 .lnt-bg, .lnt-bg .loader-container {
   background: #c6d3db; }
 
