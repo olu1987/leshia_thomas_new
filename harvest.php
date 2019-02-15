@@ -12,8 +12,8 @@
             </div>
         </div>
         <div class="row mb-50 text-center">
-            <div class="col-md-8 col-md-offset-2">
-                <h2>Harvest<br>Women’s outerwear, design project</h2> 
+            <div class="col-md-6 col-md-offset-3">
+                <h2>Harvest<br><small>Women’s outerwear, design project</small></h2> 
                 <p>I was asked to create two different collections for Autumn/Winter.
                 The first, I chose to  have autuminal colours- tans and chocolates 
                 for transition  from summer to autumn. The collection has lots of 
@@ -65,35 +65,12 @@
             <a data-anchor="home" data-link="index.php" class="tile home-tile col-md-4 col-sm-6 fade-out-link">
             <h3> Home</h3>
          </a>
-         <a data-link="covervidz.php" class="tile col-md-4 col-sm-6 covervidz fade-out-link">
-         <img class="img-responsive" src="img/covervidz-tile.png"/>
-         <div class="title-wrap">
-             <h3>
-                 <small>
-                     Previous Project
-                 </small><br>
-                 Covervidz<br>
-                 <small>
-                    Logo and branding
-                 </small>
-             </h3>
-
-         </div>
-        </a>
-        <a data-link="darling.php" class="tile col-md-4 col-sm-6 darling fade-out-link">
-            <img class="img-responsive" src="img/darling-tile.png"/>
-            <div class="title-wrap">
-                <h3> <small>
-                     Next Project
-                 </small><br>
-                    Darling<br>
-                    <small>
-                      Women’s soft separates, design project
-                    </small>
-                </h3>
-
-            </div>
-        </a>
+         <span class="previous">
+            <?php include 'tiles/pull-and-bear.php'; ?>
+        </span>
+        <span class="next">
+            <?php include 'tiles/bershka.php'; ?>
+        </span>
             </div>
         </div>
     </div>

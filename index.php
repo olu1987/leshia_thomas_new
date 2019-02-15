@@ -15,148 +15,18 @@
             </div>
             <div id="portfolio" class="row portfolio">
                 <div class="col-md-12">
-                   <a data-link="lnt.php" class="tile col-md-4 col-sm-6 lnt fade-out-link">
-                        <img class="img-responsive" src="img/lnt-tile.png"/>
-                        <div class="title-wrap">
-                            <h3>LNT London Ecommerce Website<br>
-                                <small>
-                                    UI/UX, branding, project management and creative direction
-                                </small>
-                            </h3>
-
-                        </div>
-                    </a>
-                    <a data-link="lefties.php" class="tile col-md-4 col-sm-6 fade-out-link lefties">
-                        <img class="img-responsive" src="img/lefties-tile.png"/>
-                        <div class="title-wrap">
-                            <h3>Lefties<br>
-                                <small>
-                                Women’s outerwear, design project'
-                                </small>
-                            </h3>
-
-                        </div>
-                    </a>
-                    <a data-link="covervidz.php" class="tile col-md-4 col-sm-6 covervidz fade-out-link">
-                        <img class="img-responsive" src="img/covervidz-tile.png"/>
-                        <div class="title-wrap">
-                            <h3>Covervidz<br>
-                                <small>
-                                   Logo and branding
-                                </small>
-                            </h3>
-
-                        </div>
-                    </a>
-                    <a data-link="ocado-project.php" class="tile col-md-4 col-sm-6 ocado fade-out-link">
-                        <img class="img-responsive" src="img/ocado-tile.png"/>
-                        <div class="title-wrap">
-                            <h3>Ocado<br>
-                                <small>
-                                   Interview Process Project
-                                </small>
-                            </h3>
-
-                        </div>
-                    </a>
-                    <a data-link="shotgun.php" class="tile col-md-4 col-sm-6 shotgun fade-out-link">
-                        <div class="col-md-12 text-center vantworks-logo-grid">
-                            <img class="img-responsive vantworks-logo" src="img/shotgun-tile.png">
-                        </div>
-                        <div class="title-wrap">
-                            <h3>Shotgun
-                                <br>
-                                <small>
-                                    UI Design, Logo and branding
-                                </small>
-                            </h3>
-                        </div>
-                    </a>
-                    <a data-link="darling.php" class="tile col-md-4 col-sm-6 darling fade-out-link">
-                        <img class="img-responsive" src="img/darling-tile.png"/>
-                        <div class="title-wrap">
-                            <h3>Darling<br>
-                                <small>
-                                Women’s soft separates, design project
-                                </small>
-                            </h3>
-                        </div>
-                    </a>
-                    <a data-link="om.php" class="tile col-md-4 col-sm-6 om fade-out-link">
-                       <img class="img-responsive" src="img/om-tile.png"/>
-                        <div class="title-wrap">
-                            <h3>
-                                Olu Meduoye Portfolio Website<br>
-                                <small>
-                                    UI/UX Design
-                                </small>
-                            </h3>
-                        </div>
-                    </a>
-                    <a data-link="pull-and-bear.php" class="tile col-md-4 col-sm-6 pull-and-bear fade-out-link">
-                       <img class="img-responsive" src="img/pull-and-bear-tile.png"/>
-                        <div class="title-wrap">
-                            <h3>
-                                Pull and Bear<br>
-                                <small>
-                                Women’s soft separates, design project
-                                </small>
-                            </h3>
-                        </div>
-                    </a>
-                    <a data-link="harvest.php" class="tile col-md-4 col-sm-6 harvest fade-out-link">
-                        <img class="img-responsive" src="img/harvest-tile.png"/>
-                        <div class="title-wrap">
-                            <h3>Harvest<br>
-                                <small>
-                                Women’s outerwear, design project
-                                </small>
-                            </h3>
-
-                        </div>
-                    </a>
-                    <a data-link="bershka.php" class="tile col-md-4 col-sm-6 bershka fade-out-link">
-                        <div class="col-md-12 text-center vantworks-logo-grid">
-                            <img class="img-responsive" src="img/bershka-tile.png">
-                        </div>
-                        <div class="title-wrap">
-                            <h3>Bershka
-                                <br>
-                                <small>
-                                Womens outerwear, design project
-                                </small>
-                            </h3>
-                        </div>
-                    </a>
-                    <a data-link="bodhan.php" class="tile col-md-4 col-sm-6 bodhan fade-out-link">
-                        <img class="img-responsive" src="img/bodhan-tile.png"/>
-                        <div class="title-wrap">
-                            <h3>Bodhan Consulting<br>
-                               <small>Logo and Branding</small>
-                            </h3>
-
-                        </div>
-                    </a>
-                    <a data-link="windrush.php" class="tile col-md-4 col-sm-6 windrush fade-out-link">
-                        <img class="img-responsive" src="img/windrush-tile.png"/>
-                        <div class="title-wrap">
-                            <h3>Windrush Project<br>
-                                <small>Logo and Branding</small>
-                            </h3>
-
-                        </div>
-                    </a>
-                    <!-- <a data-link="contact.php" class="tile col-md-4 col-sm-6 contact fade-out-link">
-                        <h2>Contact Me</h2>
-                        <div class="title-wrap">
-                            <h3>Interested in working with me?<br>
-                                <small>
-                                    Get in Touch!
-                                </small>
-                            </h3>
-
-                        </div>
-                    </a> -->
+                    <?php include 'tiles/lnt.php'; ?>
+                    <?php include 'tiles/lefties.php'; ?>
+                    <?php include 'tiles/covervidz.php'; ?>
+                    <?php include 'tiles/ocado.php'; ?>
+                    <?php include 'tiles/shotgun.php'; ?>
+                    <?php include 'tiles/darling.php'; ?>
+                    <?php include 'tiles/om.php'; ?>
+                    <?php include 'tiles/pull-and-bear.php'; ?>
+                    <?php include 'tiles/harvest.php'; ?>
+                    <?php include 'tiles/bershka.php'; ?>
+                    <?php include 'tiles/bodhan.php'; ?>
+                    <?php include 'tiles/windrush.php'; ?>
                 </div>
             </div>
 </div>

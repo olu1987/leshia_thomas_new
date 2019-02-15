@@ -197,6 +197,9 @@ a:hover, a:focus {
 .task-main-header {
   font-size: 80px; }
 
+h1, h2, h3, h4, h5 {
+  text-transform: uppercase; }
+
 .vantworks-header h1, .vantworks-header img {
   display: inline-block;
   font-family: helvetica, sans-serif; }
@@ -648,6 +651,15 @@ a:hover, a:focus {
 .ocado-grid-header {
   padding: 20px 20px 5px; }
 
+.previous-label, .next-label {
+  display: none; }
+
+.previous > .tile .previous-label {
+  display: block; }
+
+.next > .tile .next-label {
+  display: block; }
+
 .html {
   background: #f1f1f1; }
   .html:after {
@@ -984,7 +996,6 @@ a:hover, a:focus {
 
 @media (max-width: 1040px) {
   .home .header {
-    background-image: url(../../img/lnt-portfolio-header.jpg);
     background-position: center center !important;
     background-repeat: no-repeat;
     background-size: cover; } }

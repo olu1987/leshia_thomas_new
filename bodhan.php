@@ -12,8 +12,8 @@
             </div>
         </div>
         <div class="row mb-50 text-center">
-            <div class="col-md-8 col-md-offset-2">
-                <h2>Bodhan Consultants Logo</h2> 
+            <div class="col-md-6 col-md-offset-3">
+                <h2>Bodhan Consultants<br><small> Logo</small></h2> 
                 <p>Bodhan Consultants’ CEO contacted me after seeing my LNT logo and asked if I could design something which depicts the 
                    meaning of Bodhan (enlightenment) in a similar style.</p>
             </div>
@@ -35,34 +35,12 @@
             <a data-anchor="home" data-link="index.php" class="tile home-tile col-md-4 col-sm-6 fade-out-link">
             <h3> Home</h3>
          </a>
-         <a data-link="om.php" class="tile col-md-4 col-sm-6 om fade-out-link">
-            <img class="img-responsive" src="img/om-tile.png"/>
-             <div class="title-wrap">
-                 <h3>
-                 <small>
-                     Previous Project
-                 </small><br>
-                     Olu Meduoye Portfolio Website<br>
-                     <small>
-                         UI/UX Design
-                     </small>
-                 </h3>
-             </div>
-         </a>
-         <a data-link="lnt.php" class="tile col-md-4 col-sm-6 lnt fade-out-link">
-            <img class="img-responsive" src="img/lnt-tile.png"/>
-            <div class="title-wrap">
-                <h3>
-                <small>
-                    Next Project
-                </small><br>
-                    LNT London Ecommerce Website<br>
-                    <small>
-                        UI/UX, branding, project management and creative direction
-                    </small>
-                </h3>
-            </div>
-        </a>
+         <span class="previous">
+            <?php include 'tiles/bershka.php'; ?>
+        </span>
+        <span class="next">
+            <?php include 'tiles/windrush.php'; ?>
+        </span>
             </div>
         </div>
     </div>

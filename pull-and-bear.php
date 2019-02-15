@@ -12,8 +12,8 @@
             </div>
         </div>
         <div class="row mb-50 text-center">
-            <div class="col-md-8 col-md-offset-2">
-                <h2>Pull & Bear<br>Women’s soft separates, design project</h2> 
+            <div class="col-md-6 col-md-offset-3">
+                <h2>Pull & Bear<br><small>Women’s soft separates, design project</small></h2> 
                 <p>I was asked to create a collection for Pull & Bears’ SS15 collection.
                 Tribal & Safari were going to be hot trends for Spring Summer. 
                 I created a mood board that reflected this and used strong earthy
@@ -38,36 +38,12 @@
             <a data-anchor="home" data-link="index.php" class="tile home-tile col-md-4 col-sm-6 fade-out-link">
               <h3> Home</h3>
             </a>
-            <a data-link="bershka.php" class="tile col-md-4 col-sm-6 bershka fade-out-link">
-                <div class="col-md-12 text-center vantworks-logo-grid">
-                    <img class="img-responsive" src="img/bershka-tile.png">
-                </div>
-                <div class="title-wrap">
-                    <h3>
-                      <small>
-                        Previous Project
-                       </small><br>
-                        Bershka
-                        <br>
-                        <small>
-                        Style look project
-                        </small>
-                    </h3>
-                </div>
-            </a>
-            <a data-link="windrush.php" class="tile col-md-4 col-sm-6 windrush fade-out-link">
-                <img class="img-responsive" src="img/windrush-tile.png"/>
-                <div class="title-wrap">
-                    <h3>
-                       <small>
-                        Next Project
-                       </small><br>
-                        Windrush Project<br>
-                        <small>Logo and Branding</small>
-                    </h3>
-
-                </div>
-            </a>
+            <span class="previous">
+                <?php include 'tiles/om.php'; ?>
+            </span>
+            <span class="next">
+                <?php include 'tiles/harvest.php'; ?>
+            </span>
             </div>
         </div>
     </div>

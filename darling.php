@@ -12,8 +12,8 @@
             </div>
         </div>
         <div class="row mb-50 text-center">
-            <div class="col-md-8 col-md-offset-2">
-                <h2>Darling<br>Womenswear - Soft Separates</h2> 
+            <div class="col-md-6 col-md-offset-3">
+                <h2>Darling<br><small>Womenswear - Soft Separates</small></h2> 
                 <p>I was asked to create a summer collection for women in their early
                 30s. I knew pinks and pastels were the colours for the season so I
                 chose to do a romantic theme. I drew illustrations of flamingos and
@@ -39,35 +39,12 @@
             <a data-anchor="home" data-link="index.php" class="tile home-tile col-md-4 col-sm-6 fade-out-link">
             <h3> Home</h3>
          </a>
-         <a data-link="harvest.php" class="tile col-md-4 col-sm-6 harvest fade-out-link">
-            <img class="img-responsive" src="img/harvest-tile.png"/>
-            <div class="title-wrap">
-                <h3>
-                <small>
-                     Previous Project
-                 </small><br>
-                    Harvest<br>
-                    <small>
-                      Women’s outerwear, design project
-                    </small>
-                </h3>
-
-            </div>
-         </a>
-         <a data-link="lefties.php" class="tile col-md-4 col-sm-6 fade-out-link lefties">
-            <img class="img-responsive" src="img/lefties-tile.png"/>
-            <div class="title-wrap">
-                <h3>
-                <small>
-                     Next Project
-                 </small><br>
-                    Lefties<br>
-                    <small>
-                      Women’s outerwear, design project
-                    </small>
-                </h3>
-            </div>
-        </a>
+         <span class="previous">
+         <?php include 'tiles/shotgun.php'; ?>
+         </span>
+         <span class="next">
+         <?php include 'tiles/om.php'; ?>
+         </span>
             </div>
         </div>
     </div>

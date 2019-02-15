@@ -12,10 +12,12 @@
             </div>
         </div>
         <div class="row mb-50 text-center">
-            <div class="col-md-8 col-md-offset-2">
-                <h2>Shotgun <br>Mobile App Logo & UI Design </h2> 
-                <p>I am currently working on this app for a startup. I am creating all 
-                  of the UI,  design of icons, branding including logo and some of the UX.
+            <div class="col-md-6 col-md-offset-3">
+                <h2>Shotgun <br><small>UI Design, Logo and branding</small> </h2> 
+                <p>Shotgun are a startup that market themselves as an "uber for builders".
+                  The idea being that people post jobs on the app, and builders are able to pick 
+                  the job based on their proximity to the customer. I'm continuing to work with Shotgun
+                  as they prepare to put the app into alpha testing in the very near future.
                  </p>
             </div>
         </div>
@@ -55,37 +57,18 @@
             </div>
         </div>
     </div>
-    <div class="container windrush-bg">
-        <div class="row portfolio">
+    <div class="container">
+       <div class="row portfolio">
             <div class="col-md-12">
             <a data-anchor="home" data-link="index.php" class="tile home-tile col-md-4 col-sm-6 fade-out-link">
-            <h3> Home</h3>
-         </a>
-         <a data-link="windrush.php" class="tile col-md-4 col-sm-6 windrush fade-out-link">
-            <img class="img-responsive" src="img/windrush-tile.png"/>
-            <div class="title-wrap">
-                <h3><small>
-                    Previous Project
-                    </small><br>
-                    Windrush Project<br>
-                <small>Logo and Branding</small>
-                </h3>
-            </div>
-        </a>
-         <a data-link="om.php" class="tile col-md-4 col-sm-6 om fade-out-link">
-            <img class="img-responsive" src="img/om-tile.png"/>
-             <div class="title-wrap">
-                 <h3>
-                 <small>
-                     Next Project
-                 </small><br>
-                     Olu Meduoye Portfolio Website<br>
-                     <small>
-                         UI/UX Design
-                     </small>
-                 </h3>
-             </div>
-         </a>
+              <h3> Home </h3>
+            </a>
+            <span class="previous">
+            <?php include 'tiles/ocado.php'; ?>
+            </span>
+            <span class="next">
+            <?php include 'tiles/darling.php'; ?>
+            </span>
             </div>
         </div>
     </div>

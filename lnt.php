@@ -13,7 +13,7 @@
         </div>
         <div class="row mb-50 text-center">
             <div class="col-md-8 col-md-offset-2">
-                <h2>LNT London<br>Website UI/UX, Branding, Marketing</h2> 
+                <h2>LNT London<br><small>Website UI/UX, Branding, Marketing</small></h2> 
                 <p>LNT London is my own company. I designed all of the visual content from the branding 
                     to UI & UX for the website. I worked with Olu Meduoye (Front End designer) to create a elegant, clean aesthetic that’s easy to use. </p>
             </div>
@@ -40,33 +40,12 @@
             <a data-anchor="home" data-link="index.php" class="tile home-tile col-md-4 col-sm-6 fade-out-link">
             <h3> Home</h3>
          </a>
-         <a data-link="bodhan.php" class="tile col-md-4 col-sm-6 bodhan fade-out-link">
-            <img class="img-responsive" src="img/bodhan-tile.png"/>
-            <div class="title-wrap">
-                <h3>
-                <small>
-                     Previous Project
-                 </small><br>
-                    Bodhan Consulting<br>
-                    <small>Logo and Branding</small>
-                </h3>
-
-            </div>
-        </a>
-        <a data-link="covervidz.php" class="tile col-md-4 col-sm-6 covervidz fade-out-link">
-           <img class="img-responsive" src="img/covervidz-tile.png"/>
-           <div class="title-wrap">
-            <h3>
-               <small>
-                Next Project
-                 </small><br>
-                Covervidz<br>
-                <small>
-                   Logo and branding
-                </small>
-            </h3>
-            </div>
-         </a>
+         <span class="previous">
+         <?php include 'tiles/windrush.php'; ?>
+         </span>
+         <span class="next">
+         <?php include 'tiles/lefties.php'; ?>
+         </span>
             </div>
         </div>
     </div>

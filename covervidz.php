@@ -11,29 +11,26 @@
         </div>
     </div>
     <div class="row mb-50 text-center">
-        <div class="col-md-8 col-md-offset-2">
-            <h2>Covervidz<br>Logo and branding</h2>
-            <p>The logo for Covervidz was one of my first, however it hasn’t
-            seemed to age or become dated. They asked for me create a
-            logo that represented the content- people singing covers of 
-            popular songs
-            </p>
+        <div class="col-md-6 col-md-offset-3">
+            <h2>Covervidz<br><small>Logo and branding</small></h2>
+            <p class="pt-10">
+                Covervidz is a web application that uses the youtube API to allow users
+                to search for popular covers of their favourite song. 
+                I designed the logo for this project and also assisted with UI/UX. 
+            </p>   
+        </div>
+    </div>
+    <div class="row mb-50">
+        <div class="col-md-4 col-sm-4 col-sm-offset-2 text-center">
+            <img class="img-responsive center" src="img/covervidz-2.png"/>
+        </div>
+        <div class="col-md-4 col-sm-4 text-center">
+            <img class="img-responsive center" src="img/covervidz-3.png"/>
         </div>
     </div>
     <div class="row">
         <div class="col-md-10 col-md-offset-1">
             <img class="img-responsive center" src="img/covervidz-devices.jpg"/>
-        </div>
-    </div>
-    <div class="row mb-50">
-        <div class="col-md-4 col-sm-4">
-            <img class="img-responsive center" src="img/covervidz-1.png"/>
-        </div>
-        <div class="col-md-4 col-sm-4">
-            <img class="img-responsive center" src="img/covervidz-2.png"/>
-        </div>
-        <div class="col-md-4 col-sm-4">
-            <img class="img-responsive center" src="img/covervidz-3.png"/>
         </div>
     </div>
     </div>
@@ -43,36 +40,12 @@
             <a data-anchor="home" data-link="index.php" class="tile home-tile col-md-4 col-sm-6 fade-out-link">
               <h3> Home </h3>
             </a>
-            <a data-link="lnt.php" class="tile col-md-4 col-sm-6 lnt fade-out-link">
-                <img class="img-responsive" src="img/lnt-tile.png"/>
-                <div class="title-wrap">
-                    <h3>
-                    <small>
-                      Previous Project
-                        </small><br>
-                        LNT London Ecommerce Website<br>
-                        <small>
-                            UI/UX, branding, project management and creative direction
-                        </small>
-                    </h3>
-
-                </div>
-            </a>
-            <a data-link="harvest.php" class="tile col-md-4 col-sm-6 harvest fade-out-link">
-                        <img class="img-responsive" src="img/harvest-tile.png"/>
-                        <div class="title-wrap">
-                            <h3>
-                                    <small>
-                            Next Project
-                                </small><br>
-                                Harvest<br>
-                                <small>
-                                   Women’s outerwear, design project
-                                </small>
-                            </h3>
-
-                        </div>
-                    </a>
+            <span class="previous">
+            <?php include 'tiles/lefties.php'; ?>
+            </span>
+            <span class="next">
+            <?php include 'tiles/ocado.php'; ?>
+            </span>
             </div>
         </div>
     </div>
