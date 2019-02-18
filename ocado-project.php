@@ -101,10 +101,10 @@
               <h3> Home </h3>
             </a>
             <span class="previous">
-            <?php include 'tiles/covervidz.php'; ?>
+            <?php include 'tiles/lefties.php'; ?>
             </span>
             <span class="next">
-            <?php include 'tiles/shotgun.php'; ?>
+            <?php include 'tiles/darling.php'; ?>
             </span>
             </div>
         </div>

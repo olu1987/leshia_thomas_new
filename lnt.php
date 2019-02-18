@@ -45,7 +45,7 @@
             <h3> Home</h3>
          </a>
          <span class="previous">
-         <?php include 'tiles/windrush.php'; ?>
+         <?php include 'tiles/bodhan.php'; ?>
          </span>
          <span class="next">
          <?php include 'tiles/lefties.php'; ?>

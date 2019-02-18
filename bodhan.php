@@ -42,7 +42,7 @@
             <?php include 'tiles/bershka.php'; ?>
         </span>
         <span class="next">
-            <?php include 'tiles/windrush.php'; ?>
+            <?php include 'tiles/lnt.php'; ?>
         </span>
             </div>
         </div>

@@ -17,16 +17,13 @@
                 <div class="col-md-12">
                     <?php include 'tiles/lnt.php'; ?>
                     <?php include 'tiles/lefties.php'; ?>
-                    <?php include 'tiles/covervidz.php'; ?>
                     <?php include 'tiles/ocado.php'; ?>
-                    <?php include 'tiles/shotgun.php'; ?>
                     <?php include 'tiles/darling.php'; ?>
                     <?php include 'tiles/om.php'; ?>
                     <?php include 'tiles/pull-and-bear.php'; ?>
                     <?php include 'tiles/harvest.php'; ?>
                     <?php include 'tiles/bershka.php'; ?>
                     <?php include 'tiles/bodhan.php'; ?>
-                    <?php include 'tiles/windrush.php'; ?>
                 </div>
             </div>
 </div>

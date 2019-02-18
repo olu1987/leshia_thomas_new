@@ -42,7 +42,7 @@
          <?php include 'tiles/lnt.php'; ?>
          </span>
          <span class="next">
-         <?php include 'tiles/covervidz.php'; ?>
+         <?php include 'tiles/ocado.php'; ?>
          </span>
             </div>
         </div>
