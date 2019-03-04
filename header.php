@@ -19,6 +19,7 @@
     <script src="js/vendor/modernizr-2.8.3.min.js"></script>
     <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300i,400" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Arvo" rel="stylesheet">
 </head>
 <body class="<?php
          if(isset($body)){ echo $body;}else{ echo'not-home';} ?>">
