@@ -5,8 +5,13 @@
 <?php include 'header.php'; ?>
 
     <!-- Add your site or application content here -->
-    <div class="container lnt-bg">
-    <div class="row header-row">
+    <div class="container lnt-bg">   
+    <div class="row feature-row">
+        <div class="col-md-10 col-md-offset-1">
+           <img class="img-responsive screenshot" src="img/lnt-header-image.jpg" />
+        </div>    
+    </div> 
+    <div class="row feature-row">
         <div class="col-md-3 col-md-offset-1">
           <img class="img-responsive" src="img/lnt-key.png" />
         </div>
@@ -19,11 +24,6 @@
             </p>
         </div>
       </div>    
-    <div class="row feature-row">
-        <div class="col-md-10 col-md-offset-1">
-           <img class="img-responsive screenshot" src="img/lnt-header-image.jpg" />
-        </div>    
-    </div>    
       <div class="row feature-row">
         <div class="col-md-6 col-sm-6 col-md-offset-1">
           <img class="img-responsive" src="img/lnt-typography.png" />
@@ -35,7 +35,9 @@
             the job based on their proximity to the customer. I'm continuing to work with Shotgun
             as they prepare to put the app into alpha testing in the very near future.
             </p>
-            <img class="img-responsive screenshot" src="img/lnt-color-palette.png" />
+            <div class="col-md-10 col-md-offset-1 pt-50">
+            <img class="img-responsive" src="img/lnt-color-palette.png" />
+            </div>
         </div>
       </div>
       <div class="row feature-row">
@@ -63,6 +65,12 @@
            <div class="row">
              <div class="col-md-4">
                <img class="img-responsive screenshot" src="img/lnt-mobile-one.jpg" />
+             </div>
+             <div class="col-md-4">
+               <img class="img-responsive screenshot" src="img/lnt-mobile-two.jpg" />
+             </div>
+             <div class="col-md-4">
+               <img class="img-responsive screenshot" src="img/lnt-mobile-three.jpg" />
              </div>
            </div>
         </div>    
