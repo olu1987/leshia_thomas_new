@@ -242,6 +242,10 @@
   text-align: center;
 }
 
+.lnt-bg .feature-row img.screenshot {
+  box-shadow: 0 0 2px #9a9a9a;
+}
+
 @media(max-width: 767px) {
   .phone-image {
     max-width: 300px;

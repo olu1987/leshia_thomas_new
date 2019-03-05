@@ -43,7 +43,7 @@
          <?php include 'tiles/ocado.php'; ?>
          </span>
          <span class="next">
-         <?php include 'tiles/om.php'; ?>
+         <?php include 'tiles/shotgun.php'; ?>
          </span>
             </div>
         </div>

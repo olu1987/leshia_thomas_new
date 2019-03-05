@@ -32,7 +32,7 @@
         </div>
       </div>
       <div class="row feature-row">
-      <div class="col-md-7 col-sm-6 col-md-offset-1">
+        <div class="col-md-7 col-sm-6 col-md-offset-1">
           <img class="img-responsive" src="img/shotgun-wireframe.png" />
         </div>
         <div class="col-md-4 col-sm-6">
@@ -101,10 +101,10 @@
               <h3> Home </h3>
             </a>
             <span class="previous">
-            <?php include 'tiles/ocado.php'; ?>
+            <?php include 'tiles/darling.php'; ?>
             </span>
             <span class="next">
-            <?php include 'tiles/darling.php'; ?>
+            <?php include 'tiles/pull-and-bear.php'; ?>
             </span>
             </div>
         </div>

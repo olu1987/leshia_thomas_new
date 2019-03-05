@@ -421,7 +421,7 @@ h1, h2, h3, h4, h5 {
   background: #231f20; }
 
 .shotgun-bg, .shotgun-bg .loader-container {
-  background: #afaeb5; }
+  background: #e0f8ff; }
 
 .om-bg, .om-bg .loader-container {
   background: #4b57ab;
@@ -431,8 +431,15 @@ h1, h2, h3, h4, h5 {
   background: #35495a;
   color: #fff; }
 
-.lnt-bg, .lnt-bg .loader-container {
-  background: #c6d3db; }
+.lnt-bg {
+  background: white;
+  background: -moz-linear-gradient(180deg, white 0%, #edc2c9 50%, #edc2c9 100%);
+  background: -webkit-linear-gradient(180deg, white 0%, #edc2c9 50%, #edc2c9 100%);
+  background: linear-gradient(180deg, white 0%, #edc2c9 50%, #edc2c9 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff",endColorstr="#edc2c9",GradientType=1); }
+
+.lnt-bg .loader-container {
+  background: #edc2c9; }
 
 .darling-bg, .darling-bg .loader-container {
   background: #eca9c8; }
@@ -488,10 +495,10 @@ h1, h2, h3, h4, h5 {
 
 .shotgun-page .container {
   background: white;
-  background: -moz-linear-gradient(180deg, white 0%, #e0f8ff 100%, #00d4ff 100%);
-  background: -webkit-linear-gradient(180deg, white 0%, #e0f8ff 100%, #00d4ff 100%);
-  background: linear-gradient(180deg, white 0%, #e0f8ff 100%, #00d4ff 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff",endColorstr="#00d4ff",GradientType=1); }
+  background: -moz-linear-gradient(180deg, white 0%, #e0f8ff 49%, #e0f8ff 100%);
+  background: -webkit-linear-gradient(180deg, white 0%, #e0f8ff 49%, #e0f8ff 100%);
+  background: linear-gradient(180deg, white 0%, #e0f8ff 49%, #e0f8ff 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff",endColorstr="#e0f8ff",GradientType=1); }
 
 .row.footer {
   height: 200px;
@@ -642,7 +649,7 @@ h1, h2, h3, h4, h5 {
   .tile.windrush {
     background: #a8c6dd; }
   .tile.shotgun {
-    background: #afaeb5; }
+    background: #e0f8ff; }
   .tile.om {
     background: #14103c; }
   .tile.bodhan {
@@ -650,7 +657,7 @@ h1, h2, h3, h4, h5 {
   .tile.lnt {
     background: #c4b8db; }
   .tile.covervidz {
-    background: #afaeb5; }
+    background: #e0f8ff; }
   .tile.harvest {
     background: #2b243d; }
   .tile.darling {
@@ -898,6 +905,9 @@ h1, h2, h3, h4, h5 {
 .ocado-section {
   margin-bottom: 50px;
   text-align: center; }
+
+.lnt-bg .feature-row img.screenshot {
+  box-shadow: 0 0 2px #9a9a9a; }
 
 @media (max-width: 767px) {
   .phone-image {
