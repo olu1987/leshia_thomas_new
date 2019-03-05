@@ -214,7 +214,7 @@ h1, h2, h3, h4, h5 {
 .intro-col > h2, .intro-col > p {
   text-align: left; }
 
-.shotgun-page h2 {
+.shotgun-page .feature-row h2, .shotgun-page .header-row h2 {
   text-transform: capitalize;
   font-family: 'Arvo', serif; }
 
@@ -472,9 +472,7 @@ h1, h2, h3, h4, h5 {
 
 .feature-row, .header-row {
   display: flex;
-  align-items: center; }
-
-.header-row {
+  align-items: center;
   padding: 50px 0; }
 
 .row.footer {
