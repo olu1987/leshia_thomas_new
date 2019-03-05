@@ -7,11 +7,11 @@
     <!-- Add your site or application content here -->
     <div class="container">
       <div class="row header-row">
-        <div class="col-md-3 col-md-offset-1">
+        <div class="col-md-6 col-md-offset-1">
           <img class="img-responsive" src="img/shotgun-logo.png" />
         </div>
-        <div class="col-md-7">
-        <h2><small>UI Design, Logo and branding</small> </h2> 
+        <div class="col-md-6">
+        <h2>UI Design, Logo and branding</h2> 
           <p>Shotgun are a startup that market themselves as an "uber for builders".
             The idea being that people post jobs on the app, and builders are able to pick 
             the job based on their proximity to the customer. I'm continuing to work with Shotgun
@@ -53,6 +53,7 @@
             the job based on their proximity to the customer. I'm continuing to work with Shotgun
             as they prepare to put the app into alpha testing in the very near future.
             </p>
+            <img class="img-responsive" src="img/shotgun-account-buttons.png" />
         </div>
         <div class="col-md-6 col-sm-6 col-md-offset-1 px-0">
           <img class="img-responsive" src="img/shotgun-account-page.png" />

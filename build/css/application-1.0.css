@@ -214,6 +214,14 @@ h1, h2, h3, h4, h5 {
 .intro-col > h2, .intro-col > p {
   text-align: left; }
 
+.shotgun-page .container {
+  box-shadow: 0 0 1px #e6e6e6;
+  background: white;
+  background: -moz-linear-gradient(180deg, white 0%, #e0f8ff 100%, #00d4ff 100%);
+  background: -webkit-linear-gradient(180deg, white 0%, #e0f8ff 100%, #00d4ff 100%);
+  background: linear-gradient(180deg, white 0%, #e0f8ff 100%, #00d4ff 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff",endColorstr="#00d4ff",GradientType=1); }
+
 .shotgun-page .feature-row h2, .shotgun-page .header-row h2 {
   text-transform: capitalize;
   font-family: 'Arvo', serif; }
