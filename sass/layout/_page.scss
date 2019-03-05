@@ -237,3 +237,11 @@
 .footer-text-row {
   padding: 120px 0;
 }
+
+.page-wrap .container {
+  box-shadow: 0 0 1px #e6e6e6;
+}
+
+.shotgun-page .container {
+  @include shotgunGradient();
+}

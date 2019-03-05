@@ -32,7 +32,7 @@
         </div>
       </div>
       <div class="row feature-row">
-      <div class="col-md-8 col-sm-6">
+      <div class="col-md-7 col-sm-6 col-md-offset-1">
           <img class="img-responsive" src="img/shotgun-wireframe.png" />
         </div>
         <div class="col-md-4 col-sm-6">
