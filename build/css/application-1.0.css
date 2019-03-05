@@ -480,8 +480,13 @@ h1, h2, h3, h4, h5 {
 
 .feature-row, .header-row {
   display: flex;
-  align-items: center;
+  align-items: center; }
+
+.feature-row {
   padding: 50px 0; }
+
+.header-row {
+  padding: 120px 0; }
 
 .row.footer {
   height: 200px;

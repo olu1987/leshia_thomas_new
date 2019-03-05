@@ -224,5 +224,12 @@
 .feature-row, .header-row {
   display: flex;
   align-items: center;
+}
+
+.feature-row {
   padding: 50px 0;
+}
+
+.header-row {
+  padding: 120px 0;
 }

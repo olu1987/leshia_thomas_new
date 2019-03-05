@@ -7,10 +7,10 @@
     <!-- Add your site or application content here -->
     <div class="container">
       <div class="row header-row">
-        <div class="col-md-6 col-md-offset-1">
+        <div class="col-md-3 col-md-offset-1">
           <img class="img-responsive" src="img/shotgun-logo.png" />
         </div>
-        <div class="col-md-6">
+        <div class="col-md-7">
         <h2>UI Design, Logo and branding</h2> 
           <p>Shotgun are a startup that market themselves as an "uber for builders".
             The idea being that people post jobs on the app, and builders are able to pick 
