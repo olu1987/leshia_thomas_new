@@ -84,7 +84,7 @@
           <img class="img-responsive" src="img/shotgun-color-palette.png" />
         </div>
       </div>
-      <div class="row feature-row">
+      <div class="row footer-text-row">
         <div class="col-md-10 col-md-offset-1">
            <p>Shotgun are a startup that market themselves as an "uber for builders".
             The idea being that people post jobs on the app, and builders are able to pick 
