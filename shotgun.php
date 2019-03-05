@@ -1,5 +1,5 @@
 <?php $title = 'Shotgun | Logo and UI design';
-      $spinnerLogo = 'img/shotgun-tile.png';
+      $spinnerLogo = 'img/shotgun-logo.png';
       $body = 'not-home shotgun-page'
 ?>
 <?php include 'header.php'; ?>
@@ -56,6 +56,41 @@
         </div>
         <div class="col-md-6 col-sm-6 col-md-offset-1 px-0">
           <img class="img-responsive" src="img/shotgun-account-page.png" />
+        </div>
+      </div>
+      <div class="row feature-row">
+        <div class="col-md-6 col-md-offset-1 col-sm-6 px-0">
+          <img class="img-responsive" src="img/shotgun-typography.png" />
+        </div>
+        <div class="col-md-4 col-md-offset-1 col-sm-6">
+           <h2>Typography</h2>
+           <p>Shotgun are a startup that market themselves as an "uber for builders".
+            The idea being that people post jobs on the app, and builders are able to pick 
+            the job based on their proximity to the customer. I'm continuing to work with Shotgun
+            as they prepare to put the app into alpha testing in the very near future.
+            </p>
+        </div>
+      </div>
+      <div class="row feature-row">
+        <div class="col-md-4 col-md-offset-1 col-sm-6">
+           <h2>Colors</h2>
+           <p>Shotgun are a startup that market themselves as an "uber for builders".
+            The idea being that people post jobs on the app, and builders are able to pick 
+            the job based on their proximity to the customer. I'm continuing to work with Shotgun
+            as they prepare to put the app into alpha testing in the very near future.
+            </p>
+        </div>
+        <div class="col-md-8 col-sm-6 col-md-offset-1">
+          <img class="img-responsive" src="img/shotgun-color-palette.png" />
+        </div>
+      </div>
+      <div class="row feature-row">
+        <div class="col-md-10 col-md-offset-1">
+           <p>Shotgun are a startup that market themselves as an "uber for builders".
+            The idea being that people post jobs on the app, and builders are able to pick 
+            the job based on their proximity to the customer. I'm continuing to work with Shotgun
+            as they prepare to put the app into alpha testing in the very near future.
+            </p>
         </div>
       </div>
     </div>
