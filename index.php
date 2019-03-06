@@ -8,6 +8,7 @@
         <div id="home" class="container">
             <div id="portfolio" class="row portfolio">
                 <div class="col-md-12">
+                    <?php include 'tiles/cls.php'; ?>
                     <?php include 'tiles/mw.php'; ?>
                     <?php include 'tiles/ad.php'; ?>
                     <?php include 'tiles/lnt.php'; ?>

@@ -532,6 +532,9 @@ h1, h2, h3, h4, h5 {
 .ad-page .loader-container {
   background: #17243e; }
 
+.cls-page .container, .cls-page .loader-container {
+  background: #e8e6e6; }
+
 .row.footer {
   height: 200px;
   bottom: 0;
