@@ -646,8 +646,10 @@ h1, h2, h3, h4, h5 {
       .tile .title-wrap small > p {
         line-height: 1.4em; }
   .tile img {
-    width: 70%;
+    width: 190px;
     margin: 0 auto; }
+  .tile.bodhan img {
+    width: 125px; }
   .tile.vantworks {
     background: #d2c2c2; }
     .tile.vantworks img {
