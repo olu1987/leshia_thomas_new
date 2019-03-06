@@ -53,6 +53,22 @@
   .lower-small-image{
     padding-top: 30px;
   }
+
+  .feature-row, .header-row, .header-text-row, .footer-text-row {
+    flex-direction: column;
+
+    &.reverse {
+      flex-direction: column-reverse;
+    }
+  }
+
+  .feature-row {
+    padding: 25px 0;
+  }
+
+  .header-row, .header-text-row, .footer-text-row {
+    padding: 50px 0;
+  }
 }
 
 @media(max-width: 991px){

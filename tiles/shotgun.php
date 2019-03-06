@@ -8,7 +8,7 @@
             Shotgun
             <br>
             <small>
-                UI Design and branding
+                UI/UX and logo
             </small>
         </h3>
     </div>

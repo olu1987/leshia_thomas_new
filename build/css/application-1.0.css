@@ -218,6 +218,11 @@ h1, h2, h3, h4, h5 {
   text-transform: capitalize;
   font-family: 'Arvo', serif; }
 
+.lnt-bg .feature-row h2, .lnt-bg .header-row h2 {
+  text-transform: capitalize;
+  font-family: 'Cinzel', serif;
+  font-weight: 700; }
+
 .header {
   min-height: 660px;
   padding-top: 240px;
@@ -500,6 +505,14 @@ h1, h2, h3, h4, h5 {
   background: linear-gradient(180deg, white 0%, #e0f8ff 49%, #e0f8ff 100%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff",endColorstr="#e0f8ff",GradientType=1); }
 
+.ad-page .container {
+  background: #17243e;
+  background: -moz-linear-gradient(90deg, #17243e 0%, #17243e 69%, #010203 100%);
+  background: -webkit-linear-gradient(90deg, #17243e 0%, #17243e 69%, #010203 100%);
+  background: linear-gradient(90deg, #17243e 0%, #17243e 69%, #010203 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#17243e",endColorstr="#010203",GradientType=1);
+  color: #fff; }
+
 .row.footer {
   height: 200px;
   bottom: 0;
@@ -668,6 +681,8 @@ h1, h2, h3, h4, h5 {
     background: #c684b9; }
   .tile.lefties {
     background: #35495a; }
+  .tile.ad {
+    background: #17243e; }
   .tile.ocado {
     background: #922359; }
   .tile.contact {
@@ -1031,7 +1046,15 @@ h1, h2, h3, h4, h5 {
   .promo-lnt .col-md-5 {
     padding-top: 30px; }
   .lower-small-image {
-    padding-top: 30px; } }
+    padding-top: 30px; }
+  .feature-row, .header-row, .header-text-row, .footer-text-row {
+    flex-direction: column; }
+    .feature-row.reverse, .header-row.reverse, .header-text-row.reverse, .footer-text-row.reverse {
+      flex-direction: column-reverse; }
+  .feature-row {
+    padding: 25px 0; }
+  .header-row, .header-text-row, .footer-text-row {
+    padding: 50px 0; } }
 
 @media (max-width: 991px) {
   .row.footer {

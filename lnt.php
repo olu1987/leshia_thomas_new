@@ -5,25 +5,25 @@
 <?php include 'header.php'; ?>
 
     <!-- Add your site or application content here -->
-    <div class="container lnt-bg">   
+    <div class="container lnt-bg">  
+      <div class="row header-row">
+          <div class="col-md-4 col-md-offset-1">
+            <img class="img-responsive" src="img/lnt-key.png" />
+          </div>
+          <div class="col-md-6">
+            <p>LNT London is my own company. We are a luxury, boutique fashion brand based in the UK. 
+              Working with web developers, I built the entire UI/UX of the LNT London website. My 
+              main focus was ensuring that the site looked clean, was easy to use, and was consistent 
+              with our brand identity and values. The feedback on the website has been overwhelmingly 
+              positive.
+              </p>
+          </div>
+        </div>  
     <div class="row feature-row">
         <div class="col-md-10 col-md-offset-1">
            <img class="img-responsive screenshot" src="img/lnt-header-image.jpg" />
         </div>    
-    </div> 
-    <div class="row feature-row">
-        <div class="col-md-3 col-md-offset-1">
-          <img class="img-responsive" src="img/lnt-key.png" />
-        </div>
-        <div class="col-md-7">
-          <p>LNT London is my own company. We are a luxury, boutique fashion brand based in the UK. 
-            Working with web developers, I built the entire UI/UX of the LNT London website. My 
-            main focus was ensuring that the site looked clean, was easy to use, and was consistent 
-            with our brand identity and values. The feedback on the website has been overwhelmingly 
-            positive.
-            </p>
-        </div>
-      </div>    
+    </div>    
       <div class="row feature-row">
         <div class="col-md-6 col-sm-6 col-md-offset-1">
           <img class="img-responsive" src="img/lnt-typography.png" />

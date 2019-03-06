@@ -24,3 +24,11 @@ background: -webkit-linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(224,248
 background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(224,248,255,1) 49%, rgba(224,248,255,1) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff",endColorstr="#e0f8ff",GradientType=1);
 }
+
+@mixin adGradient() {
+  background: rgb(23,36,62);
+  background: -moz-linear-gradient(90deg, rgba(23,36,62,1) 0%, rgba(23,36,62,1) 69%, rgba(1,2,3,1) 100%);
+  background: -webkit-linear-gradient(90deg, rgba(23,36,62,1) 0%, rgba(23,36,62,1) 69%, rgba(1,2,3,1) 100%);
+  background: linear-gradient(90deg, rgba(23,36,62,1) 0%, rgba(23,36,62,1) 69%, rgba(1,2,3,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#17243e",endColorstr="#010203",GradientType=1);
+}

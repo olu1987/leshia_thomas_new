@@ -253,3 +253,8 @@
 .shotgun-page .container {
   @include shotgunGradient();
 }
+
+.ad-page .container {
+  @include adGradient();
+  color: #fff;
+}
