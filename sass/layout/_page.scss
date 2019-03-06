@@ -258,3 +258,8 @@
   @include adGradient();
   color: #fff;
 }
+
+.ad-page .loader-container{
+  background: $ad-bg-color;
+}
+
