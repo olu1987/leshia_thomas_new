@@ -46,6 +46,9 @@
   padding-top: 50px !important;
   padding-bottom: 50px !important; }
 
+.pt-0 {
+  padding-top: 0 !important; }
+
 .pt-10 {
   padding-top: 10px !important; }
 
@@ -60,6 +63,9 @@
 
 .pt-50 {
   padding-top: 50px !important; }
+
+.pb-0 {
+  padding-bottom: 0px !important; }
 
 .pb-10 {
   padding-bottom: 10px !important; }
@@ -516,6 +522,9 @@ h1, h2, h3, h4, h5 {
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#17243e",endColorstr="#010203",GradientType=1);
   color: #fff; }
 
+.mw-page .container {
+  overflow: hidden; }
+
 .ad-page .loader-container {
   background: #17243e; }
 
@@ -689,6 +698,8 @@ h1, h2, h3, h4, h5 {
     background: #35495a; }
   .tile.ad {
     background: #17243e; }
+  .tile.mw {
+    background: #fff; }
   .tile.ocado {
     background: #922359; }
   .tile.contact {
@@ -930,12 +941,21 @@ h1, h2, h3, h4, h5 {
 .lnt-bg .feature-row img.screenshot {
   box-shadow: 0 0 2px #9a9a9a; }
 
+.mw-feature-image-row {
+  padding: 0; }
+  .mw-feature-image-row img {
+    margin-top: -200px;
+    max-width: 130%;
+    width: 130%; }
+
 @media (max-width: 767px) {
   .phone-image {
     max-width: 300px;
     margin-bottom: 30px; }
   .what-i-do-wrap h3 {
-    font-size: 20px; } }
+    font-size: 20px; }
+  .mw-feature-image-row img {
+    margin-top: -100px; } }
 
 .task-description {
   padding-top: 50px;
