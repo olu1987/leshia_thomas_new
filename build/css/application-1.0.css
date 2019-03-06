@@ -421,8 +421,12 @@ h1, h2, h3, h4, h5 {
   .about p {
     font-size: 17px; }
 
-.bodhan-bg, .bodhan .loader-container {
-  background: #f3edb1; }
+.bodhan-bg .container {
+  background: #e6dde5;
+  background: -moz-linear-gradient(180deg, #e6dde5 0%, #d8c9dd 100%, #d8c9dd 100%);
+  background: -webkit-linear-gradient(180deg, #e6dde5 0%, #d8c9dd 100%, #d8c9dd 100%);
+  background: linear-gradient(180deg, #e6dde5 0%, #d8c9dd 100%, #d8c9dd 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#e6dde5",endColorstr="#d8c9dd",GradientType=1); }
 
 .windrush-bg, .windrush-bg .loader-container {
   background: #edd99f; }

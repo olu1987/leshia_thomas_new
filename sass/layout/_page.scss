@@ -140,8 +140,12 @@
   }
 }
 
-.bodhan-bg, .bodhan .loader-container {
-  background: #f3edb1;
+.bodhan-bg .container {
+  background: rgb(230,221,229);
+  background: -moz-linear-gradient(180deg, rgba(230,221,229,1) 0%, rgba(216,201,221,1) 100%, rgba(216,201,221,1) 100%);
+  background: -webkit-linear-gradient(180deg, rgba(230,221,229,1) 0%, rgba(216,201,221,1) 100%, rgba(216,201,221,1) 100%);
+  background: linear-gradient(180deg, rgba(230,221,229,1) 0%, rgba(216,201,221,1) 100%, rgba(216,201,221,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#e6dde5",endColorstr="#d8c9dd",GradientType=1);;
 }
 
 .windrush-bg, .windrush-bg .loader-container {
