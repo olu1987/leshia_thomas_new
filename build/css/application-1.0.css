@@ -194,6 +194,9 @@ body {
 a:hover, a:focus {
   text-decoration: none !important; }
 
+p {
+  opacity: 0.8; }
+
 .task-main-header {
   font-size: 80px; }
 
@@ -438,9 +441,9 @@ h1, h2, h3, h4, h5 {
 
 .lnt-bg {
   background: white;
-  background: -moz-linear-gradient(180deg, white 0%, #edc2c9 50%, #edc2c9 100%);
-  background: -webkit-linear-gradient(180deg, white 0%, #edc2c9 50%, #edc2c9 100%);
-  background: linear-gradient(180deg, white 0%, #edc2c9 50%, #edc2c9 100%);
+  background: -moz-linear-gradient(180deg, white 0%, #edc2c9 34%, #edc2c9 100%);
+  background: -webkit-linear-gradient(180deg, white 0%, #edc2c9 34%, #edc2c9 100%);
+  background: linear-gradient(180deg, white 0%, #edc2c9 34%, #edc2c9 100%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff",endColorstr="#edc2c9",GradientType=1); }
 
 .lnt-bg .loader-container {
