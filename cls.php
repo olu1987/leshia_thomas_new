@@ -1,4 +1,4 @@
-<?php $title = 'Anthony Devonish | Logo Design';
+<?php $title = 'Community Logistics Solutions | Logo Design';
       $spinnerLogo = 'img/cls-logo.png';
       $body = 'not-home cls-page'
 ?>

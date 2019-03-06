@@ -1,4 +1,4 @@
-<?php $title = 'Anthony Devonish | Logo Design';
+<?php $title = 'Bodhan Consulting | Logo Design';
       $spinnerLogo = 'img/bodhan-logo-xs.png';
       $body = 'not-home bodhan-bg'
 ?>
