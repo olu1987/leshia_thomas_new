@@ -176,7 +176,8 @@
 } 
 
 .lnt-bg {
- @include lntGradient();
+//  @include lntGradient();
+  background: #edc2c9;
 }
 
 .lnt-bg .loader-container {

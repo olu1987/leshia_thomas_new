@@ -450,11 +450,7 @@ h1, h2, h3, h4, h5 {
   color: #fff; }
 
 .lnt-bg {
-  background: white;
-  background: -moz-linear-gradient(180deg, white 0%, #edc2c9 34%, #edc2c9 100%);
-  background: -webkit-linear-gradient(180deg, white 0%, #edc2c9 34%, #edc2c9 100%);
-  background: linear-gradient(180deg, white 0%, #edc2c9 34%, #edc2c9 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff",endColorstr="#edc2c9",GradientType=1); }
+  background: #edc2c9; }
 
 .lnt-bg .loader-container {
   background: #edc2c9; }

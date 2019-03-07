@@ -35,7 +35,7 @@
             the job based on their proximity to the customer. I'm continuing to work with Shotgun
             as they prepare to put the app into alpha testing in the very near future.
             </p>
-            <div class="col-md-10 col-md-offset-1 pt-50">
+            <div class="col-xs-8 col-xs-offset-2 pt-50">
             <img class="img-responsive" src="img/lnt-color-palette.png" />
             </div>
         </div>
@@ -63,13 +63,13 @@
       <div class="row feature-row">
         <div class="col-md-10 col-md-offset-1">
            <div class="row">
-             <div class="col-md-4">
+             <div class="col-md-4 col-sm-4 col-xs-6">
                <img class="img-responsive screenshot" src="img/lnt-mobile-one.jpg" />
              </div>
-             <div class="col-md-4">
+             <div class="col-md-4 col-sm-4 col-xs-6">
                <img class="img-responsive screenshot" src="img/lnt-mobile-two.jpg" />
              </div>
-             <div class="col-md-4">
+             <div class="col-md-4 col-sm-4 col-xs-6">
                <img class="img-responsive screenshot" src="img/lnt-mobile-three.jpg" />
              </div>
            </div>
