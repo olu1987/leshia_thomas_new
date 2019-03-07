@@ -1,6 +1,6 @@
 <?php $title = 'LNT London';
       $spinnerLogo = 'img/lnt-tile.png';
-      $body = 'not-home lnt-bg'
+      $body = 'not-home'
 ?>
 <?php include 'header.php'; ?>
 
