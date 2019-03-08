@@ -19,7 +19,7 @@
     <script src="js/vendor/modernizr-2.8.3.min.js"></script>
     <link href="https://fonts.googleapis.com/css?family=Lato|Open+Sans:300i,400|Cinzel:400,700|Arvo" rel="stylesheet">
 </head>
-<body class="<?php
+<body onunload="" class="<?php
          if(isset($body)){ echo $body;}else{ echo'not-home';} ?>">
 <div class="text-center loader-container active">
     <?php
