@@ -72,7 +72,7 @@
             as they prepare to put the app into alpha testing in the very near future.
             </p>
         </div>
-        <div class="col-md-10 col-md-offset-1">
+        <div class="col-md-12">
           <img class="img-responsive" src="img/ocado-ui-one.jpg" />
         </div>
       </div>
@@ -85,7 +85,7 @@
             as they prepare to put the app into alpha testing in the very near future.
             </p>
         </div>
-        <div class="col-md-10 col-md-offset-1">
+        <div class="col-md-12">
           <img class="img-responsive" src="img/ocado-ui-two.jpg" />
         </div>
       </div>

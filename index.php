@@ -1,4 +1,4 @@
-<?php $title = 'Digital Designer from London';
+<?php $title = 'Designer from London';
       $body = 'home';
       $spinnerLogo = 'img/lt-new-icon.png';
 ?>

@@ -24,7 +24,7 @@
            <img class="img-responsive screenshot" src="img/lnt-header-image.jpg" />
         </div>    
     </div>    
-      <div class="row feature-row">
+      <div class="row feature-row lnt-typography">
         <div class="col-md-6 col-sm-6 col-md-offset-1">
           <img class="img-responsive" src="img/lnt-typography.png" />
         </div>

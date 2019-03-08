@@ -48,9 +48,15 @@ h1, h2, h3, h4, h5 {
 .ocado-page .feature-row, .ocado-page .header-row {
   h2 {
     text-transform: capitalize;
-    font-family: 'Signika', serif;
+    font-family: 'Lora', serif;
     font-weight: 700;
     font-size: 40px;
     color: #DB52A3;
+  }
+}
+
+.lnt-typography.feature-row {
+  h2{
+    margin-top: 0;
   }
 }

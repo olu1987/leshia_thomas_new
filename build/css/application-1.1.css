@@ -234,10 +234,13 @@ h1, h2, h3, h4, h5 {
 
 .ocado-page .feature-row h2, .ocado-page .header-row h2 {
   text-transform: capitalize;
-  font-family: 'Signika', serif;
+  font-family: 'Lora', serif;
   font-weight: 700;
   font-size: 40px;
   color: #DB52A3; }
+
+.lnt-typography.feature-row h2 {
+  margin-top: 0; }
 
 .header {
   min-height: 660px;
@@ -553,6 +556,9 @@ h1, h2, h3, h4, h5 {
   .ocado-overlapping-text-col.three {
     top: 100px;
     left: 30px; }
+
+.lnt-typography.feature-row > div {
+  align-self: flex-start; }
 
 .row.footer {
   height: 200px;
@@ -976,14 +982,9 @@ h1, h2, h3, h4, h5 {
     max-width: 130%;
     width: 130%; }
 
-@media (max-width: 767px) {
-  .phone-image {
-    max-width: 300px;
-    margin-bottom: 30px; }
-  .what-i-do-wrap h3 {
-    font-size: 20px; }
-  .mw-feature-image-row img {
-    margin-top: -100px; } }
+.lnt-bg .header-row img {
+  max-width: 300px;
+  margin: 0 auto; }
 
 .task-description {
   padding-top: 50px;
@@ -1128,7 +1129,10 @@ h1, h2, h3, h4, h5 {
     .ocado-page .feature-row > div {
       margin-top: 30px;
       margin-left: 0 !important;
-      margin-right: 0 !important; } }
+      margin-right: 0 !important; }
+  .lnt-bg .header-row {
+    display: block;
+    text-align: center; } }
 
 @media (max-width: 1040px) {
   .home .header {

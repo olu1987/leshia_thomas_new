@@ -1,5 +1,5 @@
 <?php $title = 'Anthony Devonish | Logo Design';
-      $spinnerLogo = 'img/ad-logo.png';
+      $spinnerLogo = 'img/ad-tile.png';
       $body = 'not-home ad-page'
 ?>
 <?php include 'header.php'; ?>

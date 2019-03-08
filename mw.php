@@ -20,7 +20,7 @@
       </div>
       <div class="row feature-row mw-feature-image-row">
         <div class="col-md-10 col-md-offset-1">
-          <img class="img-responsive" src="img/mw-typography-and-cards.png" />
+          <img class="img-responsive" src="img/mw-typograpy-and-cards-final.png" />
         </div>
       </div>
       <div class="row feature-row py-0">
