@@ -66,10 +66,10 @@
             <h3> Home</h3>
          </a>
          <span class="previous">
-            <?php include 'tiles/pull-and-bear.php'; ?>
+            <?php include 'tiles/cls.php'; ?>
         </span>
         <span class="next">
-            <?php include 'tiles/bershka.php'; ?>
+            <?php include 'tiles/darling.php'; ?>
         </span>
             </div>
         </div>

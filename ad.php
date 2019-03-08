@@ -59,10 +59,10 @@
               <h3> Home </h3>
             </a>
             <span class="previous">
-            <?php include 'tiles/darling.php'; ?>
+            <?php include 'tiles/shotgun.php'; ?>
             </span>
             <span class="next">
-            <?php include 'tiles/pull-and-bear.php'; ?>
+            <?php include 'tiles/lnt.php'; ?>
             </span>
             </div>
         </div>

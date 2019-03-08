@@ -38,10 +38,10 @@
               <h3> Home</h3>
             </a>
             <span class="previous">
-                <?php include 'tiles/harvest.php'; ?>
+                <?php include 'tiles/bodhan.php'; ?>
             </span>
             <span class="next">
-                <?php include 'tiles/bodhan.php'; ?>
+                <?php include 'tiles/shotgun.php'; ?>
             </span>
             </div>
         </div>

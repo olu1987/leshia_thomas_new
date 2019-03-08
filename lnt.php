@@ -83,7 +83,7 @@
             <h3> Home</h3>
          </a>
          <span class="previous">
-         <?php include 'tiles/bodhan.php'; ?>
+         <?php include 'tiles/ad.php'; ?>
          </span>
          <span class="next">
          <?php include 'tiles/lefties.php'; ?>
