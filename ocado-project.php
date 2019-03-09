@@ -11,7 +11,7 @@
           <img class="img-responsive" src="img/ocado-logo-xs.png" />
         </div>
         <div class="col-md-6">
-          <p>As an interview process project, I was required to create a concept for a Valentine’s Day event, 
+          <p> The brief was to create a concept for Ocados Valentine’s Day event, 
             then create finished designs for use on Ocado.com and in Google ads.
           </p>
         </div>
@@ -21,8 +21,8 @@
          <h2>Concept & Mood Board</h2>
             <p>
               The concept I came up with was <em>Togetherness</em>, an event based on crafts and 
-              handmade expressions of love and affection. The tagline being - <em>When thought, time, & effort 
-                go into making the one you love happy</em>
+              handmade expressions of love and affection. The tagline being - <em>When thought, 
+              time, & effort go into making the one you love happy</em>.
             </p>
         </div>
         <div class="col-md-12">
@@ -36,7 +36,8 @@
              and <em>Helvetica Neue Light</em> for all other text on business cards and other materials. 
             </p>
             <p>
-             I created the colour palette using a variety of tones that are associated with love, intimacy and homemade crafts.
+            I created the colour palette using a variety of tones that are associated with love, 
+            intimacy and homemade crafts with a grey base to keep it gender neutral. 
             </p>
         </div>
         <div class="col-md-10 col-md-offset-1">
@@ -52,8 +53,9 @@
         <div class="col-md-4 col-md-offset-4 text-center">
         <h2>Logo Ideation</h2>  
         <p>
-          I took inspiration from the sparrow for my logo designs, a bird associated with joy and peace. The illustration is intended to 
-          look hand drawn to be consistent with the handcrafted and thoughtful feel of the theme.
+          I took inspiration from the robin for my logo designs, a bird associated with 
+          passion and growth. The illustration is intended to look hand drawn to be consistent 
+          with the handcrafted and thoughtful feel of the theme.
         </p>
         </div>
       </div>

@@ -11,10 +11,9 @@
           <img class="img-responsive" src="img/shotgun-logo.png" />
         </div>
         <div class="col-md-6">
-          <p>Shotgun are a startup that market themselves as an "uber for builders".
-            The idea being that customers post jobs on the app, and builders are able to pick 
-            the job based on their proximity to the customer. The brief was for UI/UX,
-            logo design and custom iconography design.
+          <p>Shotgun are a startup that market themselves as an "uber for builders". The idea being 
+            that customers post jobs on the app and, builders are able to pick the job based on their 
+            proximity to the customer. The brief was for UI/UX, logo and custom iconography design.
             </p>
         </div>
       </div>

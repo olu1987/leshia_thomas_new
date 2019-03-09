@@ -12,9 +12,11 @@
         </div>
         <div class="col-md-6">
             <p>
-              Community Logistics Solutions (CLS) are a consultancy based in Ipswich who work with Ipswich county 
-              council to do logistics work and also run projects and schemes within the community. 
-              The brief was for logo and business card design.
+            Community Logistics Solutions (CLS) are a consultancy 
+            based in Ipswich, who work with Ipswich Borough Council to do logistics work and also 
+            run projects and schemes within the community. The brief was for logo and
+            business card design. Also, subsequent to this project, CLS have used my services 
+            for the creation of a number of flyers and posters to market their work. 
             </p>
         </div>
       </div>
@@ -26,8 +28,9 @@
       <div class="row feature-row">
         <div class="col-md-8 col-md-offset-2">
           <p>Working with the client we decided on <em>Aktiv Grotesk</em> font type for the headings,
-             and <em>Helvetica Neue</em> for all other text on business cards and other materials. I created
-             the colour palette using tones that I felt would look professional and clean.
+             and <em>Helvetica Neue</em> for all other text on business cards and other materials. I created the colour 
+             palette using tones that I felt related to maps and location services. 
+ 
             </p>
         </div>
       </div>
@@ -39,12 +42,13 @@
       <div class="row text">
         <div class="col-md-8 col-md-offset-2">
            <p>
-             I used 3 ajacent circles as the base for the lettering in the CLS logo. Then using Adobe Illustrator i crafted
-             each letter. My inspiration for using the circles as the base, was points on a map, pointing to the logistics
-              nature of the business. In this same vein, but in a more obvious way, I created a map pointer that 
-              is included as part of the logo and on business cards. The client was very pleased with the outcomes of our work together. 
-              It was a pleasure working with CLS, and I very much believe in
-              the value of the work they do within the community in Ipswich. 
+              I used 3 adjacent circles as the base for the lettering in the CLS logo. Then, 
+              using Adobe Illustrator I crafted each letter. My inspiration for using the circles, was 
+              points on a map, pointing to the logistics nature of the business. In this same vein, but 
+              in a more obvious way, I created a map pointer that is included as part of the logo and on 
+              business cards as the client used the slogan ‘getting the client to their final destination’. 
+              The client was very pleased with the outcomes of our work together. It’s always a pleasure 
+              working with CLS; I very much believe in the value of the work they do within the community in Ipswich.
             </p>
         </div>
       </div>

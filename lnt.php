@@ -11,10 +11,11 @@
             <img class="img-responsive" src="img/lnt-key.png" />
           </div>
           <div class="col-md-6">
-            <p>LNT London is my own company. We are a luxury, boutique fashion brand based in the UK. 
-              Working with a develoment team, I did all the UI/UX of the LNT London website. My 
-              main focus was ensuring that the site looked clean, was usable and intuitive, and was consistent 
-              with our brand identity and values. You can view the website at <a target="_blank" href="http://lntlondon.com/">lntlondon.com</a>
+            <p>LNT London is my own company. We are a luxury, boutique fashion brand based in the the UK. 
+              Working with a development team, I did all the UI/UX of the LNT London website as well as logo, 
+              branding and products. My main focus was ensuring that the site looked clean, was usable and was 
+              consistent with our brand identity and values. You can view the website 
+              at <a target="_blank" href="http://lntlondon.com/">lntlondon.com</a>
               </p>
           </div>
         </div>  
