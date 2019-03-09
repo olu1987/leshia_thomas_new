@@ -12,19 +12,18 @@
         </div>
         <div class="col-md-6">
           <p>Shotgun are a startup that market themselves as an "uber for builders".
-            The idea being that people post jobs on the app, and builders are able to pick 
-            the job based on their proximity to the customer. I'm continuing to work with Shotgun
-            as they prepare to put the app into alpha testing in the very near future.
+            The idea being that customers post jobs on the app, and builders are able to pick 
+            the job based on their proximity to the customer. The brief was for UI/UX,
+            logo design and custom iconography design.
             </p>
         </div>
       </div>
       <div class="row feature-row">
         <div class="col-md-4 col-md-offset-1 col-sm-6">
            <h2>Onboarding</h2>
-           <p>Shotgun are a startup that market themselves as an "uber for builders".
-            The idea being that people post jobs on the app, and builders are able to pick 
-            the job based on their proximity to the customer. I'm continuing to work with Shotgun
-            as they prepare to put the app into alpha testing in the very near future.
+           <p>For the onbarding screens I ensured there was clear differentiation 
+             between the view for builders vs customers. This was done using distinct colour themes
+             and by creating bespoke illustrations for each view.
             </p>
         </div>
         <div class="col-md-6 col-sm-6 col-md-offset-1 px-0">
@@ -37,20 +36,16 @@
         </div>
         <div class="col-md-4 col-sm-6">
            <h2>wireframes</h2>
-           <p>Shotgun are a startup that market themselves as an "uber for builders".
-            The idea being that people post jobs on the app, and builders are able to pick 
-            the job based on their proximity to the customer. I'm continuing to work with Shotgun
-            as they prepare to put the app into alpha testing in the very near future.
+           <p>Working with the client and development team I created wireframes for us to plan out the user
+             journey for builders and customers. 
             </p>
         </div>
       </div>
       <div class="row feature-row">
         <div class="col-md-4 col-md-offset-1 col-sm-6">
-           <h2>Account Page</h2>
-           <p>Shotgun are a startup that market themselves as an "uber for builders".
-            The idea being that people post jobs on the app, and builders are able to pick 
-            the job based on their proximity to the customer. I'm continuing to work with Shotgun
-            as they prepare to put the app into alpha testing in the very near future.
+           <h2>User Profile</h2>
+           <p>The user profile I designed is simple but intuitive. The navigation buttons feature 
+             some of the custom iconography library that I created for the client.
             </p>
             <img class="img-responsive" src="img/shotgun-account-buttons.png" />
         </div>
@@ -64,20 +59,18 @@
         </div>
         <div class="col-md-4 col-md-offset-1 col-sm-6">
            <h2>Typography</h2>
-           <p>Shotgun are a startup that market themselves as an "uber for builders".
-            The idea being that people post jobs on the app, and builders are able to pick 
-            the job based on their proximity to the customer. I'm continuing to work with Shotgun
-            as they prepare to put the app into alpha testing in the very near future.
+           <p>Working with the client we decided on <em>Jubilat</em> font type for the headings,
+             and <em>Acumin Pro</em> for all other text. I felt both these fonts
+             had the correct feel for an app within the building and construction sector.
             </p>
         </div>
       </div>
       <div class="row feature-row">
         <div class="col-md-4 col-md-offset-1 col-sm-6">
-           <h2>Colors</h2>
-           <p>Shotgun are a startup that market themselves as an "uber for builders".
-            The idea being that people post jobs on the app, and builders are able to pick 
-            the job based on their proximity to the customer. I'm continuing to work with Shotgun
-            as they prepare to put the app into alpha testing in the very near future.
+           <h2>Colours</h2>
+           <p>The palette I created mixed colours that would be quite familiar to 
+             builders and those in that industry, with others that are more generic and 
+             familiar to customers and builders alike. 
             </p>
         </div>
         <div class="col-md-8 col-sm-6 col-md-offset-1">
@@ -86,10 +79,9 @@
       </div>
       <div class="row footer-text-row">
         <div class="col-md-8 col-md-offset-2">
-           <p>Shotgun are a startup that market themselves as an "uber for builders".
-            The idea being that people post jobs on the app, and builders are able to pick 
-            the job based on their proximity to the customer. I'm continuing to work with Shotgun
-            as they prepare to put the app into alpha testing in the very near future.
+           <p>The client and I were very pleased with the outcome of our work together.
+             The shotgun app is currently in alpha testing. As soon as it is released, I 
+             will include a link here.
             </p>
         </div>
       </div>
