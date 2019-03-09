@@ -3,7 +3,7 @@
     <div class="title-wrap">
         <h3>
         <?php include 'partials/previous-next.php' ?>
-            Bodhan Consulting<br>
+            Bodhan Consultants<br>
             <small>Logo and Branding</small>
         </h3>
 
