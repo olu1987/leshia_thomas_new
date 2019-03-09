@@ -11,7 +11,7 @@
           <img class="img-responsive" src="img/ad-logo.png" />
         </div>
         <div class="col-md-6">
-          <p>Anthony Devonish (AD) carpentry is a business based in Ipswich. The design brief was for logo design, business cards, and workwear. 
+          <p>Anthony Devonish (AD) are a carpentry business based in Ipswich. The brief was for logo and business card design, and workwear. 
             </p>
         </div>
       </div>
@@ -39,7 +39,8 @@
            <p>
              I created a number of different options during the logo ideation stage. I honed in 
              on the final design as we both agreed the smooth lines and hammer are the most obvious 
-             association with carpentry.  The client and I were very pleased with the final deliverables.
+             association with carpentry. Below is one of a number of workwear mockups I created for the client.  
+             The client and I were very pleased with the final deliverables.
             </p>
            <p>
             </p>
