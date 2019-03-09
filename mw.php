@@ -11,10 +11,8 @@
           <img class="img-responsive" src="img/mw-logo.png" />
         </div>
         <div class="col-md-6">
-          <p>Shotgun are a startup that market themselves as an "uber for builders".
-            The idea being that people post jobs on the app, and builders are able to pick 
-            the job based on their proximity to the customer. I'm continuing to work with Shotgun
-            as they prepare to put the app into alpha testing in the very near future.
+           <p>Michael Woodley is an individual with a lazer cutting business.
+            The design brief was for logo and business card design. 
             </p>
         </div>
       </div>
@@ -25,10 +23,10 @@
       </div>
       <div class="row feature-row py-0">
         <div class="col-md-8 col-md-offset-1">
-           <p>Shotgun are a startup that market themselves as an "uber for builders".
-            The idea being that people post jobs on the app, and builders are able to pick 
-            the job based on their proximity to the customer. I'm continuing to work with Shotgun
-            as they prepare to put the app into alpha testing in the very near future.
+           <p>Working with the client we decided on <em>Athelas</em> font type for the headings,
+             and <em>Helvetica Neue</em> for all other text on business cards and other materials.
+             For the colour palette I chose black and white as I felt these tones were appropriate for
+             the clean, efficient, accurate feel that the client requested.
             </p>
         </div>
       </div>
@@ -39,11 +37,9 @@
       </div>
       <div class="row feature-row footer-text-row pt-0">
         <div class="col-md-8 col-md-offset-2">
-           <p>Shotgun are a startup that market themselves as an "uber for builders".
-            The idea being that people post jobs on the app, and builders are able to pick 
-            the job based on their proximity to the customer. I'm continuing to work with Shotgun
-            as they prepare to put the app into alpha testing in the very near future.
-            </p>
+           <p>
+            
+          </p>
         </div>
       </div>
     </div>

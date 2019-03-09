@@ -11,20 +11,18 @@
           <img class="img-responsive" src="img/ocado-logo-xs.png" />
         </div>
         <div class="col-md-6">
-          <p>Shotgun are a startup that market themselves as an "uber for builders".
-            The idea being that people post jobs on the app, and builders are able to pick 
-            the job based on their proximity to the customer. I'm continuing to work with Shotgun
-            as they prepare to put the app into alpha testing in the very near future.
-            </p>
+          <p>As an interview process project, I was required to create a concept for a Valentine’s Day event, 
+            then create finished designs for use on Ocado.com and in Google ads.
+          </p>
         </div>
       </div>
       <div class="row feature-row">
       <div class="col-md-6 ocado-overlapping-text-col one">
-         <h2>Mood Board</h2>
-          <p>Shotgun are a startup that market themselves as an "uber for builders".
-            The idea being that people post jobs on the app, and builders are able to pick 
-            the job based on their proximity to the customer. I'm continuing to work with Shotgun
-            as they prepare to put the app into alpha testing in the very near future.
+         <h2>Concept & Mood Board</h2>
+            <p>
+              The concept I came up with was <em>Togetherness</em>, an event based on crafts and 
+              handmade expressions of love and affection. The tagline being - <em>When thought, time, & effort 
+                go into making the one you love happy</em>
             </p>
         </div>
         <div class="col-md-12">
@@ -34,10 +32,11 @@
       <div class="row feature-row">
         <div class="col-md-6 ocado-overlapping-text-col two">
          <h2>typography and color</h2>
-          <p>Shotgun are a startup that market themselves as an "uber for builders".
-            The idea being that people post jobs on the app, and builders are able to pick 
-            the job based on their proximity to the customer. I'm continuing to work with Shotgun
-            as they prepare to put the app into alpha testing in the very near future.
+            <p>Based on Ocado's current branding I chose <em>Helvetica Neue Medium</em> font type for the headings,
+             and <em>Helvetica Neue Light</em> for all other text on business cards and other materials. 
+            </p>
+            <p>
+             I created the colour palette using a variety of tones that are associated with love, intimacy and homemade crafts.
             </p>
         </div>
         <div class="col-md-10 col-md-offset-1">
@@ -52,10 +51,10 @@
       <div class="row feature-row">
         <div class="col-md-4 col-md-offset-4 text-center">
         <h2>Logo Ideation</h2>  
-        <p>Shotgun are a startup that market themselves as an "uber for builders".
-            The idea being that people post jobs on the app, and builders are able to pick 
-            the job based on their proximity to the.
-            </p>
+        <p>
+          I took inspiration from the sparrow for my logo designs, a bird associated with joy and peace. The illustration is intended to 
+          look hand drawn to be consistent with the handcrafted and thoughtful feel of the theme.
+        </p>
         </div>
       </div>
       <div class="row feature-row">
@@ -66,10 +65,8 @@
       <div class="row feature-row">
        <div class="col-md-6 ocado-overlapping-text-col one">
          <h2>Shop in shop layouts</h2>
-          <p>Shotgun are a startup that market themselves as an "uber for builders".
-            The idea being that people post jobs on the app, and builders are able to pick 
-            the job based on their proximity to the customer. I'm continuing to work with Shotgun
-            as they prepare to put the app into alpha testing in the very near future.
+          <p>As well as the deliverables themselves, I created a variety of mockups
+            showing the assets in the current Ocado website.
             </p>
         </div>
         <div class="col-md-12">
@@ -79,10 +76,8 @@
       <div class="row feature-row">
       <div class="col-md-6 ocado-overlapping-text-col three">
          <h2>Banners</h2>
-          <p>Shotgun are a startup that market themselves as an "uber for builders".
-            The idea being that people post jobs on the app, and builders are able to pick 
-            the job based on their proximity to the customer. I'm continuing to work with Shotgun
-            as they prepare to put the app into alpha testing in the very near future.
+          <p>The dimensions and specifications for the banners were based on Ocado's use of 
+            Google ads and other ad platforms.  
             </p>
         </div>
         <div class="col-md-12">
@@ -96,10 +91,8 @@
         <div class="col-md-3 ml-50">
            <img class="img-responsive" src="img/ocado-birds.png" />
            <h2>Asset Placement Mockups</h2>
-           <p>Shotgun are a startup that market themselves as an "uber for builders".
-            The idea being that people post jobs on the app, and builders are able to pick 
-            the job based on their proximity to the customer. I'm continuing to work with Shotgun
-            as they prepare to put the app into alpha testing in the very near future.
+            <p>For all deliverables I created mock ups showing the placement of 
+              all image assets.
             </p> 
         </div>
       </div>
