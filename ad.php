@@ -39,7 +39,8 @@
         <div class="col-md-8 col-md-offset-2">
            <p>I created a number of different options during the logo ideation stage. The one the 
              client chose I believe has the most obvious associations with carpentry. Additionally I created some mock ups showing how the logo could look on 
-             clothing for the clients uniforms (see below).
+             clothing for the clients uniforms (see below). The client and I were very pleased with the final deliverables.
+
             </p>
            <p>
             </p>

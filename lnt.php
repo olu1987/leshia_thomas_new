@@ -12,10 +12,9 @@
           </div>
           <div class="col-md-6">
             <p>LNT London is my own company. We are a luxury, boutique fashion brand based in the UK. 
-              Working with web developers, I built the entire UI/UX of the LNT London website. My 
-              main focus was ensuring that the site looked clean, was easy to use, and was consistent 
-              with our brand identity and values. The feedback on the website has been overwhelmingly 
-              positive.
+              Working with a develoment team, I did all the UI/UX of the LNT London website. My 
+              main focus was ensuring that the site looked clean, was usable and intuitive, and was consistent 
+              with our brand identity and values. You can view the website at <a target="_blank" href="http://lntlondon.com/">lntlondon.com</a>
               </p>
           </div>
         </div>  
@@ -30,10 +29,12 @@
         </div>
         <div class="col-md-4 col-sm-6">
            <h2>typography and colour</h2>
-           <p>Shotgun are a startup that market themselves as an "uber for builders".
-            The idea being that people post jobs on the app, and builders are able to pick 
-            the job based on their proximity to the customer. I'm continuing to work with Shotgun
-            as they prepare to put the app into alpha testing in the very near future.
+           <p>
+             I chose <em>Trajan Pro</em> font type for the headings,
+             and <em>Helvetica Neue</em> for all other text. The colour
+             palette is just simple black and white as I wanted the site to be clean.
+             Also the imagery and products are very colourful, so I didn't want the
+             user to be overwhelmed by too much colour.
             </p>
             <div class="col-xs-8 col-xs-offset-2 pt-50">
             <img class="img-responsive" src="img/lnt-color-palette.png" />
