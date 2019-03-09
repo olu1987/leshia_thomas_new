@@ -37,7 +37,7 @@
              Also the imagery and products are very colourful, so I didn't want the
              user to be overwhelmed by too much colour.
             </p>
-            <div class="col-xs-8 col-xs-offset-2 pt-50">
+            <div class="col-xs-8 px-0 pt-50">
             <img class="img-responsive" src="img/lnt-color-palette.png" />
             </div>
         </div>
