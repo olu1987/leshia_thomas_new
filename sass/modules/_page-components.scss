@@ -242,17 +242,23 @@
   text-align: center;
 }
 
-@media(max-width: 767px) {
-  .phone-image {
-    max-width: 300px;
-    margin-bottom: 30px;
-  }
+.lnt-bg .feature-row img.screenshot {
+  box-shadow: 0 0 2px #9a9a9a;
+}
 
-  .what-i-do-wrap {
-    h3 {
-      font-size: 20px;
-    }
+.mw-feature-image-row {
+  padding: 0;
+
+  img {
+    margin-top: -200px;
+    max-width: 130%;
+    width: 130%; 
   }
+}
+
+.lnt-bg .header-row img {
+  max-width: 300px;
+  margin: 0 auto;
 }
 
 

@@ -50,8 +50,12 @@
   }
 
   img {
-    width:70%;
+    width:190px;
     margin: 0 auto;
+  }
+
+  &.bodhan img {
+    width: 125px;
   }
 
   &.vantworks{
@@ -153,6 +157,14 @@
 
   &.lefties {
     background: $lefties-bg-color;
+  }
+
+  &.ad{
+    background: $ad-bg-color;
+  }
+
+  &.mw {
+    background: #fff;
   }
 
   &.ocado {

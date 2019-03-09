@@ -3,7 +3,7 @@
         <p>Designed by <a class="text-uppercase anchor-link leshia-link"  data-anchor="home" href="#" data-link="index.php">leshia thomas</a></p>
     </div>
     <div class="col-md-4 text-center">
-        <h2>Leshia Thomas<br><small>2018</small></h2>
+        <h2>Leshia Thomas<br><small>2019</small></h2>
     </div>
     <div class="col-md-4">
         <ul class="list-inline text-right mt-20">
@@ -18,7 +18,7 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <script src="parallax.min.js"></script>
 <script src="js/plugins.js"></script>
-<script src="build/js/main-1.0.min.js"></script>
+<script src="build/js/main-1.1.min.js"></script>
 
 <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
 <script>

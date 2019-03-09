@@ -1,61 +1,90 @@
-<?php $title = 'Shotgun | Logo and UI design';
-      $spinnerLogo = 'img/shotgun-tile.png';
-      $body = 'not-home shotgun-bg'
+<?php $title = 'Shotgun | UI/UX and logo';
+      $spinnerLogo = 'img/shotgun-logo.png';
+      $body = 'not-home shotgun-page'
 ?>
 <?php include 'header.php'; ?>
 
     <!-- Add your site or application content here -->
-    <div class="container shotgun-bg">
-        <div class="row pt-20">
-            <div class="col-md-6 col-md-offset-3 text-center">
-                <img class="img-responsive page-header-logo" src="img/shotgun-tile.png"/>
-            </div>
+    <div class="container">
+      <div class="row header-row">
+        <div class="col-md-4 col-md-offset-1">
+          <img class="img-responsive" src="img/shotgun-logo.png" />
         </div>
-        <div class="row mb-50 text-center">
-            <div class="col-md-6 col-md-offset-3 intro-col">
-                <h2>Shotgun <br><small>UI Design, Logo and branding</small> </h2> 
-                <p>Shotgun are a startup that market themselves as an "uber for builders".
-                  The idea being that people post jobs on the app, and builders are able to pick 
-                  the job based on their proximity to the customer. I'm continuing to work with Shotgun
-                  as they prepare to put the app into alpha testing in the very near future.
-                 </p>
-            </div>
+        <div class="col-md-6">
+          <p>Shotgun are a startup that market themselves as an "uber for builders".
+            The idea being that customers post jobs on the app, and builders are able to pick 
+            the job based on their proximity to the customer. The brief was for UI/UX,
+            logo design and custom iconography design.
+            </p>
         </div>
-        <div class="row task-description">
-            <div class="col-md-10 col-md-offset-1">
-              <div class="row">
-                <div class="col-md-4 col-sm-4">
-                   <img class="img-responsive center phone-image" src="img/shotgun-home.png"/>
-                </div>
-                <div class="col-md-4 col-sm-4">
-                   <img class="img-responsive center phone-image" src="img/shotgun-dashboard.png"/>
-                </div>
-                <div class="col-md-4 col-sm-4">
-                   <img class="img-responsive center phone-image" src="img/shotgun-sidebar.png"/>
-                </div>
-              </div>
-            </div>
+      </div>
+      <div class="row feature-row">
+        <div class="col-md-4 col-md-offset-1 col-sm-6">
+           <h2>Onboarding</h2>
+           <p>For the onbarding screens I ensured there was clear differentiation 
+             between the view for builders vs customers. This was done using distinct colour themes
+             and by creating bespoke illustrations for each view.
+            </p>
         </div>
-        <div class="row task-description">
-            <div class="col-md-10 col-md-offset-1">
-             <img class="img-responsive" src="img/shotgun-color-pallette.png"/>
-            </div>
+        <div class="col-md-6 col-sm-6 col-md-offset-1 px-0">
+          <img class="img-responsive" src="img/shotgun-app-welcome.png" />
         </div>
-        <div class="row task-description">
-            <div class="col-md-10 col-md-offset-1">
-              <div class="row">
-              <div class="col-md-4 col-sm-4">
-                   <img class="img-responsive center phone-image" src="img/shotgun-shopping-screen-1.png"/>
-                </div>
-                <div class="col-md-4 col-sm-4">
-                   <img class="img-responsive center phone-image" src="img/shotgun-shopping-screen-2.png"/>
-                </div>
-                <div class="col-md-4 col-sm-4">
-                   <img class="img-responsive center phone-image" src="img/shotgun-shopping-screen-3.png"/>
-                </div>
-              </div>
-            </div>
+      </div> 
+      <div class="row feature-row reverse">
+        <div class="col-md-7 col-sm-6 col-md-offset-1">
+          <img class="img-responsive" src="img/shotgun-wireframe.png" />
         </div>
+        <div class="col-md-4 col-sm-6">
+           <h2>wireframes</h2>
+           <p>Working with the client and development team I created wireframes for us to plan out the user
+             journey for builders and customers. 
+            </p>
+        </div>
+      </div>
+      <div class="row feature-row">
+        <div class="col-md-4 col-md-offset-1 col-sm-6">
+           <h2>User Profile</h2>
+           <p>The user profile I designed is simple but intuitive. The navigation buttons feature 
+             some of the custom iconography library that I created for the client.
+            </p>
+            <img class="img-responsive" src="img/shotgun-account-buttons.png" />
+        </div>
+        <div class="col-md-6 col-sm-6 col-md-offset-1 px-0">
+          <img class="img-responsive" src="img/shotgun-account-page.png" />
+        </div>
+      </div>
+      <div class="row feature-row reverse">
+        <div class="col-md-6 col-md-offset-1 col-sm-6 px-0">
+          <img class="img-responsive" src="img/shotgun-typography.png" />
+        </div>
+        <div class="col-md-4 col-md-offset-1 col-sm-6">
+           <h2>Typography</h2>
+           <p>Working with the client we decided on <em>Jubilat</em> font type for the headings,
+             and <em>Acumin Pro</em> for all other text. I felt both these fonts
+             had the correct feel for an app within the building and construction sector.
+            </p>
+        </div>
+      </div>
+      <div class="row feature-row">
+        <div class="col-md-4 col-md-offset-1 col-sm-6">
+           <h2>Colours</h2>
+           <p>The palette I created mixed colours that would be quite familiar to 
+             builders and those in that industry, with others that are more generic and 
+             familiar to customers and builders alike. 
+            </p>
+        </div>
+        <div class="col-md-8 col-sm-6 col-md-offset-1">
+          <img class="img-responsive" src="img/shotgun-color-palette.png" />
+        </div>
+      </div>
+      <div class="row footer-text-row">
+        <div class="col-md-8 col-md-offset-2">
+           <p>The client and I were very pleased with the outcome of our work together.
+             The shotgun app is currently in alpha testing. As soon as it is released, I 
+             will include a link here.
+            </p>
+        </div>
+      </div>
     </div>
     <div class="container">
        <div class="row portfolio">
@@ -64,10 +93,10 @@
               <h3> Home </h3>
             </a>
             <span class="previous">
-            <?php include 'tiles/ocado.php'; ?>
+            <?php include 'tiles/bershka.php'; ?>
             </span>
             <span class="next">
-            <?php include 'tiles/darling.php'; ?>
+            <?php include 'tiles/ad.php'; ?>
             </span>
             </div>
         </div>

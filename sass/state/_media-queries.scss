@@ -53,6 +53,22 @@
   .lower-small-image{
     padding-top: 30px;
   }
+
+  .feature-row, .header-row, .header-text-row, .footer-text-row {
+    flex-direction: column;
+
+    &.reverse {
+      flex-direction: column-reverse;
+    }
+  }
+
+  .feature-row {
+    padding: 25px 0;
+  }
+
+  .header-row, .header-text-row, .footer-text-row {
+    padding: 50px 0;
+  }
 }
 
 @media(max-width: 991px){
@@ -62,6 +78,30 @@
     ul{
       text-align: center;
     }
+  }
+
+  .ocado-overlapping-text-col{
+    position: relative;
+    margin: 0 !important;
+    max-width: none;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+  }
+
+  .ocado-page .feature-row {
+    display: block;
+
+    > div {
+      margin-top: 30px;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+    }
+  }
+
+  .lnt-bg .header-row {
+    display: block;
+    text-align: center;
   }
 }
 

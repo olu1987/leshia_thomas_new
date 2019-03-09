@@ -15,12 +15,11 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="css/normalize.css">
-    <link rel="stylesheet" href="build/css/application-1.0.css">
+    <link rel="stylesheet" href="build/css/application-1.1.css">
     <script src="js/vendor/modernizr-2.8.3.min.js"></script>
-    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300i,400" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato|Open+Sans:300i,400|Cinzel:400,700|Arvo|Lora" rel="stylesheet">
 </head>
-<body class="<?php
+<body onunload="" class="<?php
          if(isset($body)){ echo $body;}else{ echo'not-home';} ?>">
 <div class="text-center loader-container active">
     <?php
@@ -38,7 +37,6 @@
 <div id="sidebar" class="nav-sidebar">
     <ul>
     <li><a class="anchor-link" data-anchor="home" data-link="index.php">Home</a></li>
-    <li><a class="anchor-link" data-link="index.php#portfolio" data-anchor="portfolio" >Portfolio</a></li>
     <li class="social-navigation">
         <a class="fade-out-link" data-link="contact.php" ><i class="fa fa-envelope" aria-hidden="true"></i></a>
         <a target="_blank" href="https://www.linkedin.com/in/leshia-thomas-85296536"><i class="fa fa-linkedin" aria-hidden="true"></i></a>

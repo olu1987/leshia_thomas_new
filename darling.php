@@ -40,10 +40,10 @@
             <h3> Home</h3>
          </a>
          <span class="previous">
-         <?php include 'tiles/ocado.php'; ?>
+         <?php include 'tiles/harvest.php'; ?>
          </span>
          <span class="next">
-         <?php include 'tiles/om.php'; ?>
+         <?php include 'tiles/pull-and-bear.php'; ?>
          </span>
             </div>
         </div>

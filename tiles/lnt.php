@@ -1,5 +1,5 @@
 <a data-link="lnt.php" class="tile col-md-4 col-sm-6 lnt fade-out-link">
-    <img class="img-responsive" src="img/lnt-tile.png"/>
+    <img class="img-responsive" src="img/lnt-key.png"/>
     <div class="title-wrap">
         <h3><?php include 'partials/previous-next.php' ?>
             LNT London Ecommerce Website<br>

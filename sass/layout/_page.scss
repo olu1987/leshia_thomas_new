@@ -140,8 +140,12 @@
   }
 }
 
-.bodhan-bg, .bodhan .loader-container {
-  background: #f3edb1;
+.bodhan-bg .container {
+  background: rgb(230,221,229);
+  background: -moz-linear-gradient(180deg, rgba(230,221,229,1) 0%, rgba(216,201,221,1) 100%, rgba(216,201,221,1) 100%);
+  background: -webkit-linear-gradient(180deg, rgba(230,221,229,1) 0%, rgba(216,201,221,1) 100%, rgba(216,201,221,1) 100%);
+  background: linear-gradient(180deg, rgba(230,221,229,1) 0%, rgba(216,201,221,1) 100%, rgba(216,201,221,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#e6dde5",endColorstr="#d8c9dd",GradientType=1);;
 }
 
 .windrush-bg, .windrush-bg .loader-container {
@@ -158,7 +162,7 @@
 }
 
 .shotgun-bg, .shotgun-bg .loader-container {
-  background: #afaeb5;
+  background: #e0f8ff;
 }
 
 .om-bg, .om-bg .loader-container {
@@ -171,8 +175,13 @@
   color: #fff;
 } 
 
-.lnt-bg, .lnt-bg .loader-container{
-  background: #c6d3db;
+.lnt-bg {
+//  @include lntGradient();
+  background: #edc2c9;
+}
+
+.lnt-bg .loader-container {
+  background: #edc2c9;
 }
 
 .darling-bg, .darling-bg .loader-container {
@@ -220,3 +229,77 @@
   bottom: 0;
   z-index: 100;
 }
+
+.feature-row, .header-row {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.feature-row {
+  padding: 50px 0;
+}
+
+.header-row {
+  padding: 120px 0;
+}
+
+.footer-text-row {
+  padding: 120px 0;
+}
+
+.page-wrap .container {
+  box-shadow: 0 0 1px #e6e6e6;
+}
+
+.shotgun-page .container {
+  @include shotgunGradient();
+}
+
+.ad-page .container {
+  @include adGradient();
+  color: #fff;
+}
+
+.mw-page .container{
+  overflow: hidden;
+}
+
+.ad-page .loader-container{
+  background: $ad-bg-color;
+}
+
+.cls-page .container, .cls-page .loader-container {
+  background: #e8e6e6;
+}
+
+.ocado-overlapping-text-col {
+  position: absolute;
+  z-index: 10;
+  max-width: 320px;
+
+  &.one {
+    margin-left: 30px;
+    top: 265px;
+  }
+
+  &.two {
+    right: 30px;
+    top: 215px;
+    right: 90px;
+  }
+
+  &.three {
+    top: 100px;
+    left: 30px;
+  }
+}
+
+.lnt-typography.feature-row {
+  > div {
+    align-self: flex-start;
+  }
+}
+
+
+

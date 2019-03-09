@@ -1,5 +1,6 @@
 var homeModule = {
     init:function(){
+        window.onunload = function(){};
         this.loaderContainer = document.querySelector('.loader-container');
         this.fadeContainer = document.querySelector('.fade-out-container');
         this.fadeOutLink = document.querySelectorAll('.fade-out-link');
@@ -13,6 +14,7 @@ var homeModule = {
         this.binding();
     },
     binding:function(){
+        window.onunload = function(){};
         window.addEventListener('load',this.loader.bind(this));
         this.infoBtn && this.infoBtn.addEventListener('click', this.toggleSkills.bind(this));
         for(var i = 0, x = this.fadeOutLink.length; i < x; i++){
@@ -77,5 +79,9 @@ var homeModule = {
     },
 
 };
-
+window.onpageshow = function(event) {
+    if (event.persisted) {
+        window.location.reload() 
+    }
+};
 homeModule.init();
