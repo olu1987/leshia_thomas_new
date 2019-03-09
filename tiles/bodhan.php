@@ -4,7 +4,7 @@
         <h3>
         <?php include 'partials/previous-next.php' ?>
             Bodhan Consultants<br>
-            <small>Logo and Branding</small>
+            <small>Logo Design</small>
         </h3>
 
     </div>
