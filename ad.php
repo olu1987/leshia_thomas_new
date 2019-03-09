@@ -11,10 +11,8 @@
           <img class="img-responsive" src="img/ad-logo.png" />
         </div>
         <div class="col-md-6">
-          <p>Shotgun are a startup that market themselves as an "uber for builders".
-            The idea being that people post jobs on the app, and builders are able to pick 
-            the job based on their proximity to the customer. I'm continuing to work with Shotgun
-            as they prepare to put the app into alpha testing in the very near future.
+          <p>Anthony Devonish are a carpentry business based in Ipswich.
+            The design brief was for logo and business card design. 
             </p>
         </div>
       </div>
@@ -25,10 +23,10 @@
       </div>
       <div class="row feature-row">
         <div class="col-md-8 col-md-offset-2">
-           <p>Shotgun are a startup that market themselves as an "uber for builders".
-            The idea being that people post jobs on the app, and builders are able to pick 
-            the job based on their proximity to the customer. I'm continuing to work with Shotgun
-            as they prepare to put the app into alpha testing in the very near future.
+           <p>Working with the client we decided on <em>Aktiv Grotesk</em> font type for the headings,
+             and <em>Helvetica Neue</em> for all other text on business cards and other materials. The colour
+             palette was created using a combination of the clients ideas and preference and my 
+             guidance and suggestions as to what would be appropriate for a carpentry business.
             </p>
         </div>
       </div>
@@ -39,10 +37,11 @@
       </div>
       <div class="row text">
         <div class="col-md-8 col-md-offset-2">
-           <p>Shotgun are a startup that market themselves as an "uber for builders".
-            The idea being that people post jobs on the app, and builders are able to pick 
-            the job based on their proximity to the customer. I'm continuing to work with Shotgun
-            as they prepare to put the app into alpha testing in the very near future.
+           <p>I created a number of different options during the logo ideation stage. The one the 
+             client chose I believe has the most obvious associations with carpentry. Additionally I created some mock ups showing how the logo could look on 
+             clothing for the clients uniforms (see below).
+            </p>
+           <p>
             </p>
         </div>
       </div>
