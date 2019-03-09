@@ -11,10 +11,10 @@
           <img class="img-responsive" src="img/cls-logo.png" />
         </div>
         <div class="col-md-6">
-          <p>Shotgun are a startup that market themselves as an "uber for builders".
-            The idea being that people post jobs on the app, and builders are able to pick 
-            the job based on their proximity to the customer. I'm continuing to work with Shotgun
-            as they prepare to put the app into alpha testing in the very near future.
+            <p>
+              Community Logistics Solutions (CLS) are a consultancy based in Ipswich who work with Ipswich county 
+              council to do logistics work and also run projects and schemes within the community. 
+              The brief was for logo and business card design.
             </p>
         </div>
       </div>
@@ -25,10 +25,9 @@
       </div>
       <div class="row feature-row">
         <div class="col-md-8 col-md-offset-2">
-           <p>Shotgun are a startup that market themselves as an "uber for builders".
-            The idea being that people post jobs on the app, and builders are able to pick 
-            the job based on their proximity to the customer. I'm continuing to work with Shotgun
-            as they prepare to put the app into alpha testing in the very near future.
+          <p>Working with the client we decided on <em>Aktiv Grotesk</em> font type for the headings,
+             and <em>Helvetica Neue</em> for all other text on business cards and other materials. I created
+             the colour palette using tones that I felt would look professional and clean.
             </p>
         </div>
       </div>
@@ -39,10 +38,13 @@
       </div>
       <div class="row text">
         <div class="col-md-8 col-md-offset-2">
-           <p>Shotgun are a startup that market themselves as an "uber for builders".
-            The idea being that people post jobs on the app, and builders are able to pick 
-            the job based on their proximity to the customer. I'm continuing to work with Shotgun
-            as they prepare to put the app into alpha testing in the very near future.
+           <p>
+             I used 3 ajacent circles as the base for the lettering in the CLS logo. Then using Adobe Illustrator i crafted
+             each letter. My inspiration for using the circles as the base, was points on a map, pointing to the logistics
+              nature of the business. In this same vein, but in a more obvious way, I created a map pointer that 
+              is included as part of the logo and on business cards. The client was very pleased with the outcomes of our work together. 
+              It was a pleasure working with CLS, and I very much believe in
+              the value of the work they do within the community in Ipswich. 
             </p>
         </div>
       </div>
