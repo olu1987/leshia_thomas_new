@@ -11,11 +11,10 @@
           <img class="img-responsive" src="img/bodhan-logo-xs.png" />
         </div>
         <div class="col-md-6">
-          <p>Shotgun are a startup that market themselves as an "uber for builders".
-            The idea being that people post jobs on the app, and builders are able to pick 
-            the job based on their proximity to the customer. I'm continuing to work with Shotgun
-            as they prepare to put the app into alpha testing in the very near future.
-            </p>
+          <p>Bodhan Consultants are in their own words - " a communications consultancy that helps financial 
+            companies achieve their communications goals. ". The brief was for logo and business card design. 
+            You can view the logo in use on the Bodhan website at <a target="_blank" href="https://bodhan.co.uk">bodhan.co.uk</a>.
+          </p>
         </div>
       </div>
       <div class="row feature-row">
@@ -25,10 +24,13 @@
       </div>
       <div class="row feature-row">
         <div class="col-md-8 col-md-offset-2">
-           <p>Shotgun are a startup that market themselves as an "uber for builders".
-            The idea being that people post jobs on the app, and builders are able to pick 
-            the job based on their proximity to the customer. I'm continuing to work with Shotgun
-            as they prepare to put the app into alpha testing in the very near future.
+           <p>Working with the client we decided on <em>Khmer MN</em> font type for the headings,
+             and <em>Merriweather Light</em> for all other text on business cards and other materials.
+             I chose the tree as inspiration for my logo design for its associations with life and growth.
+            </p>
+            <p>
+            Both I and the client were very happy with the results, and I have continued to work with Bodhan on a 
+              consulting basis.
             </p>
         </div>
       </div>
@@ -39,10 +41,7 @@
       </div>
       <div class="row footer-text-row pt-0">
         <div class="col-md-8 col-md-offset-2">
-           <p>Shotgun are a startup that market themselves as an "uber for builders".
-            The idea being that people post jobs on the app, and builders are able to pick 
-            the job based on their proximity to the customer. I'm continuing to work with Shotgun
-            as they prepare to put the app into alpha testing in the very near future.
+           <p>
             </p>
         </div>
       </div>
