@@ -1133,8 +1133,7 @@ h1, h2, h3, h4, h5 {
       margin-left: 0 !important;
       margin-right: 0 !important; }
   .lnt-bg .header-row {
-    display: block;
-    text-align: center; } }
+    display: block; } }
 
 @media (max-width: 1040px) {
   .home .header {
