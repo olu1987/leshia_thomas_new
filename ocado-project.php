@@ -31,7 +31,7 @@
       </div>
       <div class="row feature-row">
         <div class="col-md-6 ocado-overlapping-text-col two">
-         <h2>typography and color</h2>
+         <h2>typography and colour</h2>
             <p>Based on Ocado's current branding I chose <em>Helvetica Neue Medium</em> font type for the headings,
              and <em>Helvetica Neue Light</em> for all other text on business cards and other materials. 
             </p>

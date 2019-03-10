@@ -37,7 +37,7 @@
              Also the imagery and products are very colourful, so I didn't want the
              user to be overwhelmed by too much colour.
             </p>
-            <div class="col-xs-8 px-0 pt-50">
+            <div class="col-xs-8 px-0">
             <img class="img-responsive" src="img/lnt-color-palette.png" />
             </div>
         </div>
@@ -65,13 +65,13 @@
       <div class="row feature-row">
         <div class="col-md-10 col-md-offset-1">
            <div class="row">
-             <div class="col-md-4 col-sm-4 col-xs-6">
+             <div class="col-md-4 col-sm-4 col-xs-4">
                <img class="img-responsive screenshot" src="img/lnt-mobile-one.jpg" />
              </div>
-             <div class="col-md-4 col-sm-4 col-xs-6">
+             <div class="col-md-4 col-sm-4 col-xs-4">
                <img class="img-responsive screenshot" src="img/lnt-mobile-two.jpg" />
              </div>
-             <div class="col-md-4 col-sm-4 col-xs-6">
+             <div class="col-md-4 col-sm-4 col-xs-4">
                <img class="img-responsive screenshot" src="img/lnt-mobile-three.jpg" />
              </div>
            </div>

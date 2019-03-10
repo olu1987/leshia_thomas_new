@@ -67,7 +67,13 @@
   }
 
   .header-row, .header-text-row, .footer-text-row {
-    padding: 50px 0;
+    padding: 20px 0;
+  }
+
+  .lnt-typography.feature-row {
+    > div:nth-child(2) {
+       margin-top: 20px;
+    }
   }
 }
 
